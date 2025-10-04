@@ -1,4 +1,4 @@
-@"
+﻿@"
 # Python
 __pycache__/
 *.pyc
@@ -16,7 +16,7 @@ data/
 *.sqlite
 
 # Models & checkpoints
-*.pkl
+
 *.pt
 *.bin
 *.onnx
