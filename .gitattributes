@@ -1,4 +1,3 @@
-@"
 * text=auto
 *.ipynb -text
 *.png  binary
@@ -9,4 +8,3 @@
 *.pt   binary
 *.onnx binary
 *.joblib binary
-"@ | Out-File -Encoding UTF8 .gitattributes
