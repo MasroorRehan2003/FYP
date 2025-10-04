@@ -1,0 +1,1201 @@
+temperature,feels_like,humidity,wind_speed,weather_condition,time_of_day,season,mood,occasion,recommended_top,recommended_bottom,recommended_outer
+36.5,36.0,37,24.9,cloudy,evening,summer,neutral,party,shirt,cotton pants,none
+33.9,33.2,88,13.5,rain,night,summer,neutral,casual,shirt,pants,none
+32.6,34.0,70,19.0,clear,night,summer,bad,casual,tank top,shorts,none
+35.2,34.2,31,6.4,rain,night,summer,bad,formal,tank top,pants,none
+30.7,30.2,56,22.5,rain,evening,summer,neutral,work,tank top,pants,none
+34.5,33.3,72,22.4,cloudy,morning,summer,good,formal,kurta,cotton pants,none
+33.0,31.8,39,9.5,clear,evening,summer,neutral,casual,t-shirt,pants,none
+31.9,31.2,72,9.6,rain,night,summer,bad,formal,kurta,shorts,none
+35.0,35.0,90,16.0,rain,night,summer,bad,formal,tank top,cotton pants,none
+38.6,38.9,45,22.3,cloudy,afternoon,summer,neutral,work,t-shirt,cotton pants,none
+39.6,41.1,68,19.2,cloudy,afternoon,summer,good,work,tank top,pants,none
+32.7,34.0,54,16.3,clear,afternoon,summer,neutral,formal,tank top,skirt,none
+30.2,29.1,88,12.8,cloudy,night,summer,good,casual,shirt,shorts,none
+37.6,38.2,66,24.8,clear,afternoon,summer,neutral,work,tank top,cotton pants,none
+32.0,31.2,73,15.1,clear,evening,summer,neutral,casual,kurta,cotton pants,none
+29.5,30.3,72,16.3,clear,morning,summer,bad,casual,t-shirt,pants,none
+33.5,32.9,72,11.1,clear,morning,summer,neutral,formal,kurta,skirt,none
+34.7,35.5,88,23.5,cloudy,evening,summer,bad,formal,shirt,pants,none
+30.7,30.1,59,5.4,cloudy,afternoon,summer,neutral,party,kurta,skirt,none
+28.0,27.0,74,17.6,clear,night,summer,bad,formal,t-shirt,pants,none
+39.1,39.2,30,16.8,clear,evening,summer,bad,formal,kurta,pants,none
+30.7,31.7,34,21.8,cloudy,night,summer,good,party,shirt,shorts,none
+38.7,38.2,35,18.6,rain,afternoon,summer,good,casual,kurta,cotton pants,none
+37.2,37.8,34,22.2,rain,evening,summer,good,casual,shirt,skirt,none
+29.8,30.3,62,14.2,clear,afternoon,summer,good,party,shirt,shorts,none
+39.5,39.4,87,23.9,clear,morning,summer,neutral,formal,tank top,shorts,none
+29.1,29.8,48,19.4,cloudy,morning,summer,good,casual,shirt,skirt,none
+29.9,30.1,67,24.0,cloudy,afternoon,summer,bad,work,kurta,pants,none
+29.6,29.8,30,23.3,clear,afternoon,summer,neutral,work,t-shirt,shorts,none
+29.4,28.9,65,6.2,cloudy,evening,summer,good,work,kurta,pants,none
+32.3,31.1,35,11.3,rain,evening,summer,good,party,kurta,skirt,none
+32.7,31.4,80,7.9,clear,night,summer,bad,formal,shirt,cotton pants,none
+38.2,38.3,88,16.1,clear,morning,summer,neutral,work,tank top,shorts,none
+28.5,28.6,84,10.5,cloudy,afternoon,summer,good,formal,tank top,cotton pants,none
+38.7,38.0,71,18.4,cloudy,morning,summer,neutral,formal,shirt,shorts,none
+33.6,35.0,51,7.5,rain,afternoon,summer,bad,casual,kurta,shorts,none
+34.9,36.4,86,11.6,clear,evening,summer,bad,work,tank top,shorts,none
+29.7,31.1,87,5.1,rain,night,summer,neutral,casual,tank top,pants,none
+38.2,38.0,35,8.9,clear,afternoon,summer,bad,formal,t-shirt,cotton pants,none
+38.6,38.5,86,18.8,clear,night,summer,bad,casual,kurta,shorts,none
+38.0,38.6,33,22.4,cloudy,morning,summer,good,party,kurta,pants,none
+35.8,34.7,37,21.8,clear,evening,summer,bad,party,t-shirt,pants,none
+34.0,33.2,53,23.1,rain,morning,summer,good,party,tank top,shorts,none
+36.5,36.9,51,6.1,clear,morning,summer,good,party,kurta,cotton pants,none
+34.9,34.2,61,8.7,cloudy,morning,summer,good,formal,tank top,pants,none
+36.1,35.7,75,22.7,clear,afternoon,summer,good,formal,t-shirt,skirt,none
+33.7,35.2,76,20.6,cloudy,afternoon,summer,good,formal,shirt,skirt,none
+39.2,40.7,67,19.9,clear,evening,summer,good,casual,t-shirt,shorts,none
+31.1,32.0,39,10.9,rain,afternoon,summer,bad,formal,tank top,shorts,none
+38.7,38.2,81,5.1,rain,afternoon,summer,bad,formal,t-shirt,shorts,none
+30.9,31.9,66,14.7,cloudy,evening,summer,good,party,t-shirt,pants,none
+37.9,36.6,49,24.2,clear,evening,summer,bad,party,t-shirt,skirt,none
+38.5,40.0,50,11.2,clear,afternoon,summer,neutral,casual,t-shirt,skirt,none
+33.0,33.0,45,18.4,clear,morning,summer,neutral,party,shirt,shorts,none
+39.3,38.6,77,24.2,rain,afternoon,summer,good,casual,shirt,cotton pants,none
+34.4,33.6,50,15.1,cloudy,afternoon,summer,bad,party,tank top,skirt,none
+34.8,33.6,32,24.3,rain,night,summer,neutral,party,shirt,shorts,none
+39.5,40.8,86,20.5,rain,morning,summer,good,casual,tank top,cotton pants,none
+29.1,29.9,66,23.5,cloudy,morning,summer,bad,party,shirt,skirt,none
+34.8,34.9,51,18.9,cloudy,afternoon,summer,good,work,t-shirt,shorts,none
+33.1,32.4,60,24.6,cloudy,evening,summer,bad,formal,tank top,skirt,none
+35.3,36.4,81,8.3,clear,morning,summer,good,work,tank top,cotton pants,none
+34.9,36.3,55,12.9,rain,morning,summer,bad,work,t-shirt,shorts,none
+35.7,35.5,68,12.2,rain,morning,summer,neutral,formal,tank top,pants,none
+37.2,36.9,69,17.8,cloudy,evening,summer,neutral,casual,shirt,skirt,none
+36.4,37.7,81,12.5,rain,morning,summer,bad,formal,kurta,cotton pants,none
+34.4,35.5,79,18.1,clear,night,summer,bad,work,shirt,pants,none
+29.4,28.5,57,6.6,clear,morning,summer,good,party,kurta,shorts,none
+31.5,32.0,86,14.7,clear,evening,summer,good,party,kurta,pants,none
+39.2,37.9,45,17.5,clear,evening,summer,bad,casual,t-shirt,cotton pants,none
+35.0,34.0,36,22.9,clear,night,summer,neutral,casual,kurta,shorts,none
+30.5,31.2,75,17.0,clear,afternoon,summer,neutral,formal,kurta,pants,none
+30.6,29.3,41,11.1,rain,afternoon,summer,bad,work,tank top,pants,none
+33.8,35.0,62,5.7,clear,morning,summer,bad,formal,shirt,shorts,none
+39.3,38.6,35,22.1,cloudy,morning,summer,good,work,t-shirt,pants,none
+35.2,35.8,62,17.7,cloudy,evening,summer,bad,formal,tank top,cotton pants,none
+28.8,29.7,67,18.3,rain,evening,summer,good,casual,tank top,pants,none
+33.8,33.3,70,22.6,clear,night,summer,bad,casual,shirt,skirt,none
+38.4,38.4,33,17.4,cloudy,afternoon,summer,good,casual,shirt,shorts,none
+28.3,29.7,35,19.8,cloudy,afternoon,summer,bad,work,kurta,skirt,none
+39.9,41.1,51,19.3,rain,night,summer,good,formal,shirt,pants,none
+40.0,39.3,75,6.3,rain,morning,summer,neutral,formal,kurta,pants,none
+37.9,37.7,68,22.8,rain,afternoon,summer,neutral,work,t-shirt,skirt,none
+39.4,38.3,39,24.9,cloudy,afternoon,summer,good,casual,tank top,cotton pants,none
+32.5,33.7,35,13.7,cloudy,morning,summer,good,work,t-shirt,cotton pants,none
+29.5,29.1,76,8.6,cloudy,afternoon,summer,neutral,formal,tank top,cotton pants,none
+31.3,32.1,64,17.0,cloudy,night,summer,neutral,casual,t-shirt,pants,none
+34.9,33.5,79,8.6,rain,night,summer,good,formal,shirt,cotton pants,none
+33.3,33.5,59,21.1,clear,morning,summer,good,casual,kurta,skirt,none
+39.9,40.4,59,7.9,clear,afternoon,summer,neutral,casual,t-shirt,pants,none
+37.0,37.2,35,11.9,cloudy,night,summer,neutral,work,shirt,cotton pants,none
+38.7,38.1,81,24.9,cloudy,afternoon,summer,good,party,shirt,pants,none
+33.1,33.7,66,16.9,clear,night,summer,neutral,party,kurta,skirt,none
+29.9,31.1,79,21.4,rain,evening,summer,good,casual,t-shirt,shorts,none
+30.8,31.5,51,11.1,cloudy,afternoon,summer,bad,party,kurta,pants,none
+28.8,28.1,48,13.6,clear,night,summer,bad,formal,tank top,skirt,none
+30.8,31.4,87,8.4,clear,evening,summer,bad,casual,kurta,skirt,none
+35.5,35.6,51,7.6,cloudy,night,summer,neutral,party,t-shirt,cotton pants,none
+28.7,29.5,90,15.8,cloudy,evening,summer,good,casual,kurta,pants,none
+28.9,28.6,76,18.5,rain,evening,summer,bad,work,tank top,cotton pants,none
+37.9,38.2,59,10.4,rain,afternoon,summer,good,party,shirt,cotton pants,none
+36.3,35.3,62,12.7,rain,morning,summer,good,formal,kurta,skirt,none
+39.7,39.8,81,17.5,clear,night,summer,bad,party,tank top,shorts,none
+30.6,32.1,79,24.1,rain,afternoon,summer,good,party,shirt,cotton pants,none
+28.3,27.3,69,16.9,cloudy,afternoon,summer,bad,casual,shirt,shorts,none
+33.0,33.0,30,18.1,rain,night,summer,good,party,t-shirt,pants,none
+38.1,39.2,59,7.6,cloudy,evening,summer,neutral,work,t-shirt,pants,none
+36.0,35.4,56,14.6,clear,morning,summer,bad,work,t-shirt,cotton pants,none
+36.4,35.5,62,15.3,clear,evening,summer,good,formal,shirt,shorts,none
+38.8,39.8,39,20.9,clear,evening,summer,bad,formal,kurta,cotton pants,none
+33.1,34.2,73,10.9,clear,afternoon,summer,neutral,formal,shirt,skirt,none
+30.5,29.9,87,7.0,clear,afternoon,summer,neutral,casual,kurta,shorts,none
+39.3,39.2,66,15.5,cloudy,night,summer,neutral,party,t-shirt,skirt,none
+30.9,31.1,87,16.1,clear,morning,summer,good,work,kurta,shorts,none
+38.1,37.1,79,6.8,cloudy,morning,summer,bad,work,tank top,shorts,none
+30.6,31.1,84,8.6,rain,afternoon,summer,good,formal,kurta,cotton pants,none
+37.6,36.9,89,10.5,rain,evening,summer,bad,work,tank top,shorts,none
+31.6,30.4,33,20.7,cloudy,evening,summer,bad,work,kurta,cotton pants,none
+37.7,37.9,40,8.1,cloudy,afternoon,summer,bad,party,kurta,cotton pants,none
+38.5,37.3,61,11.6,rain,afternoon,summer,good,party,shirt,shorts,none
+31.9,31.5,68,20.7,cloudy,afternoon,summer,good,formal,tank top,skirt,none
+37.6,37.7,73,14.5,clear,evening,summer,neutral,party,kurta,pants,none
+29.2,28.8,87,18.2,clear,night,summer,neutral,casual,kurta,shorts,none
+32.4,31.6,66,9.7,cloudy,evening,summer,good,party,tank top,cotton pants,none
+31.6,32.2,77,10.4,clear,evening,summer,neutral,formal,t-shirt,cotton pants,none
+37.2,38.4,34,21.2,cloudy,night,summer,neutral,work,t-shirt,pants,none
+39.8,39.8,86,15.6,clear,afternoon,summer,good,formal,tank top,skirt,none
+30.5,31.7,60,7.0,clear,afternoon,summer,bad,casual,shirt,skirt,none
+35.5,35.0,31,14.6,cloudy,morning,summer,good,casual,t-shirt,shorts,none
+38.4,39.0,30,9.8,rain,afternoon,summer,good,party,tank top,skirt,none
+38.3,36.9,57,18.3,rain,evening,summer,good,formal,tank top,pants,none
+28.8,27.7,58,20.1,cloudy,afternoon,summer,neutral,work,t-shirt,cotton pants,none
+36.5,37.3,64,16.7,clear,morning,summer,good,casual,t-shirt,skirt,none
+36.7,35.9,40,12.4,cloudy,night,summer,neutral,party,tank top,pants,none
+37.9,36.7,85,24.3,cloudy,night,summer,neutral,casual,t-shirt,pants,none
+29.3,27.9,51,5.5,clear,morning,summer,neutral,work,tank top,cotton pants,none
+35.8,35.2,52,22.5,clear,night,summer,good,casual,shirt,skirt,none
+28.5,29.3,30,10.0,cloudy,afternoon,summer,good,casual,shirt,shorts,none
+37.4,38.5,35,9.3,rain,morning,summer,neutral,casual,t-shirt,shorts,none
+30.2,31.2,50,19.2,cloudy,morning,summer,good,formal,shirt,pants,none
+28.7,30.0,71,16.3,cloudy,afternoon,summer,good,formal,t-shirt,cotton pants,none
+38.8,38.0,31,15.7,cloudy,night,summer,neutral,work,tank top,shorts,none
+36.9,36.6,44,12.3,rain,night,summer,good,work,kurta,shorts,none
+33.9,34.1,31,8.2,clear,night,summer,good,formal,t-shirt,shorts,none
+29.0,27.7,37,7.1,cloudy,evening,summer,good,party,shirt,pants,none
+36.5,38.0,55,21.4,clear,morning,summer,good,casual,t-shirt,pants,none
+33.1,34.5,65,6.6,clear,afternoon,summer,neutral,formal,t-shirt,shorts,none
+36.0,36.3,68,7.5,rain,evening,summer,neutral,casual,t-shirt,pants,none
+33.3,32.1,81,17.3,cloudy,afternoon,summer,bad,party,tank top,cotton pants,none
+30.4,29.3,81,14.8,clear,evening,summer,neutral,work,kurta,pants,none
+34.1,35.0,80,21.0,clear,evening,summer,bad,party,kurta,pants,none
+28.9,29.6,64,18.5,clear,afternoon,summer,neutral,casual,t-shirt,shorts,none
+35.4,36.6,43,9.3,cloudy,afternoon,summer,bad,casual,tank top,skirt,none
+38.6,39.4,76,6.5,clear,evening,summer,good,work,shirt,skirt,none
+31.9,33.3,31,7.7,rain,afternoon,summer,neutral,formal,t-shirt,pants,none
+35.1,35.1,84,8.2,rain,morning,summer,bad,formal,tank top,cotton pants,none
+35.7,35.1,33,22.7,rain,afternoon,summer,neutral,work,tank top,cotton pants,none
+30.9,31.7,56,18.8,rain,night,summer,bad,work,tank top,pants,none
+39.5,39.5,67,21.6,cloudy,afternoon,summer,bad,casual,tank top,pants,none
+31.7,32.8,34,14.8,rain,night,summer,neutral,casual,shirt,skirt,none
+29.5,31.0,54,19.2,rain,evening,summer,bad,formal,tank top,pants,none
+29.8,28.7,45,19.6,cloudy,evening,summer,good,casual,kurta,shorts,none
+31.4,32.9,84,6.1,cloudy,morning,summer,good,formal,shirt,skirt,none
+35.3,34.0,62,12.9,cloudy,evening,summer,neutral,casual,shirt,shorts,none
+31.4,31.2,37,15.0,cloudy,evening,summer,neutral,formal,t-shirt,shorts,none
+31.6,31.7,36,17.1,cloudy,night,summer,good,work,tank top,pants,none
+33.5,32.0,57,14.4,rain,evening,summer,good,formal,t-shirt,pants,none
+38.2,37.9,31,7.1,clear,night,summer,bad,casual,shirt,cotton pants,none
+36.2,35.9,56,10.8,rain,night,summer,good,work,tank top,skirt,none
+36.3,35.5,35,10.4,rain,night,summer,bad,party,tank top,pants,none
+37.6,37.6,34,20.5,rain,evening,summer,neutral,party,t-shirt,cotton pants,none
+39.0,37.5,61,8.7,clear,evening,summer,good,party,tank top,skirt,none
+38.4,37.2,46,16.8,cloudy,evening,summer,bad,work,tank top,skirt,none
+37.0,37.1,84,17.6,clear,night,summer,good,casual,shirt,pants,none
+30.7,29.4,56,6.6,rain,night,summer,good,party,t-shirt,pants,none
+35.5,36.9,55,5.5,rain,night,summer,good,casual,shirt,cotton pants,none
+32.3,32.2,81,16.1,clear,evening,summer,good,formal,kurta,pants,none
+36.7,35.4,79,6.0,rain,afternoon,summer,bad,casual,tank top,skirt,none
+30.0,29.3,59,19.5,cloudy,morning,summer,neutral,formal,tank top,cotton pants,none
+33.8,35.3,33,8.4,cloudy,night,summer,good,work,t-shirt,shorts,none
+35.5,36.7,37,14.3,cloudy,night,summer,good,work,tank top,cotton pants,none
+38.4,37.8,82,14.6,cloudy,evening,summer,good,casual,kurta,cotton pants,none
+34.6,35.2,56,15.0,rain,afternoon,summer,bad,work,shirt,skirt,none
+34.4,33.4,67,9.6,rain,night,summer,good,work,tank top,pants,none
+37.3,38.1,33,14.2,clear,morning,summer,neutral,casual,shirt,skirt,none
+28.2,29.6,88,14.6,rain,afternoon,summer,bad,casual,tank top,skirt,none
+34.9,36.2,35,18.5,rain,afternoon,summer,bad,casual,t-shirt,cotton pants,none
+31.0,32.3,41,24.0,rain,morning,summer,neutral,formal,kurta,pants,none
+38.9,39.9,36,19.7,cloudy,morning,summer,neutral,party,t-shirt,shorts,none
+32.4,32.9,44,19.5,rain,night,summer,neutral,casual,tank top,skirt,none
+36.7,35.8,77,19.7,rain,afternoon,summer,neutral,formal,kurta,pants,none
+29.4,28.8,69,17.3,cloudy,morning,summer,neutral,work,shirt,cotton pants,none
+37.2,36.1,38,21.9,cloudy,night,summer,bad,party,t-shirt,cotton pants,none
+39.4,39.7,40,7.7,rain,night,summer,neutral,casual,shirt,skirt,none
+34.1,32.7,57,21.3,clear,evening,summer,bad,work,kurta,skirt,none
+34.5,33.9,78,19.2,cloudy,night,summer,good,party,t-shirt,cotton pants,none
+36.7,35.6,38,10.2,clear,morning,summer,bad,work,kurta,cotton pants,none
+31.7,31.8,33,20.3,rain,night,summer,good,work,kurta,shorts,none
+34.2,35.5,71,7.1,rain,afternoon,summer,neutral,casual,tank top,pants,none
+39.3,39.4,40,20.1,rain,morning,summer,bad,work,tank top,skirt,none
+33.1,33.4,69,13.3,rain,morning,summer,good,work,t-shirt,skirt,none
+33.7,32.2,47,12.5,clear,afternoon,summer,neutral,work,kurta,pants,none
+38.8,38.9,39,17.4,rain,night,summer,neutral,casual,kurta,skirt,none
+39.0,38.1,32,24.7,clear,evening,summer,neutral,work,t-shirt,pants,none
+36.3,37.7,48,17.8,cloudy,night,summer,neutral,party,shirt,cotton pants,none
+36.1,36.8,32,9.0,rain,night,summer,good,casual,shirt,cotton pants,none
+35.3,35.3,59,12.5,rain,morning,summer,bad,casual,t-shirt,shorts,none
+38.0,37.4,84,7.8,rain,night,summer,neutral,work,kurta,cotton pants,none
+40.0,38.7,70,22.2,rain,evening,summer,bad,party,t-shirt,pants,none
+28.9,28.6,77,21.7,cloudy,morning,summer,good,casual,kurta,cotton pants,none
+35.6,34.4,90,21.2,rain,afternoon,summer,neutral,work,kurta,cotton pants,none
+34.2,33.5,90,13.0,cloudy,night,summer,neutral,party,kurta,cotton pants,none
+34.4,34.0,41,22.9,clear,afternoon,summer,neutral,casual,shirt,pants,none
+28.6,29.3,41,19.3,cloudy,night,summer,neutral,party,shirt,shorts,none
+34.2,35.2,65,20.3,rain,night,summer,bad,party,shirt,pants,none
+37.0,38.5,89,24.8,rain,night,summer,neutral,casual,kurta,cotton pants,none
+34.3,33.4,70,23.2,rain,night,summer,good,casual,kurta,skirt,none
+39.9,41.0,68,11.0,rain,night,summer,good,party,t-shirt,shorts,none
+39.0,39.9,81,21.1,rain,night,summer,good,work,t-shirt,cotton pants,none
+36.0,36.2,65,24.0,cloudy,evening,summer,neutral,casual,t-shirt,shorts,none
+37.7,36.7,37,18.4,clear,afternoon,summer,neutral,formal,kurta,shorts,none
+36.1,35.9,36,17.1,cloudy,evening,summer,neutral,party,kurta,cotton pants,none
+30.0,30.3,49,16.2,cloudy,afternoon,summer,neutral,work,tank top,cotton pants,none
+35.1,34.7,80,23.8,clear,evening,summer,neutral,formal,shirt,pants,none
+33.5,33.1,86,5.9,cloudy,evening,summer,bad,formal,kurta,cotton pants,none
+37.4,38.4,49,8.5,rain,morning,summer,good,party,kurta,shorts,none
+31.8,30.5,53,24.9,clear,night,summer,bad,party,tank top,skirt,none
+37.1,38.1,70,23.3,clear,morning,summer,neutral,formal,t-shirt,pants,none
+35.1,34.3,39,5.4,clear,morning,summer,bad,casual,tank top,cotton pants,none
+32.7,34.2,68,19.9,cloudy,afternoon,summer,good,formal,tank top,cotton pants,none
+35.1,36.6,47,17.5,clear,night,summer,bad,casual,t-shirt,shorts,none
+36.5,36.7,88,11.1,rain,night,summer,bad,party,kurta,shorts,none
+28.8,29.5,44,21.7,rain,night,summer,good,party,t-shirt,shorts,none
+33.2,31.9,37,12.9,rain,evening,summer,bad,formal,tank top,shorts,none
+28.5,29.4,70,6.5,clear,morning,summer,bad,party,t-shirt,skirt,none
+39.5,39.3,57,22.5,clear,morning,summer,good,formal,t-shirt,shorts,none
+34.2,34.5,81,23.6,rain,afternoon,summer,neutral,formal,shirt,shorts,none
+31.2,29.8,55,13.8,cloudy,morning,summer,neutral,casual,tank top,shorts,none
+39.1,40.0,60,20.9,rain,night,summer,bad,party,t-shirt,skirt,none
+30.5,29.2,55,14.3,clear,night,summer,good,party,kurta,shorts,none
+29.8,28.5,45,5.6,rain,afternoon,summer,neutral,party,tank top,pants,none
+32.1,32.4,31,7.0,rain,evening,summer,bad,formal,kurta,shorts,none
+34.2,35.3,34,15.8,rain,night,summer,bad,work,kurta,cotton pants,none
+32.3,33.5,83,22.2,clear,afternoon,summer,bad,casual,t-shirt,pants,none
+31.5,32.7,59,6.7,clear,morning,summer,good,party,tank top,pants,none
+38.4,38.0,46,21.8,clear,evening,summer,good,work,kurta,pants,none
+28.9,29.2,71,20.8,clear,evening,summer,good,formal,kurta,cotton pants,none
+30.0,29.8,72,7.4,clear,morning,summer,bad,casual,kurta,skirt,none
+33.1,33.7,85,11.2,clear,night,summer,bad,work,t-shirt,shorts,none
+39.6,39.6,34,22.6,cloudy,night,summer,good,party,tank top,skirt,none
+35.7,34.4,54,20.7,rain,evening,summer,bad,casual,kurta,skirt,none
+34.7,34.9,59,9.7,rain,afternoon,summer,good,work,tank top,shorts,none
+29.7,28.7,85,7.9,rain,morning,summer,good,work,tank top,pants,none
+29.1,28.5,51,20.7,clear,morning,summer,bad,formal,shirt,pants,none
+34.2,34.6,87,6.4,rain,morning,summer,good,formal,shirt,skirt,none
+33.8,32.3,82,13.8,cloudy,afternoon,summer,bad,formal,kurta,skirt,none
+39.1,38.9,50,23.1,cloudy,evening,summer,good,party,tank top,cotton pants,none
+29.1,28.7,47,14.0,rain,night,summer,neutral,party,kurta,pants,none
+28.0,28.0,49,23.9,cloudy,evening,summer,neutral,casual,shirt,cotton pants,none
+28.9,27.4,79,12.3,clear,morning,summer,neutral,casual,t-shirt,cotton pants,none
+39.0,39.4,78,14.6,clear,morning,summer,good,casual,kurta,shorts,none
+39.6,39.3,34,14.3,clear,morning,summer,bad,casual,t-shirt,skirt,none
+39.9,40.1,45,5.1,rain,night,summer,bad,work,t-shirt,cotton pants,none
+35.4,34.8,87,21.5,rain,night,summer,good,casual,tank top,skirt,none
+36.0,35.8,83,9.9,rain,afternoon,summer,good,work,shirt,skirt,none
+38.4,37.6,59,22.6,clear,evening,summer,neutral,work,kurta,cotton pants,none
+28.4,29.6,47,24.1,rain,afternoon,summer,bad,casual,kurta,shorts,none
+36.2,35.7,68,13.5,cloudy,evening,summer,bad,party,t-shirt,shorts,none
+35.5,36.8,90,10.8,clear,evening,summer,neutral,formal,kurta,pants,none
+37.6,38.8,83,23.3,rain,evening,summer,good,formal,shirt,shorts,none
+28.4,27.7,57,12.7,cloudy,afternoon,summer,bad,party,shirt,pants,none
+38.6,38.8,57,23.4,rain,morning,summer,good,work,kurta,skirt,none
+37.8,39.0,64,24.3,cloudy,night,summer,neutral,party,shirt,shorts,none
+34.6,35.9,88,8.1,rain,afternoon,summer,good,work,shirt,cotton pants,none
+33.9,32.6,47,8.6,cloudy,afternoon,summer,bad,work,t-shirt,shorts,none
+37.2,38.5,45,22.3,cloudy,afternoon,summer,good,work,tank top,skirt,none
+33.2,33.3,66,11.2,clear,night,summer,neutral,work,tank top,pants,none
+28.8,29.9,55,20.1,cloudy,night,summer,bad,formal,kurta,shorts,none
+34.0,33.1,45,7.9,cloudy,afternoon,summer,good,formal,t-shirt,skirt,none
+38.5,37.3,88,12.6,clear,evening,summer,neutral,casual,t-shirt,skirt,none
+39.4,39.4,76,14.7,cloudy,night,summer,bad,party,shirt,skirt,none
+30.8,31.6,38,15.4,cloudy,night,summer,bad,formal,tank top,shorts,none
+34.7,34.9,87,6.3,cloudy,afternoon,summer,neutral,party,tank top,pants,none
+35.9,36.2,53,12.0,rain,afternoon,summer,neutral,party,tank top,shorts,none
+31.3,31.8,33,5.1,clear,morning,summer,bad,formal,shirt,pants,none
+39.4,39.1,44,12.4,clear,night,summer,neutral,casual,kurta,shorts,none
+40.0,38.9,81,12.3,cloudy,afternoon,summer,neutral,party,kurta,cotton pants,none
+39.9,40.0,72,15.8,cloudy,night,summer,neutral,formal,tank top,pants,none
+37.5,36.3,59,21.6,clear,morning,summer,bad,party,tank top,skirt,none
+34.0,34.1,62,11.9,cloudy,morning,summer,bad,casual,tank top,cotton pants,none
+28.7,28.5,62,8.5,cloudy,afternoon,summer,neutral,casual,kurta,skirt,none
+35.1,36.0,44,13.3,rain,afternoon,summer,neutral,party,tank top,skirt,none
+39.6,39.4,42,7.1,clear,afternoon,summer,neutral,casual,tank top,pants,none
+36.5,36.1,89,17.8,clear,night,summer,good,casual,kurta,cotton pants,none
+29.2,28.5,72,20.9,cloudy,afternoon,summer,neutral,casual,t-shirt,pants,none
+31.8,31.5,90,24.1,rain,night,summer,bad,casual,kurta,cotton pants,none
+37.4,36.5,52,5.6,cloudy,night,summer,bad,formal,kurta,cotton pants,none
+30.3,31.2,49,11.3,rain,evening,summer,bad,casual,tank top,cotton pants,none
+35.4,36.4,48,7.6,rain,evening,summer,neutral,party,t-shirt,pants,none
+33.2,32.6,43,6.1,clear,morning,summer,neutral,party,shirt,pants,none
+21.5,22.9,78,5.6,clear,evening,spring,good,casual,shirt,cotton pants,none
+25.3,26.3,52,22.2,cloudy,night,spring,bad,work,kurta,pants,none
+20.7,20.6,37,15.7,rain,night,spring,neutral,formal,kurta,pants,light jacket
+18.3,18.7,49,16.6,cloudy,evening,spring,good,casual,shirt,cotton pants,none
+18.8,18.1,42,6.5,rain,night,spring,neutral,work,t-shirt,pants,light jacket
+18.5,18.4,42,13.5,cloudy,morning,spring,good,party,shirt,jeans,none
+24.1,22.7,56,10.9,rain,afternoon,spring,neutral,casual,shirt,cotton pants,light jacket
+23.0,23.1,55,9.7,rain,evening,spring,good,work,t-shirt,cotton pants,light jacket
+22.7,22.1,51,11.7,clear,evening,spring,neutral,party,t-shirt,pants,none
+24.5,24.5,54,14.7,clear,morning,spring,neutral,party,t-shirt,cotton pants,none
+25.1,24.7,58,15.5,rain,afternoon,spring,neutral,party,shirt,jeans,light jacket
+23.8,24.5,50,12.4,clear,evening,spring,neutral,work,formal shirt,pants,none
+23.2,22.1,72,16.9,rain,evening,spring,good,formal,t-shirt,jeans,light jacket
+24.5,23.5,78,7.1,rain,afternoon,spring,good,formal,formal shirt,pants,light jacket
+22.0,22.2,71,5.2,clear,night,spring,bad,casual,t-shirt,pants,none
+21.6,21.7,56,20.9,clear,morning,spring,bad,party,formal shirt,cotton pants,none
+22.6,23.4,36,9.4,rain,night,spring,good,party,t-shirt,pants,light jacket
+24.4,23.1,36,10.4,clear,afternoon,spring,good,casual,kurta,pants,none
+23.3,23.5,67,23.2,clear,morning,spring,neutral,work,t-shirt,jeans,none
+21.6,21.2,36,23.2,clear,afternoon,spring,good,casual,kurta,pants,none
+25.6,25.7,62,24.7,rain,night,spring,bad,formal,shirt,cotton pants,light jacket
+24.6,25.9,61,23.6,rain,evening,spring,neutral,formal,kurta,cotton pants,light jacket
+18.4,18.3,60,24.9,cloudy,afternoon,spring,neutral,party,kurta,jeans,none
+24.0,22.6,72,23.7,cloudy,evening,spring,good,work,formal shirt,pants,none
+23.3,22.5,49,9.9,rain,evening,spring,bad,casual,t-shirt,cotton pants,light jacket
+23.8,22.7,71,8.4,rain,afternoon,spring,neutral,work,shirt,pants,light jacket
+19.9,20.8,59,7.3,clear,evening,spring,neutral,work,t-shirt,cotton pants,none
+24.5,25.5,75,13.8,cloudy,evening,spring,good,casual,kurta,cotton pants,none
+23.0,23.2,49,22.0,cloudy,evening,spring,good,casual,t-shirt,cotton pants,none
+20.3,21.2,56,22.1,rain,night,spring,good,party,kurta,jeans,light jacket
+24.9,25.2,70,22.9,rain,morning,spring,bad,party,kurta,pants,light jacket
+25.5,26.2,78,6.7,cloudy,morning,spring,good,work,kurta,cotton pants,none
+19.0,17.5,85,24.0,cloudy,evening,spring,neutral,work,kurta,cotton pants,none
+25.0,26.5,68,21.0,rain,night,spring,good,formal,shirt,pants,light jacket
+22.4,21.8,46,23.7,clear,afternoon,spring,neutral,party,kurta,pants,none
+24.7,25.1,76,13.5,cloudy,night,spring,neutral,party,formal shirt,cotton pants,none
+24.1,24.9,36,10.3,clear,afternoon,spring,bad,work,formal shirt,pants,none
+20.1,20.7,72,6.5,clear,evening,spring,bad,casual,shirt,jeans,none
+20.9,20.2,48,9.6,cloudy,evening,spring,bad,party,shirt,jeans,none
+19.8,19.5,83,23.0,clear,afternoon,spring,neutral,casual,shirt,jeans,none
+23.5,25.0,65,8.1,clear,evening,spring,bad,casual,formal shirt,jeans,none
+24.6,23.7,65,7.6,cloudy,afternoon,spring,neutral,formal,kurta,cotton pants,none
+23.4,22.7,44,7.4,rain,evening,spring,bad,casual,kurta,cotton pants,light jacket
+23.8,23.6,50,22.2,rain,evening,spring,neutral,formal,t-shirt,jeans,light jacket
+21.7,22.7,57,14.4,clear,night,spring,bad,casual,shirt,pants,none
+25.6,26.7,88,8.6,clear,afternoon,spring,neutral,casual,shirt,jeans,none
+22.7,23.4,35,7.9,clear,night,spring,good,formal,shirt,jeans,none
+25.0,25.7,43,11.8,rain,morning,spring,good,casual,t-shirt,cotton pants,light jacket
+18.6,19.3,44,23.6,rain,afternoon,spring,neutral,work,t-shirt,jeans,light jacket
+20.6,20.1,45,9.8,clear,night,spring,good,casual,formal shirt,cotton pants,none
+18.7,18.4,74,9.5,rain,afternoon,spring,bad,party,shirt,jeans,light jacket
+23.0,23.8,37,18.9,cloudy,evening,spring,bad,work,kurta,cotton pants,none
+23.8,24.9,32,19.2,rain,morning,spring,bad,work,shirt,cotton pants,light jacket
+22.3,23.4,47,10.5,cloudy,morning,spring,neutral,party,formal shirt,cotton pants,none
+19.8,18.4,65,19.7,clear,afternoon,spring,neutral,casual,formal shirt,cotton pants,none
+20.5,21.7,66,12.0,rain,night,spring,bad,formal,formal shirt,jeans,light jacket
+23.0,21.7,50,11.5,rain,evening,spring,good,party,formal shirt,pants,light jacket
+19.1,17.6,64,20.0,clear,evening,spring,bad,casual,shirt,jeans,none
+25.0,24.7,69,17.9,rain,afternoon,spring,neutral,work,t-shirt,jeans,light jacket
+19.0,20.4,62,11.2,clear,afternoon,spring,good,casual,formal shirt,cotton pants,none
+18.7,17.8,31,22.5,cloudy,evening,spring,good,formal,kurta,pants,none
+20.6,20.9,40,14.5,rain,evening,spring,neutral,party,shirt,pants,light jacket
+18.2,17.3,81,13.1,rain,night,spring,neutral,casual,shirt,pants,light jacket
+22.0,22.7,72,24.6,rain,night,spring,bad,formal,formal shirt,pants,light jacket
+23.2,23.7,62,11.8,clear,afternoon,spring,bad,formal,kurta,cotton pants,none
+23.7,24.4,56,14.3,cloudy,night,spring,good,casual,kurta,pants,none
+18.2,18.6,84,12.5,clear,night,spring,bad,party,kurta,cotton pants,none
+18.7,19.6,56,22.3,cloudy,afternoon,spring,good,work,formal shirt,cotton pants,none
+20.4,19.3,63,11.8,rain,night,spring,neutral,party,kurta,cotton pants,light jacket
+20.4,19.9,38,14.5,cloudy,evening,spring,neutral,formal,shirt,pants,none
+24.1,25.0,89,17.7,cloudy,afternoon,spring,bad,casual,formal shirt,pants,none
+22.6,21.9,38,9.8,clear,night,spring,good,formal,formal shirt,cotton pants,none
+20.9,20.4,46,7.6,cloudy,morning,spring,neutral,casual,kurta,pants,none
+23.7,24.7,35,21.2,rain,night,spring,neutral,party,t-shirt,pants,light jacket
+23.5,24.1,68,18.5,cloudy,afternoon,spring,bad,formal,t-shirt,cotton pants,none
+19.9,20.6,90,19.3,clear,night,spring,good,party,formal shirt,cotton pants,none
+20.4,21.4,52,14.4,cloudy,night,spring,good,casual,formal shirt,jeans,none
+18.1,16.6,48,15.8,cloudy,morning,spring,neutral,casual,t-shirt,pants,none
+23.4,24.5,86,12.0,rain,night,spring,neutral,work,t-shirt,cotton pants,light jacket
+21.1,21.8,44,13.8,rain,evening,spring,good,formal,formal shirt,pants,light jacket
+25.9,25.2,56,22.9,cloudy,afternoon,spring,neutral,formal,formal shirt,cotton pants,none
+23.5,25.0,51,12.0,clear,night,spring,good,formal,shirt,cotton pants,none
+18.9,19.1,80,18.5,rain,night,spring,good,casual,kurta,jeans,light jacket
+18.9,20.1,78,6.9,cloudy,afternoon,spring,bad,party,kurta,jeans,none
+21.3,20.9,69,22.5,clear,night,spring,neutral,party,kurta,pants,none
+19.2,18.4,76,22.6,rain,night,spring,neutral,party,shirt,cotton pants,light jacket
+22.8,23.9,43,22.1,rain,night,spring,bad,work,shirt,pants,light jacket
+18.2,18.6,56,21.9,rain,afternoon,spring,neutral,formal,t-shirt,cotton pants,light jacket
+23.1,24.1,76,16.1,cloudy,evening,spring,bad,casual,formal shirt,pants,none
+21.0,21.4,67,17.3,clear,night,spring,bad,work,shirt,pants,none
+24.4,23.5,60,9.6,cloudy,night,spring,good,formal,t-shirt,jeans,none
+25.4,24.0,47,18.2,rain,night,spring,neutral,formal,kurta,jeans,light jacket
+19.9,19.2,38,24.0,rain,afternoon,spring,bad,casual,t-shirt,cotton pants,light jacket
+21.2,21.0,33,12.8,cloudy,night,spring,neutral,party,shirt,jeans,none
+24.8,24.4,57,12.8,cloudy,afternoon,spring,bad,work,shirt,jeans,none
+18.2,17.6,66,7.5,clear,night,spring,neutral,work,formal shirt,jeans,none
+19.3,18.4,50,23.0,cloudy,evening,spring,good,party,kurta,jeans,none
+19.4,20.4,61,20.8,clear,morning,spring,bad,work,kurta,pants,none
+19.6,19.2,87,10.9,cloudy,morning,spring,neutral,formal,shirt,pants,none
+24.4,23.3,43,10.3,clear,evening,spring,good,party,formal shirt,cotton pants,none
+18.5,17.3,33,10.7,cloudy,night,spring,good,formal,shirt,pants,none
+23.0,23.0,76,21.1,cloudy,evening,spring,bad,party,t-shirt,cotton pants,none
+25.6,26.9,54,7.6,cloudy,afternoon,spring,good,party,formal shirt,jeans,none
+21.2,20.8,88,18.7,clear,night,spring,good,party,t-shirt,cotton pants,none
+23.7,22.6,78,15.5,cloudy,morning,spring,good,party,kurta,pants,none
+24.8,25.2,74,16.8,clear,afternoon,spring,neutral,casual,t-shirt,pants,none
+24.8,26.3,67,23.9,clear,morning,spring,bad,casual,shirt,jeans,none
+24.8,25.7,63,15.2,rain,night,spring,bad,formal,shirt,pants,light jacket
+21.4,20.5,36,7.1,cloudy,evening,spring,good,work,shirt,pants,none
+25.0,25.0,67,13.3,rain,evening,spring,bad,casual,formal shirt,pants,light jacket
+20.8,19.5,60,12.2,rain,morning,spring,neutral,casual,t-shirt,jeans,light jacket
+18.3,19.0,41,8.5,cloudy,morning,spring,neutral,formal,t-shirt,jeans,none
+18.8,19.8,65,23.3,clear,night,spring,bad,work,kurta,cotton pants,none
+24.9,25.9,47,7.4,rain,morning,spring,bad,casual,kurta,cotton pants,light jacket
+22.7,22.1,86,19.7,cloudy,afternoon,spring,good,work,shirt,jeans,none
+24.6,25.9,67,11.7,cloudy,evening,spring,neutral,casual,shirt,cotton pants,none
+21.3,21.5,67,13.6,cloudy,evening,spring,good,casual,kurta,cotton pants,none
+22.7,21.3,77,17.3,cloudy,morning,spring,bad,party,t-shirt,pants,none
+25.2,26.2,53,11.7,cloudy,evening,spring,bad,formal,t-shirt,pants,none
+19.3,18.8,90,21.5,cloudy,night,spring,neutral,casual,t-shirt,cotton pants,none
+21.1,19.9,71,18.2,cloudy,morning,spring,bad,party,kurta,jeans,none
+25.3,24.2,45,23.1,cloudy,afternoon,spring,good,work,kurta,pants,none
+21.8,22.4,52,15.5,rain,afternoon,spring,neutral,party,t-shirt,jeans,light jacket
+20.1,21.3,57,13.9,cloudy,night,spring,good,casual,shirt,jeans,none
+18.5,19.7,43,6.7,rain,morning,spring,bad,formal,kurta,pants,light jacket
+18.8,17.7,43,18.6,clear,night,spring,good,work,formal shirt,pants,none
+24.8,25.6,38,13.3,clear,morning,spring,good,work,t-shirt,jeans,none
+20.1,21.3,55,9.5,cloudy,afternoon,spring,good,work,formal shirt,jeans,none
+20.3,19.3,88,7.9,rain,afternoon,spring,bad,party,shirt,cotton pants,light jacket
+22.7,23.1,78,18.6,cloudy,morning,spring,neutral,work,t-shirt,cotton pants,none
+20.8,19.3,35,19.5,cloudy,evening,spring,neutral,casual,shirt,pants,none
+25.9,26.4,65,6.5,clear,evening,spring,bad,party,t-shirt,jeans,none
+23.9,23.6,58,16.9,rain,afternoon,spring,good,casual,t-shirt,jeans,light jacket
+24.6,23.8,84,11.1,rain,night,spring,good,party,kurta,pants,light jacket
+19.4,19.8,69,6.1,rain,morning,spring,neutral,party,formal shirt,pants,light jacket
+23.6,24.3,32,11.7,clear,morning,spring,neutral,work,t-shirt,pants,none
+26.0,24.9,35,22.4,cloudy,morning,spring,neutral,casual,formal shirt,pants,none
+18.7,19.5,46,19.9,cloudy,evening,spring,bad,party,formal shirt,cotton pants,none
+20.8,20.3,49,13.9,rain,afternoon,spring,bad,casual,kurta,cotton pants,light jacket
+21.1,22.5,52,23.1,rain,night,spring,neutral,party,shirt,pants,light jacket
+23.0,23.1,58,7.8,rain,afternoon,spring,neutral,work,formal shirt,jeans,light jacket
+23.4,22.9,71,16.0,cloudy,night,spring,good,work,t-shirt,jeans,none
+24.7,24.2,63,5.0,rain,night,spring,neutral,party,kurta,cotton pants,light jacket
+23.7,23.0,73,21.3,cloudy,night,spring,good,work,formal shirt,pants,none
+24.2,24.0,53,17.5,rain,afternoon,spring,neutral,casual,shirt,jeans,light jacket
+18.1,18.4,72,5.2,cloudy,night,spring,neutral,party,formal shirt,jeans,none
+20.4,21.8,35,16.6,cloudy,afternoon,spring,good,formal,shirt,cotton pants,none
+22.9,23.9,50,8.2,clear,evening,spring,neutral,work,t-shirt,pants,none
+19.0,19.8,50,13.2,rain,evening,spring,bad,work,t-shirt,cotton pants,light jacket
+18.9,19.1,60,20.8,clear,afternoon,spring,neutral,work,formal shirt,pants,none
+21.4,20.1,51,14.3,rain,evening,spring,neutral,party,shirt,cotton pants,light jacket
+19.3,18.1,73,12.9,clear,evening,spring,good,casual,shirt,jeans,none
+24.0,24.7,51,6.3,clear,night,spring,neutral,work,t-shirt,pants,none
+24.3,25.0,87,7.9,rain,evening,spring,good,formal,t-shirt,pants,light jacket
+23.8,23.9,65,6.4,rain,night,spring,neutral,work,t-shirt,pants,light jacket
+23.5,24.5,52,14.0,rain,morning,spring,neutral,formal,kurta,pants,light jacket
+21.2,22.4,52,19.6,rain,afternoon,spring,good,formal,shirt,cotton pants,light jacket
+18.7,20.2,35,17.9,clear,night,spring,bad,casual,formal shirt,cotton pants,none
+24.6,23.1,85,11.4,clear,morning,spring,bad,formal,kurta,jeans,none
+24.3,25.7,31,24.1,rain,morning,spring,neutral,formal,t-shirt,pants,light jacket
+23.9,24.8,37,19.1,clear,evening,spring,bad,casual,formal shirt,cotton pants,none
+24.1,22.8,72,12.8,rain,night,spring,bad,work,t-shirt,cotton pants,light jacket
+18.3,18.9,47,12.9,cloudy,morning,spring,bad,casual,kurta,pants,none
+22.4,22.6,85,11.2,cloudy,morning,spring,neutral,party,kurta,pants,none
+22.7,23.9,44,20.2,clear,morning,spring,good,party,shirt,cotton pants,none
+20.7,20.6,54,11.3,cloudy,afternoon,spring,good,work,t-shirt,jeans,none
+25.3,23.9,49,12.3,cloudy,morning,spring,bad,party,formal shirt,jeans,none
+18.2,19.5,52,9.1,clear,night,spring,neutral,party,shirt,cotton pants,none
+24.8,25.0,80,12.7,clear,afternoon,spring,neutral,work,formal shirt,jeans,none
+18.9,20.0,64,22.9,clear,evening,spring,bad,casual,formal shirt,jeans,none
+25.3,24.1,53,11.1,rain,afternoon,spring,neutral,casual,kurta,cotton pants,light jacket
+24.7,25.0,48,7.8,clear,evening,spring,neutral,party,kurta,cotton pants,none
+22.0,21.5,62,10.5,rain,afternoon,spring,good,party,kurta,jeans,light jacket
+18.8,17.7,79,9.7,cloudy,evening,spring,good,party,t-shirt,pants,none
+24.9,23.5,90,13.2,rain,morning,spring,neutral,party,shirt,cotton pants,light jacket
+21.5,21.4,61,8.2,clear,afternoon,spring,neutral,formal,formal shirt,pants,none
+22.3,20.9,59,6.5,cloudy,evening,spring,good,casual,shirt,jeans,none
+22.3,23.2,41,18.1,cloudy,afternoon,spring,neutral,formal,formal shirt,cotton pants,none
+26.0,26.6,70,5.8,cloudy,morning,spring,good,formal,formal shirt,cotton pants,none
+22.3,23.2,34,14.7,clear,evening,spring,good,party,t-shirt,pants,none
+23.3,24.2,65,16.3,clear,evening,spring,bad,party,formal shirt,cotton pants,none
+24.8,24.4,77,22.2,rain,evening,spring,good,work,shirt,pants,light jacket
+24.2,25.4,38,5.6,rain,afternoon,spring,good,party,t-shirt,jeans,light jacket
+20.7,20.0,30,11.9,cloudy,morning,spring,neutral,formal,kurta,pants,none
+18.2,18.4,50,10.5,rain,evening,spring,good,work,formal shirt,cotton pants,light jacket
+24.5,25.4,76,8.4,rain,night,spring,good,party,kurta,jeans,light jacket
+24.4,23.1,34,14.0,rain,morning,spring,bad,casual,shirt,pants,light jacket
+21.5,21.2,68,5.2,rain,afternoon,spring,good,work,shirt,jeans,light jacket
+20.4,21.6,81,17.7,clear,evening,spring,good,party,kurta,jeans,none
+24.4,25.5,76,20.1,rain,morning,spring,neutral,casual,kurta,cotton pants,light jacket
+22.1,22.2,78,21.0,cloudy,afternoon,spring,good,party,kurta,cotton pants,none
+19.4,18.7,30,19.8,clear,evening,spring,neutral,casual,kurta,jeans,none
+23.4,22.3,84,17.7,cloudy,evening,spring,neutral,party,formal shirt,cotton pants,none
+18.4,19.6,46,23.9,clear,morning,spring,good,work,t-shirt,jeans,none
+21.8,22.2,33,13.0,cloudy,afternoon,spring,bad,work,formal shirt,cotton pants,none
+21.8,20.7,31,7.5,rain,evening,spring,bad,party,t-shirt,cotton pants,light jacket
+19.3,19.1,54,18.8,rain,night,spring,bad,formal,kurta,cotton pants,light jacket
+22.8,23.8,75,7.4,clear,morning,spring,neutral,party,shirt,jeans,none
+22.3,22.2,80,19.6,clear,morning,spring,neutral,casual,kurta,pants,none
+24.9,26.0,36,24.9,cloudy,night,spring,bad,party,t-shirt,jeans,none
+22.4,22.4,71,22.0,rain,afternoon,spring,bad,party,shirt,jeans,light jacket
+18.8,18.9,78,20.4,cloudy,night,spring,good,formal,shirt,cotton pants,none
+23.4,23.4,63,10.8,rain,morning,spring,neutral,formal,t-shirt,jeans,light jacket
+20.7,21.1,73,15.4,rain,afternoon,spring,bad,work,formal shirt,cotton pants,light jacket
+18.1,18.6,81,12.7,cloudy,afternoon,spring,bad,casual,kurta,pants,none
+25.2,26.3,82,22.0,cloudy,morning,spring,good,work,kurta,jeans,none
+19.5,19.1,85,16.8,cloudy,afternoon,spring,good,party,t-shirt,cotton pants,none
+23.0,22.9,67,14.9,cloudy,morning,spring,neutral,formal,kurta,jeans,none
+25.5,26.1,39,15.9,cloudy,evening,spring,neutral,work,t-shirt,jeans,none
+20.9,21.1,71,23.2,cloudy,morning,spring,good,formal,kurta,jeans,none
+25.4,26.1,71,12.9,rain,night,spring,good,work,shirt,jeans,light jacket
+23.6,23.3,63,24.5,clear,morning,spring,neutral,work,shirt,jeans,none
+21.8,20.6,50,13.4,clear,afternoon,spring,good,formal,kurta,pants,none
+18.7,18.0,44,11.6,clear,morning,spring,bad,casual,shirt,jeans,none
+19.6,20.5,55,13.2,cloudy,night,spring,bad,casual,shirt,jeans,none
+20.5,20.4,35,13.0,rain,evening,spring,bad,casual,shirt,jeans,light jacket
+22.4,23.5,49,6.9,rain,evening,spring,neutral,formal,t-shirt,cotton pants,light jacket
+22.0,22.8,38,10.7,cloudy,afternoon,spring,good,work,shirt,cotton pants,none
+20.7,21.2,73,11.8,clear,afternoon,spring,bad,casual,t-shirt,cotton pants,none
+22.1,21.3,33,22.7,rain,evening,spring,neutral,formal,shirt,jeans,light jacket
+19.2,18.4,81,13.1,rain,afternoon,spring,neutral,party,formal shirt,pants,light jacket
+18.6,19.4,54,10.6,clear,morning,spring,neutral,work,formal shirt,cotton pants,none
+20.2,21.3,62,7.4,cloudy,afternoon,spring,neutral,formal,shirt,pants,none
+20.2,20.5,79,16.4,clear,afternoon,spring,neutral,casual,formal shirt,pants,none
+23.3,21.8,89,13.7,cloudy,morning,spring,neutral,party,formal shirt,pants,none
+21.4,20.2,40,6.8,cloudy,night,spring,neutral,casual,kurta,jeans,none
+20.3,19.9,57,13.4,cloudy,morning,spring,neutral,party,shirt,pants,none
+21.4,22.2,87,22.8,cloudy,evening,spring,neutral,work,kurta,jeans,none
+25.9,26.2,64,18.4,cloudy,afternoon,spring,bad,formal,kurta,pants,none
+24.2,25.4,56,5.4,cloudy,afternoon,spring,good,formal,formal shirt,jeans,none
+21.0,21.6,49,23.7,cloudy,night,spring,bad,casual,t-shirt,jeans,none
+18.7,19.5,49,11.3,clear,night,spring,good,casual,t-shirt,pants,none
+22.6,23.2,46,20.6,cloudy,evening,spring,neutral,work,t-shirt,pants,none
+25.3,24.4,69,13.4,rain,afternoon,spring,neutral,party,shirt,pants,light jacket
+20.4,21.0,36,13.8,rain,evening,spring,bad,formal,formal shirt,pants,light jacket
+18.4,19.3,37,23.8,clear,night,spring,neutral,formal,kurta,pants,none
+21.4,22.5,32,19.4,clear,afternoon,spring,good,work,kurta,jeans,none
+23.2,24.3,42,12.5,clear,night,spring,neutral,work,kurta,cotton pants,none
+23.4,24.5,58,20.4,clear,night,spring,bad,work,t-shirt,jeans,none
+19.4,19.9,60,5.5,clear,afternoon,spring,neutral,formal,formal shirt,cotton pants,none
+18.6,17.9,42,16.4,cloudy,afternoon,spring,good,formal,formal shirt,cotton pants,none
+20.5,19.2,36,21.0,clear,evening,spring,bad,party,shirt,pants,none
+22.3,22.0,62,18.1,clear,afternoon,spring,neutral,party,t-shirt,cotton pants,none
+23.6,24.2,52,24.4,cloudy,evening,spring,neutral,work,t-shirt,jeans,none
+21.2,22.2,88,23.6,rain,morning,spring,bad,formal,formal shirt,jeans,light jacket
+18.1,17.2,59,15.8,rain,morning,spring,neutral,work,formal shirt,cotton pants,light jacket
+20.1,20.0,41,8.3,rain,evening,spring,neutral,formal,kurta,pants,light jacket
+18.5,19.8,52,11.0,clear,morning,spring,good,party,kurta,jeans,none
+24.3,25.7,54,5.9,cloudy,evening,spring,good,formal,shirt,cotton pants,none
+19.3,18.2,60,18.9,cloudy,morning,spring,neutral,work,shirt,cotton pants,none
+20.2,20.2,78,6.6,rain,morning,spring,bad,party,kurta,jeans,light jacket
+24.1,24.5,63,19.1,cloudy,night,spring,bad,party,shirt,pants,none
+19.7,20.4,68,22.0,cloudy,morning,spring,good,work,t-shirt,cotton pants,none
+21.8,20.7,36,8.0,cloudy,night,spring,good,party,shirt,pants,none
+24.3,24.6,30,23.7,rain,afternoon,spring,good,work,formal shirt,jeans,light jacket
+25.0,24.2,41,7.8,clear,evening,spring,good,formal,t-shirt,jeans,none
+23.0,23.9,56,9.5,clear,afternoon,spring,neutral,casual,shirt,jeans,none
+19.1,19.1,42,22.6,clear,afternoon,spring,good,party,formal shirt,jeans,none
+25.2,24.5,67,9.0,rain,morning,spring,good,work,shirt,cotton pants,light jacket
+19.1,18.5,64,20.2,rain,night,spring,neutral,casual,formal shirt,jeans,light jacket
+20.4,21.2,50,22.2,rain,evening,spring,bad,casual,kurta,pants,light jacket
+23.9,24.6,84,8.8,cloudy,evening,spring,neutral,party,t-shirt,jeans,none
+22.9,23.6,84,24.6,clear,afternoon,spring,neutral,work,kurta,pants,none
+21.1,19.8,65,22.3,clear,night,spring,neutral,party,shirt,pants,none
+21.9,22.3,67,5.3,clear,afternoon,spring,good,formal,t-shirt,pants,none
+23.3,23.5,61,5.4,cloudy,evening,spring,bad,formal,kurta,cotton pants,none
+22.7,22.9,71,19.8,cloudy,morning,spring,good,work,t-shirt,pants,none
+24.5,23.1,56,20.5,clear,night,spring,bad,formal,t-shirt,jeans,none
+23.8,23.4,52,6.4,clear,night,spring,bad,formal,formal shirt,jeans,none
+20.5,21.1,38,6.1,rain,afternoon,spring,neutral,formal,formal shirt,pants,light jacket
+21.0,20.0,35,13.4,clear,night,spring,neutral,party,kurta,pants,none
+21.0,19.8,58,7.7,clear,afternoon,spring,bad,party,formal shirt,jeans,none
+20.4,19.7,80,16.4,clear,night,spring,neutral,party,t-shirt,jeans,none
+19.8,18.4,65,18.8,rain,evening,spring,neutral,formal,formal shirt,pants,light jacket
+21.1,21.0,57,22.6,rain,night,spring,bad,formal,kurta,cotton pants,light jacket
+22.1,23.4,81,25.0,cloudy,afternoon,spring,good,party,kurta,jeans,none
+21.7,20.5,82,19.9,cloudy,evening,spring,good,party,formal shirt,pants,none
+25.5,26.5,77,20.3,clear,evening,spring,good,formal,formal shirt,pants,none
+25.4,23.9,67,9.7,cloudy,night,spring,bad,casual,formal shirt,jeans,none
+24.7,23.5,61,13.4,clear,afternoon,spring,neutral,formal,kurta,jeans,none
+18.5,17.3,58,7.0,rain,evening,spring,neutral,work,t-shirt,jeans,light jacket
+21.6,21.2,40,23.9,rain,morning,spring,bad,work,shirt,jeans,light jacket
+25.7,24.7,82,5.6,clear,evening,spring,neutral,work,kurta,cotton pants,none
+23.3,23.3,66,17.7,cloudy,afternoon,spring,bad,casual,shirt,cotton pants,none
+23.3,24.6,74,13.9,cloudy,afternoon,spring,neutral,party,shirt,jeans,none
+23.0,23.3,40,13.9,rain,afternoon,spring,good,work,formal shirt,pants,light jacket
+19.1,18.2,32,20.2,rain,evening,spring,neutral,formal,shirt,jeans,light jacket
+18.5,19.0,42,9.4,cloudy,evening,spring,neutral,party,t-shirt,jeans,none
+18.9,17.7,75,10.8,cloudy,afternoon,spring,neutral,formal,shirt,pants,none
+20.5,20.7,80,21.7,cloudy,evening,spring,neutral,party,kurta,jeans,none
+19.3,19.2,39,12.7,cloudy,night,spring,bad,casual,t-shirt,pants,none
+19.9,18.8,83,20.8,cloudy,afternoon,spring,bad,formal,formal shirt,cotton pants,none
+24.2,23.7,85,11.6,cloudy,morning,spring,neutral,party,formal shirt,jeans,none
+22.6,23.2,63,11.8,rain,night,spring,bad,party,t-shirt,pants,light jacket
+21.2,20.1,59,9.8,cloudy,evening,spring,bad,formal,shirt,jeans,none
+22.7,24.1,87,14.1,clear,night,spring,neutral,casual,formal shirt,pants,none
+22.4,21.2,62,15.3,rain,afternoon,spring,bad,work,formal shirt,cotton pants,light jacket
+20.8,19.4,49,11.0,cloudy,afternoon,spring,good,party,kurta,cotton pants,none
+24.4,24.7,40,14.4,cloudy,afternoon,spring,neutral,party,kurta,pants,none
+24.0,23.4,72,14.6,rain,afternoon,spring,good,work,shirt,cotton pants,light jacket
+18.5,19.6,54,11.0,clear,afternoon,fall,bad,work,formal shirt,pants,light jacket
+20.2,21.7,69,13.3,clear,evening,fall,neutral,formal,long sleeves,cotton pants,light jacket
+20.1,20.8,45,7.7,clear,evening,fall,good,party,long sleeves,pants,light jacket
+16.5,16.3,66,14.1,clear,afternoon,fall,neutral,formal,shirt,pants,light jacket
+19.5,18.7,59,14.0,clear,evening,fall,bad,work,shirt,trousers,light jacket
+23.0,23.1,85,9.4,clear,evening,fall,bad,work,kurta,cotton pants,light jacket
+21.7,20.6,81,14.6,clear,afternoon,fall,neutral,casual,long sleeves,trousers,light jacket
+22.8,22.3,62,5.4,clear,morning,fall,neutral,work,kurta,cotton pants,light jacket
+21.3,20.6,72,23.5,cloudy,morning,fall,neutral,formal,kurta,cotton pants,jacket
+20.1,21.3,86,12.5,clear,morning,fall,good,casual,long sleeves,cotton pants,light jacket
+19.9,19.3,43,19.7,cloudy,afternoon,fall,good,work,formal shirt,trousers,jacket
+24.7,25.0,86,20.9,cloudy,night,fall,good,casual,long sleeves,pants,jacket
+19.9,19.3,88,17.3,rain,morning,fall,good,formal,shirt,trousers,jacket
+16.3,17.8,47,18.8,clear,evening,fall,good,formal,kurta,trousers,light jacket
+17.9,16.6,35,5.8,cloudy,afternoon,fall,good,work,long sleeves,trousers,jacket
+19.3,20.2,74,9.3,rain,night,fall,good,work,long sleeves,cotton pants,jacket
+18.1,17.7,90,13.3,cloudy,night,fall,bad,work,kurta,pants,jacket
+20.2,18.7,33,18.0,cloudy,morning,fall,neutral,formal,shirt,trousers,jacket
+17.5,17.6,63,10.0,clear,morning,fall,neutral,work,shirt,cotton pants,light jacket
+23.8,24.5,46,9.3,clear,night,fall,good,formal,shirt,trousers,light jacket
+20.7,21.3,84,16.1,rain,evening,fall,good,casual,formal shirt,trousers,jacket
+19.0,19.9,62,15.5,cloudy,night,fall,bad,work,shirt,trousers,jacket
+18.2,16.9,76,19.0,clear,evening,fall,neutral,party,long sleeves,jeans,light jacket
+20.2,19.2,43,7.5,rain,night,fall,neutral,work,kurta,cotton pants,jacket
+16.3,14.9,55,20.7,cloudy,afternoon,fall,good,formal,formal shirt,pants,jacket
+24.5,23.2,50,7.2,cloudy,night,fall,bad,work,kurta,trousers,jacket
+18.5,19.6,64,7.3,cloudy,afternoon,fall,bad,casual,shirt,trousers,jacket
+17.9,18.0,67,25.0,clear,night,fall,neutral,party,long sleeves,jeans,light jacket
+20.0,18.5,70,23.9,clear,evening,fall,bad,work,formal shirt,pants,light jacket
+20.8,20.7,63,14.9,clear,night,fall,neutral,formal,formal shirt,trousers,light jacket
+19.1,19.0,60,14.8,rain,morning,fall,good,work,formal shirt,cotton pants,jacket
+17.1,17.4,55,18.7,rain,afternoon,fall,good,party,long sleeves,jeans,jacket
+24.3,24.3,36,20.4,cloudy,night,fall,good,casual,kurta,pants,jacket
+20.6,20.9,78,22.6,clear,night,fall,neutral,casual,kurta,pants,light jacket
+19.2,18.3,89,22.4,cloudy,evening,fall,good,work,long sleeves,pants,jacket
+22.9,23.5,39,20.1,cloudy,evening,fall,bad,work,kurta,pants,jacket
+24.9,25.0,69,19.8,cloudy,night,fall,bad,casual,kurta,pants,jacket
+16.1,16.3,31,13.3,rain,morning,fall,bad,casual,kurta,jeans,jacket
+21.5,21.1,69,10.2,cloudy,evening,fall,good,work,long sleeves,pants,jacket
+17.3,17.3,36,22.0,clear,afternoon,fall,bad,formal,formal shirt,pants,light jacket
+19.9,20.9,59,22.6,cloudy,night,fall,neutral,formal,shirt,pants,jacket
+24.2,23.4,86,5.4,clear,afternoon,fall,neutral,casual,formal shirt,jeans,light jacket
+18.5,19.2,49,24.8,rain,afternoon,fall,bad,formal,formal shirt,trousers,jacket
+23.2,24.1,81,8.7,rain,afternoon,fall,good,formal,formal shirt,jeans,jacket
+16.4,17.3,45,13.5,clear,night,fall,bad,casual,formal shirt,jeans,light jacket
+19.4,19.3,47,6.0,rain,afternoon,fall,neutral,casual,shirt,cotton pants,jacket
+19.9,21.2,52,9.1,rain,night,fall,good,casual,shirt,trousers,jacket
+18.9,17.4,61,21.7,cloudy,evening,fall,bad,formal,formal shirt,cotton pants,jacket
+21.4,20.6,61,15.1,clear,evening,fall,neutral,party,long sleeves,jeans,light jacket
+22.7,23.2,39,6.2,cloudy,evening,fall,bad,work,shirt,jeans,jacket
+22.2,22.7,87,18.1,rain,morning,fall,good,formal,long sleeves,pants,jacket
+18.8,18.3,62,21.3,rain,evening,fall,neutral,party,shirt,trousers,jacket
+22.7,21.8,38,14.2,clear,afternoon,fall,good,party,formal shirt,cotton pants,light jacket
+24.5,24.2,32,6.5,cloudy,afternoon,fall,neutral,formal,shirt,cotton pants,jacket
+22.9,22.4,69,16.5,clear,morning,fall,good,work,long sleeves,cotton pants,light jacket
+20.7,19.3,49,18.6,cloudy,evening,fall,bad,formal,long sleeves,pants,jacket
+24.3,25.0,86,13.5,cloudy,evening,fall,bad,party,shirt,jeans,jacket
+21.8,21.1,30,21.4,clear,morning,fall,good,casual,shirt,pants,light jacket
+19.5,19.5,90,15.5,cloudy,afternoon,fall,good,formal,kurta,cotton pants,jacket
+20.0,21.1,58,5.1,clear,evening,fall,bad,party,kurta,cotton pants,light jacket
+23.1,22.2,57,7.2,cloudy,morning,fall,neutral,casual,kurta,cotton pants,jacket
+20.5,20.0,80,17.9,cloudy,afternoon,fall,neutral,casual,kurta,pants,jacket
+18.9,19.2,36,10.0,rain,night,fall,neutral,work,kurta,cotton pants,jacket
+20.3,20.9,41,20.8,clear,night,fall,good,formal,kurta,cotton pants,light jacket
+19.1,18.4,82,15.2,rain,afternoon,fall,good,formal,long sleeves,jeans,jacket
+22.9,24.1,57,17.8,cloudy,morning,fall,good,casual,kurta,trousers,jacket
+16.1,17.4,34,19.0,cloudy,morning,fall,bad,work,shirt,jeans,jacket
+23.0,22.7,63,19.6,rain,afternoon,fall,bad,party,kurta,jeans,jacket
+20.3,20.5,69,19.1,rain,evening,fall,good,party,long sleeves,pants,jacket
+16.8,16.3,58,19.9,rain,evening,fall,neutral,party,formal shirt,jeans,jacket
+22.7,23.3,64,17.4,cloudy,night,fall,good,work,formal shirt,jeans,jacket
+24.2,25.4,41,15.9,cloudy,evening,fall,bad,formal,kurta,cotton pants,jacket
+20.3,20.7,65,22.0,cloudy,evening,fall,good,formal,formal shirt,jeans,jacket
+22.1,22.7,44,6.1,cloudy,morning,fall,neutral,casual,kurta,cotton pants,jacket
+16.1,17.5,72,5.5,cloudy,afternoon,fall,bad,work,shirt,cotton pants,jacket
+22.0,21.2,58,22.5,rain,evening,fall,neutral,formal,formal shirt,jeans,jacket
+19.7,20.7,85,13.1,cloudy,morning,fall,neutral,casual,kurta,pants,jacket
+21.8,20.7,71,9.6,rain,morning,fall,bad,work,kurta,trousers,jacket
+16.4,16.1,49,23.0,rain,night,fall,neutral,formal,formal shirt,cotton pants,jacket
+19.4,20.8,85,8.6,rain,afternoon,fall,neutral,formal,shirt,cotton pants,jacket
+20.0,21.2,44,6.5,rain,evening,fall,neutral,work,long sleeves,pants,jacket
+18.7,18.8,50,15.8,rain,evening,fall,good,party,long sleeves,cotton pants,jacket
+18.2,18.0,38,18.9,rain,night,fall,bad,party,shirt,jeans,jacket
+19.9,20.8,37,21.5,clear,morning,fall,bad,party,long sleeves,trousers,light jacket
+21.7,20.8,90,13.6,cloudy,morning,fall,bad,party,long sleeves,cotton pants,jacket
+17.7,16.6,74,14.8,cloudy,night,fall,bad,formal,long sleeves,pants,jacket
+17.1,17.8,59,14.6,clear,evening,fall,bad,work,shirt,pants,light jacket
+25.0,24.1,41,21.8,clear,morning,fall,neutral,formal,formal shirt,pants,light jacket
+21.3,20.4,85,23.5,clear,morning,fall,neutral,party,kurta,cotton pants,light jacket
+16.6,17.5,63,22.0,rain,evening,fall,bad,party,long sleeves,cotton pants,jacket
+21.6,22.8,71,10.8,clear,afternoon,fall,neutral,party,shirt,jeans,light jacket
+17.3,18.7,43,12.5,rain,evening,fall,good,casual,formal shirt,cotton pants,jacket
+16.1,16.8,83,9.5,clear,evening,fall,neutral,work,kurta,jeans,light jacket
+23.3,23.8,44,6.5,clear,afternoon,fall,bad,party,formal shirt,trousers,light jacket
+23.9,24.5,63,24.0,clear,night,fall,bad,party,shirt,jeans,light jacket
+22.5,22.3,49,11.1,rain,evening,fall,bad,casual,kurta,jeans,jacket
+24.4,23.2,65,18.3,rain,afternoon,fall,good,formal,formal shirt,jeans,jacket
+20.3,21.7,40,16.7,cloudy,evening,fall,neutral,formal,long sleeves,trousers,jacket
+16.9,16.4,87,12.2,rain,morning,fall,neutral,party,kurta,pants,jacket
+16.2,17.2,55,15.3,clear,evening,fall,bad,casual,formal shirt,pants,light jacket
+23.3,24.3,41,25.0,rain,night,fall,neutral,casual,long sleeves,cotton pants,jacket
+16.7,15.9,88,20.2,rain,evening,fall,bad,party,kurta,trousers,jacket
+16.5,17.6,43,21.7,cloudy,morning,fall,neutral,party,long sleeves,jeans,jacket
+24.3,24.6,53,18.3,cloudy,night,fall,good,formal,long sleeves,pants,jacket
+18.1,17.3,83,6.9,cloudy,night,fall,good,formal,formal shirt,pants,jacket
+19.0,20.0,31,11.0,clear,morning,fall,good,party,long sleeves,jeans,light jacket
+20.2,20.6,42,11.9,clear,morning,fall,bad,work,shirt,jeans,light jacket
+18.0,17.4,86,24.1,cloudy,evening,fall,good,formal,formal shirt,trousers,jacket
+16.9,16.3,58,6.1,cloudy,night,fall,neutral,party,kurta,cotton pants,jacket
+17.5,17.4,64,22.1,cloudy,afternoon,fall,bad,work,shirt,jeans,jacket
+23.6,22.5,44,24.4,rain,morning,fall,good,work,kurta,trousers,jacket
+24.0,23.8,82,18.3,cloudy,night,fall,good,casual,kurta,pants,jacket
+17.0,18.0,57,5.6,rain,morning,fall,bad,work,kurta,jeans,jacket
+23.6,24.2,31,16.0,rain,evening,fall,bad,formal,kurta,cotton pants,jacket
+20.5,19.3,31,7.1,cloudy,morning,fall,bad,work,long sleeves,pants,jacket
+19.1,18.6,66,23.7,cloudy,evening,fall,bad,formal,formal shirt,cotton pants,jacket
+23.5,23.6,79,11.6,cloudy,night,fall,good,party,shirt,pants,jacket
+19.6,18.5,70,24.7,rain,evening,fall,bad,work,long sleeves,pants,jacket
+21.8,21.2,84,6.5,cloudy,morning,fall,neutral,formal,kurta,cotton pants,jacket
+17.2,18.1,77,6.1,clear,evening,fall,good,work,shirt,trousers,light jacket
+18.3,17.0,51,8.9,clear,afternoon,fall,good,work,long sleeves,jeans,light jacket
+21.3,21.1,44,17.7,rain,night,fall,good,work,kurta,trousers,jacket
+17.8,16.8,70,6.4,clear,night,fall,good,casual,kurta,trousers,light jacket
+22.7,21.5,79,9.4,clear,evening,fall,good,formal,shirt,pants,light jacket
+24.8,24.2,67,13.9,clear,evening,fall,good,work,long sleeves,pants,light jacket
+21.0,21.7,77,9.9,cloudy,afternoon,fall,bad,work,kurta,trousers,jacket
+16.8,16.5,70,23.6,cloudy,night,fall,good,casual,formal shirt,trousers,jacket
+22.0,20.6,79,8.5,cloudy,evening,fall,bad,formal,long sleeves,pants,jacket
+24.9,24.7,30,22.4,cloudy,night,fall,good,formal,shirt,trousers,jacket
+18.1,18.2,55,17.5,clear,evening,fall,neutral,party,shirt,jeans,light jacket
+22.6,21.5,86,11.4,clear,afternoon,fall,good,formal,long sleeves,pants,light jacket
+16.7,16.9,33,17.8,rain,morning,fall,bad,casual,formal shirt,trousers,jacket
+24.7,25.5,30,23.3,cloudy,evening,fall,good,party,shirt,trousers,jacket
+24.5,23.4,70,8.5,clear,evening,fall,neutral,formal,long sleeves,jeans,light jacket
+17.1,18.0,40,18.3,rain,afternoon,fall,good,party,formal shirt,pants,jacket
+18.2,19.4,31,19.0,clear,evening,fall,neutral,work,kurta,pants,light jacket
+23.6,24.7,74,13.8,rain,night,fall,bad,work,kurta,pants,jacket
+19.4,19.8,38,18.4,clear,afternoon,fall,bad,casual,kurta,jeans,light jacket
+21.9,21.3,74,5.9,rain,morning,fall,good,party,formal shirt,trousers,jacket
+22.5,22.8,68,12.9,cloudy,afternoon,fall,bad,casual,kurta,cotton pants,jacket
+21.8,22.7,61,12.7,cloudy,night,fall,good,casual,shirt,pants,jacket
+16.5,17.8,78,9.0,cloudy,afternoon,fall,bad,work,kurta,jeans,jacket
+17.2,16.8,59,13.8,rain,morning,fall,good,work,long sleeves,cotton pants,jacket
+22.2,20.9,72,9.5,cloudy,morning,fall,neutral,casual,long sleeves,pants,jacket
+16.3,15.0,90,11.6,clear,morning,fall,neutral,casual,long sleeves,pants,light jacket
+24.9,24.4,50,18.3,clear,night,fall,bad,casual,shirt,pants,light jacket
+24.5,24.2,76,7.1,clear,evening,fall,neutral,formal,long sleeves,cotton pants,light jacket
+22.7,22.5,36,5.5,cloudy,night,fall,good,casual,kurta,jeans,jacket
+24.7,24.8,46,21.0,cloudy,evening,fall,good,formal,formal shirt,cotton pants,jacket
+20.8,20.5,41,11.7,clear,evening,fall,bad,formal,kurta,cotton pants,light jacket
+16.1,16.3,80,13.4,clear,evening,fall,bad,work,formal shirt,pants,light jacket
+24.7,24.8,70,13.5,rain,afternoon,fall,neutral,work,shirt,pants,jacket
+19.3,18.5,80,22.3,cloudy,night,fall,good,work,formal shirt,cotton pants,jacket
+21.5,21.1,38,7.0,clear,morning,fall,neutral,work,shirt,pants,light jacket
+21.3,20.3,41,21.6,clear,evening,fall,neutral,formal,kurta,pants,light jacket
+24.9,24.0,38,21.1,cloudy,evening,fall,neutral,casual,shirt,jeans,jacket
+24.9,24.8,53,10.6,cloudy,night,fall,good,party,shirt,jeans,jacket
+21.4,20.8,48,12.7,clear,morning,fall,neutral,formal,long sleeves,pants,light jacket
+23.7,23.0,71,9.5,clear,afternoon,fall,bad,party,kurta,jeans,light jacket
+17.6,17.2,79,19.0,cloudy,afternoon,fall,neutral,party,kurta,pants,jacket
+22.5,22.4,84,20.1,rain,evening,fall,neutral,casual,shirt,pants,jacket
+18.9,18.9,52,19.0,clear,night,fall,good,party,long sleeves,cotton pants,light jacket
+20.1,20.6,73,23.5,cloudy,evening,fall,good,party,long sleeves,trousers,jacket
+22.0,22.4,43,16.0,cloudy,morning,fall,neutral,casual,kurta,cotton pants,jacket
+16.5,17.6,38,11.3,clear,evening,fall,good,party,long sleeves,trousers,light jacket
+20.3,19.2,70,22.5,clear,evening,fall,neutral,party,kurta,trousers,light jacket
+16.0,15.7,57,8.1,clear,evening,fall,neutral,party,long sleeves,jeans,light jacket
+23.1,22.0,68,5.0,cloudy,afternoon,fall,bad,work,long sleeves,trousers,jacket
+17.1,17.5,40,6.0,clear,morning,fall,neutral,party,kurta,pants,light jacket
+23.8,22.9,32,22.4,clear,night,fall,neutral,formal,formal shirt,pants,light jacket
+19.2,19.3,47,5.2,rain,afternoon,fall,neutral,work,shirt,trousers,jacket
+19.9,20.8,80,7.6,cloudy,evening,fall,good,formal,formal shirt,trousers,jacket
+24.9,23.7,80,17.5,clear,night,fall,bad,work,shirt,jeans,light jacket
+18.2,19.3,61,9.1,cloudy,afternoon,fall,good,casual,shirt,jeans,jacket
+19.8,19.1,45,7.5,rain,evening,fall,good,work,kurta,pants,jacket
+19.0,17.6,66,18.0,rain,evening,fall,good,party,kurta,cotton pants,jacket
+24.8,23.6,43,12.8,rain,morning,fall,good,formal,shirt,trousers,jacket
+16.5,15.3,60,15.8,rain,afternoon,fall,good,work,shirt,cotton pants,jacket
+19.9,21.1,84,16.3,clear,morning,fall,neutral,formal,long sleeves,pants,light jacket
+21.5,21.5,79,23.7,rain,morning,fall,neutral,work,formal shirt,pants,jacket
+20.7,19.8,34,9.8,cloudy,night,fall,neutral,party,kurta,trousers,jacket
+19.5,18.4,78,7.6,rain,night,fall,good,work,shirt,pants,jacket
+19.6,20.3,83,9.5,rain,evening,fall,good,casual,formal shirt,jeans,jacket
+24.5,24.4,39,9.3,clear,evening,fall,bad,party,kurta,cotton pants,light jacket
+19.4,19.3,31,7.4,cloudy,evening,fall,bad,work,formal shirt,trousers,jacket
+22.8,21.7,73,18.1,rain,evening,fall,neutral,work,kurta,jeans,jacket
+20.2,19.0,69,13.4,rain,afternoon,fall,good,party,kurta,pants,jacket
+18.7,18.7,54,21.7,clear,afternoon,fall,good,casual,kurta,jeans,light jacket
+24.0,23.3,89,22.1,cloudy,morning,fall,neutral,party,kurta,cotton pants,jacket
+24.6,24.0,79,8.3,rain,evening,fall,good,party,kurta,pants,jacket
+18.3,17.4,67,15.5,clear,evening,fall,neutral,party,formal shirt,jeans,light jacket
+17.2,16.0,46,18.7,rain,afternoon,fall,neutral,work,long sleeves,pants,jacket
+19.5,18.6,65,9.4,cloudy,morning,fall,bad,casual,long sleeves,jeans,jacket
+20.0,20.5,85,21.0,clear,afternoon,fall,neutral,casual,formal shirt,trousers,light jacket
+18.7,18.5,65,23.1,cloudy,morning,fall,bad,work,shirt,pants,jacket
+16.8,17.2,74,20.5,cloudy,night,fall,good,casual,long sleeves,jeans,jacket
+17.7,17.6,77,20.0,cloudy,evening,fall,good,party,kurta,cotton pants,jacket
+20.2,21.2,65,12.3,cloudy,afternoon,fall,neutral,casual,long sleeves,jeans,jacket
+21.8,22.0,31,9.3,cloudy,night,fall,bad,formal,kurta,cotton pants,jacket
+17.7,18.1,70,20.1,cloudy,morning,fall,bad,casual,long sleeves,jeans,jacket
+23.7,24.0,49,16.8,clear,night,fall,good,party,long sleeves,trousers,light jacket
+24.7,25.6,85,24.9,clear,night,fall,neutral,work,kurta,cotton pants,light jacket
+18.9,18.5,78,22.6,cloudy,night,fall,neutral,work,shirt,trousers,jacket
+19.9,20.3,78,6.0,cloudy,night,fall,neutral,party,kurta,cotton pants,jacket
+23.5,24.4,47,11.7,cloudy,evening,fall,neutral,party,shirt,pants,jacket
+21.0,22.3,45,10.1,clear,morning,fall,good,formal,long sleeves,jeans,light jacket
+19.3,18.1,74,9.7,clear,night,fall,good,casual,kurta,trousers,light jacket
+24.5,23.5,36,7.1,rain,morning,fall,good,work,shirt,trousers,jacket
+17.9,16.9,81,7.9,cloudy,morning,fall,bad,party,shirt,jeans,jacket
+22.3,21.0,88,17.4,clear,morning,fall,neutral,party,kurta,jeans,light jacket
+17.0,17.7,37,11.4,rain,evening,fall,good,formal,formal shirt,jeans,jacket
+20.9,22.1,50,21.4,cloudy,morning,fall,good,casual,kurta,cotton pants,jacket
+23.1,21.7,79,24.2,clear,evening,fall,good,party,shirt,jeans,light jacket
+20.6,20.2,57,11.3,rain,afternoon,fall,good,formal,kurta,trousers,jacket
+17.1,16.4,50,11.0,rain,evening,fall,good,party,long sleeves,trousers,jacket
+22.3,23.2,62,22.2,clear,evening,fall,neutral,casual,long sleeves,trousers,light jacket
+23.2,22.7,34,8.0,clear,evening,fall,bad,party,formal shirt,jeans,light jacket
+21.2,21.8,49,5.8,rain,morning,fall,neutral,party,long sleeves,cotton pants,jacket
+21.7,20.3,42,20.0,clear,afternoon,fall,good,work,formal shirt,pants,light jacket
+24.5,23.7,68,20.0,rain,evening,fall,neutral,casual,shirt,pants,jacket
+16.5,17.9,47,5.8,rain,morning,fall,bad,work,shirt,jeans,jacket
+22.1,22.9,78,23.5,clear,evening,fall,bad,formal,shirt,trousers,light jacket
+20.0,19.8,73,14.4,clear,morning,fall,good,work,long sleeves,trousers,light jacket
+18.2,18.4,66,13.8,clear,night,fall,bad,casual,shirt,cotton pants,light jacket
+21.5,22.0,83,23.9,clear,morning,fall,good,formal,long sleeves,pants,light jacket
+16.0,15.8,62,10.8,clear,afternoon,fall,good,casual,shirt,pants,light jacket
+21.2,21.4,89,9.9,cloudy,night,fall,neutral,formal,kurta,cotton pants,jacket
+24.5,25.0,67,20.7,rain,afternoon,fall,neutral,work,long sleeves,jeans,jacket
+18.8,19.8,58,15.8,clear,evening,fall,bad,party,kurta,jeans,light jacket
+16.6,16.5,89,5.1,rain,night,fall,good,casual,shirt,cotton pants,jacket
+17.0,17.6,45,11.0,cloudy,night,fall,neutral,casual,formal shirt,trousers,jacket
+22.8,23.6,58,6.0,clear,night,fall,good,casual,long sleeves,trousers,light jacket
+19.8,20.5,50,20.0,rain,morning,fall,neutral,casual,shirt,pants,jacket
+16.5,15.3,77,20.8,rain,evening,fall,good,work,kurta,pants,jacket
+17.0,16.7,90,24.0,clear,evening,fall,bad,formal,shirt,trousers,light jacket
+22.5,23.7,39,16.2,rain,morning,fall,good,casual,formal shirt,cotton pants,jacket
+24.9,26.1,32,16.4,cloudy,evening,fall,bad,casual,long sleeves,pants,jacket
+19.9,19.6,33,15.3,cloudy,morning,fall,bad,formal,long sleeves,cotton pants,jacket
+24.6,26.0,68,8.3,cloudy,evening,fall,neutral,formal,kurta,trousers,jacket
+20.5,20.8,51,24.7,rain,morning,fall,neutral,formal,long sleeves,cotton pants,jacket
+18.9,17.6,66,18.2,rain,evening,fall,neutral,party,long sleeves,jeans,jacket
+21.2,22.6,40,7.9,cloudy,morning,fall,neutral,formal,kurta,jeans,jacket
+21.4,20.3,74,16.6,rain,morning,fall,neutral,formal,kurta,pants,jacket
+19.0,18.5,75,10.7,rain,evening,fall,neutral,casual,formal shirt,pants,jacket
+20.8,19.3,36,7.8,clear,evening,fall,good,work,kurta,trousers,light jacket
+19.4,20.5,31,22.0,clear,morning,fall,bad,casual,formal shirt,jeans,light jacket
+17.5,16.5,56,6.9,rain,afternoon,fall,neutral,work,formal shirt,trousers,jacket
+20.5,19.9,82,9.2,clear,evening,fall,neutral,casual,formal shirt,pants,light jacket
+16.7,15.7,61,16.1,cloudy,evening,fall,bad,casual,long sleeves,trousers,jacket
+19.3,19.8,75,20.5,rain,night,fall,neutral,formal,kurta,jeans,jacket
+24.3,24.2,77,23.3,rain,evening,fall,neutral,party,kurta,cotton pants,jacket
+19.0,20.5,59,12.3,rain,night,fall,neutral,formal,kurta,cotton pants,jacket
+18.2,18.8,54,9.6,cloudy,night,fall,good,formal,shirt,pants,jacket
+24.9,25.0,54,17.1,clear,evening,fall,good,work,kurta,cotton pants,light jacket
+21.4,21.1,34,9.6,clear,night,fall,bad,formal,shirt,pants,light jacket
+18.1,19.2,88,11.7,cloudy,night,fall,bad,work,kurta,pants,jacket
+16.9,16.4,35,22.6,clear,evening,fall,bad,work,formal shirt,cotton pants,light jacket
+16.4,16.9,84,15.1,rain,morning,fall,bad,formal,kurta,trousers,jacket
+16.8,16.8,88,12.5,clear,night,fall,bad,party,shirt,pants,light jacket
+24.2,23.3,54,15.1,rain,afternoon,fall,good,casual,shirt,cotton pants,jacket
+16.0,16.0,59,18.7,rain,night,fall,good,casual,long sleeves,jeans,jacket
+17.9,18.5,36,14.0,rain,morning,fall,bad,party,kurta,pants,jacket
+22.7,23.8,90,5.3,clear,evening,fall,bad,party,kurta,cotton pants,light jacket
+23.2,23.4,30,6.7,cloudy,morning,fall,neutral,party,long sleeves,pants,jacket
+17.3,17.3,40,11.0,rain,night,fall,good,casual,shirt,pants,jacket
+20.6,20.7,35,7.5,clear,morning,fall,good,casual,kurta,pants,light jacket
+22.5,22.0,45,24.3,cloudy,morning,fall,bad,formal,long sleeves,cotton pants,jacket
+20.0,21.0,71,18.1,rain,evening,fall,neutral,formal,kurta,jeans,jacket
+19.7,19.5,66,9.4,rain,night,fall,neutral,casual,shirt,cotton pants,jacket
+24.3,23.7,87,22.1,clear,evening,fall,good,work,kurta,jeans,light jacket
+16.5,15.3,45,8.7,rain,afternoon,fall,neutral,work,formal shirt,trousers,jacket
+17.4,18.7,33,12.8,cloudy,night,fall,bad,formal,formal shirt,cotton pants,jacket
+24.7,24.2,63,20.7,clear,evening,fall,bad,party,shirt,cotton pants,light jacket
+18.2,18.3,81,12.6,clear,evening,fall,bad,work,long sleeves,cotton pants,light jacket
+16.5,15.6,56,18.6,clear,evening,fall,neutral,casual,formal shirt,cotton pants,light jacket
+22.6,22.4,84,15.4,rain,night,fall,good,party,kurta,trousers,jacket
+17.2,18.0,53,19.0,cloudy,morning,fall,good,casual,long sleeves,trousers,jacket
+17.4,17.4,32,13.9,cloudy,evening,fall,bad,party,shirt,pants,jacket
+20.7,20.4,59,9.4,clear,afternoon,fall,neutral,party,shirt,trousers,light jacket
+23.0,22.4,32,21.2,cloudy,evening,fall,good,party,formal shirt,trousers,jacket
+18.2,17.7,45,16.6,cloudy,evening,fall,bad,formal,shirt,pants,jacket
+21.1,20.2,78,13.7,clear,morning,fall,bad,formal,long sleeves,pants,light jacket
+22.6,22.6,32,8.8,cloudy,afternoon,fall,neutral,party,formal shirt,pants,jacket
+17.0,17.6,61,20.7,cloudy,night,fall,good,work,kurta,pants,jacket
+18.3,19.7,87,19.9,clear,morning,fall,neutral,formal,kurta,jeans,light jacket
+19.2,18.7,60,10.0,clear,evening,fall,bad,casual,long sleeves,pants,light jacket
+17.4,16.4,45,19.3,cloudy,morning,fall,good,formal,kurta,jeans,jacket
+19.1,20.4,76,7.9,cloudy,evening,fall,bad,formal,kurta,trousers,jacket
+22.3,21.1,46,11.5,clear,night,fall,good,formal,formal shirt,trousers,light jacket
+21.5,20.2,74,21.1,rain,night,fall,neutral,casual,kurta,trousers,jacket
+23.3,22.7,84,24.9,cloudy,afternoon,fall,good,party,formal shirt,cotton pants,jacket
+20.7,20.5,68,17.9,cloudy,evening,fall,bad,formal,formal shirt,jeans,jacket
+19.3,19.0,49,13.6,rain,morning,fall,good,casual,shirt,cotton pants,jacket
+22.2,22.5,50,24.5,rain,evening,fall,bad,formal,long sleeves,jeans,jacket
+24.9,24.4,68,20.8,rain,afternoon,fall,good,party,shirt,pants,jacket
+22.0,23.1,74,21.5,clear,morning,fall,bad,formal,formal shirt,trousers,light jacket
+16.1,15.1,45,16.1,rain,afternoon,fall,bad,formal,formal shirt,trousers,jacket
+17.0,16.8,41,15.9,rain,evening,fall,good,party,shirt,jeans,jacket
+19.2,19.8,65,24.7,clear,afternoon,fall,neutral,casual,kurta,jeans,light jacket
+22.4,22.8,84,17.3,clear,night,fall,neutral,party,formal shirt,trousers,light jacket
+4.1,5.5,67,14.3,snow,evening,winter,good,party,long sleeves,shalwar,jacket
+12.1,11.5,61,24.9,clear,evening,winter,good,work,sweater,shalwar,jacket
+-2.3,-2.8,77,24.3,cloudy,afternoon,winter,neutral,casual,kurta,trousers,puffer jacket
+-0.4,0.2,31,8.4,snow,afternoon,winter,bad,casual,sweater,pants,puffer jacket
+10.6,11.4,48,23.2,snow,morning,winter,neutral,formal,kurta,trousers,puffer jacket
+15.0,13.6,55,17.2,clear,night,winter,bad,casual,kurta,shalwar,coat
+-4.8,-4.0,38,9.8,snow,morning,winter,bad,casual,long sleeves,jeans,puffer jacket
+-3.9,-4.7,45,15.9,clear,evening,winter,bad,formal,sweater,jeans,jacket
+-4.9,-3.8,61,7.8,snow,evening,winter,neutral,work,kurta,jeans,jacket
+13.0,12.4,40,23.5,rain,evening,winter,bad,party,hoodie,pants,coat
+11.7,11.4,55,17.5,cloudy,afternoon,winter,good,casual,sweater,shalwar,puffer jacket
+3.4,4.2,54,23.2,cloudy,evening,winter,good,casual,hoodie,pants,coat
+3.5,3.3,84,19.2,rain,afternoon,winter,neutral,casual,long sleeves,shalwar,jacket
+5.9,6.3,63,24.7,rain,morning,winter,good,formal,hoodie,trousers,coat
+14.1,13.4,52,21.6,rain,night,winter,good,work,sweater,trousers,coat
+-3.3,-2.2,59,7.8,cloudy,afternoon,winter,good,casual,hoodie,pants,jacket
+-4.2,-5.2,81,16.8,rain,afternoon,winter,neutral,party,long sleeves,shalwar,puffer jacket
+12.5,11.2,41,12.9,rain,afternoon,winter,good,casual,hoodie,trousers,jacket
+9.3,8.7,41,20.6,rain,night,winter,bad,work,kurta,shalwar,puffer jacket
+0.5,-1.0,81,13.2,snow,afternoon,winter,bad,work,hoodie,trousers,jacket
+7.7,7.8,73,18.4,snow,night,winter,neutral,casual,kurta,jeans,jacket
+3.2,2.4,71,14.5,rain,night,winter,bad,work,kurta,jeans,jacket
+13.7,14.9,62,17.8,snow,afternoon,winter,neutral,party,long sleeves,jeans,coat
+1.2,1.4,60,9.4,rain,afternoon,winter,neutral,party,long sleeves,pants,puffer jacket
+8.5,7.1,38,20.9,cloudy,afternoon,winter,good,work,kurta,pants,puffer jacket
+0.2,1.0,33,24.2,cloudy,evening,winter,good,formal,kurta,pants,jacket
+1.6,0.8,87,24.7,cloudy,afternoon,winter,good,party,hoodie,jeans,puffer jacket
+1.4,2.4,90,11.8,clear,night,winter,good,formal,kurta,trousers,puffer jacket
+2.0,2.7,59,24.3,clear,morning,winter,good,work,sweater,trousers,coat
+1.7,0.8,77,8.2,clear,evening,winter,bad,party,kurta,trousers,puffer jacket
+7.6,7.2,80,21.6,snow,night,winter,neutral,work,kurta,jeans,jacket
+6.6,6.3,34,18.9,cloudy,morning,winter,neutral,work,kurta,trousers,puffer jacket
+-2.9,-2.7,50,16.0,snow,night,winter,good,casual,kurta,trousers,coat
+1.2,0.6,50,22.0,rain,morning,winter,neutral,work,kurta,jeans,puffer jacket
+8.8,8.0,64,23.3,snow,night,winter,good,work,sweater,pants,coat
+2.9,3.9,52,22.8,rain,morning,winter,good,party,long sleeves,pants,coat
+11.2,12.0,60,9.0,clear,morning,winter,neutral,casual,sweater,trousers,puffer jacket
+10.6,9.5,41,11.8,snow,evening,winter,neutral,work,long sleeves,shalwar,coat
+5.7,6.9,83,17.0,snow,afternoon,winter,good,formal,kurta,shalwar,puffer jacket
+-3.0,-3.1,30,19.4,clear,afternoon,winter,bad,party,kurta,trousers,puffer jacket
+13.2,11.8,35,17.5,rain,evening,winter,neutral,work,kurta,trousers,coat
+13.1,13.8,84,22.5,cloudy,night,winter,good,party,long sleeves,trousers,jacket
+11.2,10.6,57,14.1,clear,afternoon,winter,neutral,formal,kurta,trousers,coat
+0.8,0.5,49,7.7,rain,evening,winter,good,work,long sleeves,pants,coat
+2.5,3.0,75,21.5,cloudy,afternoon,winter,bad,party,hoodie,jeans,jacket
+4.1,2.7,86,19.5,clear,morning,winter,bad,casual,long sleeves,jeans,jacket
+13.8,12.9,54,15.3,rain,night,winter,bad,party,sweater,jeans,coat
+4.1,4.4,75,15.1,cloudy,evening,winter,bad,casual,long sleeves,trousers,jacket
+10.5,11.2,79,5.8,clear,night,winter,bad,work,hoodie,trousers,jacket
+0.5,0.6,68,11.6,cloudy,morning,winter,good,formal,hoodie,shalwar,puffer jacket
+11.5,11.9,73,16.5,snow,night,winter,bad,party,long sleeves,jeans,jacket
+3.7,4.2,67,11.1,clear,night,winter,neutral,party,sweater,shalwar,coat
+2.1,3.4,85,14.9,cloudy,night,winter,neutral,formal,long sleeves,jeans,puffer jacket
+-2.5,-3.5,36,16.7,clear,evening,winter,bad,party,kurta,trousers,jacket
+-2.7,-3.8,47,21.7,snow,evening,winter,bad,party,kurta,trousers,puffer jacket
+-4.5,-5.9,76,24.4,cloudy,night,winter,bad,casual,sweater,shalwar,jacket
+8.6,9.3,62,23.8,rain,evening,winter,bad,work,kurta,trousers,coat
+6.3,5.6,86,10.0,cloudy,morning,winter,good,party,kurta,jeans,coat
+0.1,-0.3,32,11.7,clear,afternoon,winter,bad,formal,kurta,trousers,puffer jacket
+3.3,4.4,35,22.1,clear,afternoon,winter,good,formal,long sleeves,pants,jacket
+9.0,7.8,89,7.6,snow,evening,winter,good,casual,sweater,shalwar,puffer jacket
+3.6,4.9,77,22.4,cloudy,afternoon,winter,good,formal,kurta,pants,puffer jacket
+-4.8,-4.8,66,9.0,cloudy,morning,winter,neutral,work,sweater,jeans,coat
+-2.6,-4.0,50,20.4,rain,night,winter,neutral,party,hoodie,jeans,jacket
+0.0,-1.4,57,20.1,clear,night,winter,bad,work,hoodie,trousers,coat
+7.0,7.4,62,8.5,snow,night,winter,neutral,work,long sleeves,pants,jacket
+12.2,11.5,44,18.2,clear,night,winter,neutral,formal,sweater,shalwar,coat
+11.3,10.1,78,11.8,rain,afternoon,winter,good,casual,long sleeves,jeans,puffer jacket
+-4.8,-4.7,54,17.3,snow,morning,winter,bad,work,sweater,trousers,coat
+8.0,9.5,85,5.9,cloudy,night,winter,neutral,formal,sweater,trousers,jacket
+14.0,14.7,72,19.6,snow,evening,winter,bad,work,hoodie,jeans,jacket
+-3.8,-4.3,30,22.2,snow,afternoon,winter,bad,party,long sleeves,shalwar,puffer jacket
+-0.2,1.3,69,22.4,rain,morning,winter,neutral,work,sweater,trousers,puffer jacket
+-3.7,-2.9,40,20.4,cloudy,afternoon,winter,bad,formal,sweater,trousers,jacket
+8.2,7.2,66,12.4,clear,evening,winter,good,casual,kurta,shalwar,puffer jacket
+12.6,11.4,53,9.3,snow,afternoon,winter,good,work,long sleeves,shalwar,coat
+0.8,2.1,79,19.7,snow,morning,winter,neutral,work,sweater,shalwar,puffer jacket
+8.4,7.9,90,13.1,snow,evening,winter,good,work,long sleeves,trousers,coat
+-4.6,-4.8,30,7.0,rain,evening,winter,neutral,casual,sweater,pants,puffer jacket
+-4.6,-3.4,37,23.6,snow,morning,winter,neutral,work,long sleeves,trousers,jacket
+7.7,8.0,70,21.3,snow,evening,winter,bad,casual,sweater,pants,jacket
+4.2,4.6,66,10.5,cloudy,afternoon,winter,bad,work,long sleeves,jeans,puffer jacket
+13.9,14.7,41,20.1,rain,morning,winter,bad,formal,kurta,pants,jacket
+0.3,-1.1,74,23.8,snow,night,winter,bad,casual,sweater,jeans,puffer jacket
+9.9,9.2,41,8.0,clear,evening,winter,bad,formal,hoodie,shalwar,jacket
+11.7,12.1,62,17.1,rain,morning,winter,bad,casual,long sleeves,pants,coat
+0.7,0.9,90,11.0,clear,morning,winter,good,formal,sweater,jeans,coat
+6.1,5.8,75,11.1,rain,afternoon,winter,neutral,formal,sweater,trousers,coat
+6.2,6.4,36,21.8,rain,evening,winter,good,party,long sleeves,shalwar,coat
+11.2,11.4,81,13.9,cloudy,night,winter,neutral,party,sweater,pants,puffer jacket
+-1.2,-1.8,50,9.9,rain,morning,winter,bad,formal,kurta,jeans,jacket
+5.0,3.6,67,17.0,snow,afternoon,winter,neutral,party,hoodie,trousers,coat
+6.5,5.5,47,5.7,clear,evening,winter,good,formal,sweater,jeans,jacket
+-1.3,0.1,40,16.0,clear,night,winter,good,work,kurta,shalwar,jacket
+13.6,12.2,83,7.1,cloudy,afternoon,winter,good,formal,long sleeves,shalwar,puffer jacket
+6.2,5.5,53,14.8,cloudy,night,winter,good,work,kurta,pants,puffer jacket
+0.8,0.3,58,7.5,snow,afternoon,winter,good,casual,kurta,jeans,puffer jacket
+3.3,3.5,37,21.2,rain,morning,winter,neutral,formal,sweater,shalwar,coat
+-2.0,-0.8,30,10.4,clear,night,winter,bad,work,kurta,jeans,jacket
+6.6,5.9,70,23.0,cloudy,morning,winter,neutral,party,sweater,pants,puffer jacket
+-3.3,-3.5,63,13.8,rain,evening,winter,good,work,sweater,jeans,coat
+4.7,5.5,82,12.3,rain,morning,winter,good,casual,hoodie,shalwar,jacket
+-2.9,-2.9,57,23.9,cloudy,night,winter,bad,formal,kurta,trousers,coat
+8.7,10.0,83,21.7,snow,morning,winter,good,formal,sweater,pants,puffer jacket
+5.0,5.0,62,14.9,snow,night,winter,good,formal,long sleeves,jeans,puffer jacket
+11.5,11.3,88,13.2,snow,night,winter,good,formal,sweater,jeans,jacket
+11.0,12.0,86,19.7,clear,night,winter,neutral,formal,sweater,shalwar,jacket
+8.2,7.8,73,8.6,rain,night,winter,good,work,hoodie,jeans,puffer jacket
+7.7,6.8,79,10.2,rain,afternoon,winter,neutral,formal,long sleeves,trousers,jacket
+11.8,11.1,75,5.9,snow,morning,winter,neutral,work,kurta,trousers,puffer jacket
+4.3,3.4,60,9.2,snow,morning,winter,good,casual,sweater,shalwar,puffer jacket
+13.4,12.2,45,15.2,clear,morning,winter,bad,casual,kurta,shalwar,coat
+7.8,6.7,75,8.7,rain,morning,winter,bad,formal,sweater,shalwar,puffer jacket
+10.8,11.2,73,20.2,snow,evening,winter,neutral,formal,hoodie,trousers,coat
+2.5,3.4,80,11.4,rain,afternoon,winter,good,party,sweater,shalwar,coat
+1.3,0.4,42,20.1,clear,morning,winter,good,formal,sweater,pants,coat
+14.2,13.1,50,16.4,clear,evening,winter,good,formal,hoodie,shalwar,coat
+8.8,10.0,81,5.4,snow,afternoon,winter,good,casual,hoodie,trousers,coat
+2.5,1.2,82,7.2,cloudy,evening,winter,good,formal,long sleeves,pants,coat
+8.5,7.1,48,20.8,cloudy,evening,winter,good,party,kurta,trousers,jacket
+4.3,3.7,90,10.5,clear,evening,winter,bad,party,hoodie,jeans,jacket
+2.2,1.1,36,13.6,rain,night,winter,bad,casual,sweater,trousers,jacket
+2.6,1.6,71,22.2,rain,evening,winter,neutral,casual,kurta,trousers,coat
+11.7,10.4,57,13.6,clear,evening,winter,good,party,long sleeves,trousers,puffer jacket
+9.9,9.8,87,5.3,cloudy,afternoon,winter,neutral,casual,kurta,shalwar,puffer jacket
+12.2,13.6,60,14.9,clear,night,winter,bad,work,long sleeves,pants,coat
+4.6,3.8,56,6.5,snow,evening,winter,neutral,work,hoodie,trousers,puffer jacket
+13.8,15.2,66,19.8,cloudy,evening,winter,neutral,work,kurta,shalwar,jacket
+6.1,6.3,42,6.0,snow,evening,winter,neutral,casual,kurta,jeans,puffer jacket
+9.9,8.9,54,6.7,snow,night,winter,bad,work,hoodie,pants,jacket
+12.2,12.1,83,22.5,snow,afternoon,winter,good,casual,hoodie,shalwar,puffer jacket
+-1.1,-2.3,84,20.9,clear,afternoon,winter,neutral,party,hoodie,pants,puffer jacket
+6.5,7.4,76,11.6,cloudy,night,winter,neutral,casual,hoodie,trousers,coat
+10.5,10.9,56,23.3,cloudy,night,winter,neutral,formal,sweater,shalwar,puffer jacket
+-3.1,-3.2,69,11.3,snow,morning,winter,good,casual,sweater,shalwar,coat
+9.4,10.4,68,8.2,snow,afternoon,winter,neutral,work,sweater,pants,coat
+2.3,2.6,89,6.1,cloudy,evening,winter,good,party,kurta,shalwar,coat
+6.7,5.6,69,6.2,cloudy,morning,winter,bad,formal,kurta,shalwar,coat
+12.4,12.2,39,19.8,clear,morning,winter,bad,formal,kurta,jeans,jacket
+9.0,9.9,31,5.3,snow,evening,winter,bad,work,long sleeves,pants,puffer jacket
+3.3,2.8,84,21.3,rain,morning,winter,good,formal,sweater,shalwar,puffer jacket
+14.0,15.0,44,21.1,cloudy,afternoon,winter,bad,work,long sleeves,trousers,coat
+2.3,1.6,50,23.7,snow,night,winter,bad,casual,sweater,jeans,puffer jacket
+8.5,8.0,54,21.6,cloudy,afternoon,winter,good,formal,kurta,trousers,jacket
+3.3,3.7,70,19.0,snow,morning,winter,good,casual,long sleeves,pants,coat
+12.6,12.3,64,17.5,clear,afternoon,winter,good,formal,sweater,trousers,coat
+-3.4,-4.7,81,14.3,snow,evening,winter,neutral,party,kurta,jeans,jacket
+9.6,8.3,40,11.8,cloudy,afternoon,winter,bad,party,hoodie,shalwar,jacket
+4.0,5.0,57,18.8,rain,afternoon,winter,neutral,formal,kurta,trousers,jacket
+1.1,0.1,40,24.8,cloudy,morning,winter,bad,casual,hoodie,trousers,jacket
+-0.6,-2.1,45,16.4,cloudy,evening,winter,good,party,kurta,trousers,coat
+7.7,7.6,36,14.6,cloudy,afternoon,winter,neutral,casual,kurta,shalwar,jacket
+5.3,4.4,86,21.7,clear,afternoon,winter,good,casual,sweater,pants,coat
+12.4,12.7,41,9.0,snow,afternoon,winter,bad,party,long sleeves,trousers,puffer jacket
+11.0,10.0,31,14.7,clear,morning,winter,neutral,work,long sleeves,pants,puffer jacket
+-3.6,-3.8,62,19.3,clear,evening,winter,bad,casual,long sleeves,trousers,puffer jacket
+-2.3,-1.2,64,22.7,clear,evening,winter,bad,formal,long sleeves,pants,puffer jacket
+7.9,6.6,34,15.7,rain,night,winter,neutral,party,hoodie,trousers,coat
+4.2,2.7,60,17.4,cloudy,afternoon,winter,bad,casual,kurta,pants,jacket
+5.9,7.3,50,13.2,cloudy,evening,winter,good,work,sweater,jeans,puffer jacket
+-3.7,-4.5,56,18.0,rain,morning,winter,good,formal,kurta,trousers,coat
+14.6,15.6,34,16.0,rain,night,winter,neutral,formal,kurta,shalwar,puffer jacket
+-0.3,-0.3,36,5.5,snow,afternoon,winter,good,party,long sleeves,jeans,coat
+-3.0,-4.2,44,13.8,rain,evening,winter,good,casual,long sleeves,pants,puffer jacket
+1.7,1.0,86,16.3,clear,afternoon,winter,neutral,casual,sweater,jeans,jacket
+8.8,8.9,66,7.4,cloudy,afternoon,winter,good,party,long sleeves,pants,coat
+1.6,1.7,80,20.8,cloudy,morning,winter,neutral,work,kurta,shalwar,puffer jacket
+-2.7,-3.1,86,14.2,rain,night,winter,neutral,party,kurta,jeans,jacket
+2.9,3.9,86,12.7,clear,night,winter,bad,casual,long sleeves,jeans,puffer jacket
+9.6,8.7,61,10.7,snow,night,winter,neutral,casual,long sleeves,jeans,puffer jacket
+3.5,4.8,72,22.4,clear,morning,winter,good,formal,kurta,trousers,jacket
+-3.0,-2.9,57,23.2,rain,evening,winter,bad,casual,long sleeves,pants,jacket
+-1.1,-1.7,88,10.2,cloudy,morning,winter,good,work,sweater,jeans,coat
+14.9,15.7,88,6.7,clear,afternoon,winter,neutral,work,long sleeves,pants,puffer jacket
+-3.1,-1.9,44,8.0,cloudy,afternoon,winter,good,work,kurta,shalwar,jacket
+-2.5,-1.5,56,15.4,clear,night,winter,bad,formal,long sleeves,shalwar,coat
+7.9,9.2,87,23.3,rain,evening,winter,good,party,hoodie,trousers,coat
+8.5,7.9,40,17.0,snow,evening,winter,neutral,work,kurta,shalwar,jacket
+-4.0,-4.3,77,17.0,rain,afternoon,winter,good,party,sweater,jeans,jacket
+-3.0,-2.0,54,14.8,rain,afternoon,winter,good,formal,kurta,shalwar,puffer jacket
+-4.9,-6.1,59,10.9,cloudy,morning,winter,good,work,kurta,pants,puffer jacket
+13.5,14.6,55,16.6,rain,evening,winter,neutral,casual,long sleeves,shalwar,puffer jacket
+4.8,5.2,88,14.6,rain,night,winter,good,party,kurta,pants,jacket
+-1.8,-2.4,32,15.5,snow,evening,winter,bad,casual,hoodie,pants,puffer jacket
+-4.2,-5.3,48,19.3,clear,evening,winter,bad,party,kurta,pants,coat
+9.5,9.3,68,23.5,rain,afternoon,winter,bad,work,long sleeves,trousers,puffer jacket
+8.5,9.8,67,22.2,cloudy,morning,winter,neutral,work,sweater,trousers,puffer jacket
+-4.1,-3.4,34,9.3,clear,evening,winter,good,casual,kurta,trousers,coat
+-0.3,0.3,75,23.4,clear,night,winter,neutral,casual,sweater,trousers,puffer jacket
+13.2,13.0,63,22.1,clear,morning,winter,bad,party,long sleeves,jeans,jacket
+3.3,3.4,68,21.1,clear,morning,winter,good,casual,sweater,pants,puffer jacket
+12.6,13.2,54,19.2,rain,afternoon,winter,bad,casual,sweater,pants,puffer jacket
+1.8,1.2,85,14.8,rain,evening,winter,neutral,formal,hoodie,trousers,puffer jacket
+-1.5,-1.8,68,22.2,snow,afternoon,winter,bad,work,sweater,jeans,jacket
+12.3,11.1,56,8.4,clear,evening,winter,good,casual,long sleeves,pants,puffer jacket
+13.1,13.8,82,20.5,clear,evening,winter,good,formal,hoodie,shalwar,puffer jacket
+12.7,11.9,90,6.8,snow,night,winter,neutral,party,hoodie,jeans,puffer jacket
+14.5,15.2,78,13.9,snow,night,winter,good,formal,long sleeves,shalwar,puffer jacket
+14.9,16.2,47,8.2,clear,afternoon,winter,good,party,kurta,jeans,coat
+8.5,9.9,89,17.6,clear,night,winter,good,casual,sweater,jeans,coat
+1.2,1.1,56,17.3,rain,morning,winter,neutral,work,long sleeves,trousers,coat
+2.8,2.1,46,22.8,cloudy,afternoon,winter,neutral,party,sweater,shalwar,jacket
+12.5,12.1,74,6.8,rain,evening,winter,neutral,party,kurta,pants,jacket
+6.8,6.8,33,17.5,clear,evening,winter,good,party,hoodie,jeans,puffer jacket
+1.2,0.3,50,9.0,rain,morning,winter,good,work,hoodie,shalwar,coat
+8.1,8.7,84,20.9,cloudy,afternoon,winter,good,party,kurta,shalwar,puffer jacket
+1.7,2.7,30,8.6,snow,night,winter,neutral,casual,long sleeves,trousers,jacket
+0.7,0.4,63,13.4,cloudy,afternoon,winter,bad,work,kurta,shalwar,jacket
+14.8,16.1,82,10.6,cloudy,afternoon,winter,neutral,casual,long sleeves,trousers,puffer jacket
+10.7,9.8,41,16.4,cloudy,morning,winter,neutral,casual,hoodie,jeans,puffer jacket
+-2.9,-3.0,61,19.0,cloudy,afternoon,winter,bad,casual,sweater,shalwar,coat
+10.4,9.1,52,5.8,clear,morning,winter,good,work,hoodie,shalwar,coat
+-0.6,-1.8,50,6.4,snow,morning,winter,bad,party,hoodie,jeans,puffer jacket
+10.3,9.5,36,8.0,rain,evening,winter,bad,party,kurta,trousers,jacket
+-1.3,-0.9,40,17.9,rain,evening,winter,bad,party,hoodie,pants,jacket
+10.8,11.8,53,11.2,clear,afternoon,winter,good,work,kurta,shalwar,coat
+9.2,9.0,77,14.6,cloudy,morning,winter,neutral,work,hoodie,jeans,jacket
+10.4,11.2,40,21.4,clear,afternoon,winter,good,casual,kurta,pants,coat
+3.6,4.7,66,11.5,snow,evening,winter,good,casual,hoodie,pants,puffer jacket
+8.5,9.3,70,23.1,rain,evening,winter,good,formal,hoodie,shalwar,coat
+-4.5,-5.0,81,20.2,cloudy,afternoon,winter,good,work,long sleeves,shalwar,jacket
+0.7,-0.3,82,9.2,rain,evening,winter,bad,party,long sleeves,pants,puffer jacket
+14.6,14.2,55,18.7,rain,evening,winter,bad,formal,kurta,jeans,jacket
+9.4,8.9,31,17.0,snow,morning,winter,good,casual,long sleeves,jeans,coat
+0.8,1.9,62,15.3,cloudy,evening,winter,good,casual,kurta,shalwar,jacket
+2.7,3.8,33,14.5,cloudy,morning,winter,bad,party,sweater,jeans,coat
+9.0,9.0,75,7.7,cloudy,morning,winter,neutral,party,kurta,jeans,jacket
+4.7,3.8,50,18.4,clear,evening,winter,bad,party,hoodie,shalwar,puffer jacket
+10.5,11.5,87,5.4,cloudy,evening,winter,bad,work,long sleeves,shalwar,jacket
+1.8,2.5,30,12.6,snow,afternoon,winter,neutral,formal,kurta,jeans,puffer jacket
+4.4,5.8,42,11.0,clear,night,winter,good,party,kurta,shalwar,jacket
+9.3,8.2,78,21.1,clear,morning,winter,bad,formal,sweater,pants,jacket
+6.6,7.5,51,24.7,cloudy,afternoon,winter,good,formal,hoodie,jeans,jacket
+8.8,8.4,44,9.3,clear,morning,winter,neutral,party,kurta,jeans,jacket
+-0.4,-1.2,79,15.4,clear,morning,winter,neutral,work,hoodie,shalwar,coat
+-0.4,-1.2,36,5.9,cloudy,afternoon,winter,neutral,casual,long sleeves,jeans,coat
+5.6,4.8,49,5.7,clear,afternoon,winter,bad,work,kurta,trousers,puffer jacket
+-0.6,-1.6,74,8.4,snow,afternoon,winter,good,party,long sleeves,jeans,jacket
+12.2,11.0,44,20.6,cloudy,evening,winter,good,work,hoodie,shalwar,coat
+4.3,4.7,84,20.8,cloudy,evening,winter,good,work,hoodie,pants,jacket
+4.5,3.7,60,11.6,cloudy,evening,winter,bad,casual,kurta,trousers,puffer jacket
+-4.6,-3.3,78,12.4,snow,afternoon,winter,neutral,party,long sleeves,pants,coat
+-4.1,-3.5,77,17.3,snow,evening,winter,good,formal,hoodie,trousers,jacket
+0.6,0.7,58,7.9,cloudy,afternoon,winter,neutral,work,kurta,trousers,coat
+-4.4,-4.8,60,17.7,snow,morning,winter,bad,formal,long sleeves,trousers,coat
+14.3,14.8,74,7.3,cloudy,night,winter,good,work,sweater,jeans,puffer jacket
+5.5,5.3,74,6.1,rain,night,winter,neutral,casual,sweater,trousers,puffer jacket
+13.5,15.0,68,20.9,snow,morning,winter,good,work,hoodie,trousers,jacket
+2.0,3.0,76,6.3,cloudy,evening,winter,neutral,work,sweater,jeans,puffer jacket
+14.9,13.7,36,16.9,cloudy,morning,winter,bad,casual,hoodie,shalwar,jacket
+9.5,10.9,89,10.1,rain,afternoon,winter,bad,formal,hoodie,trousers,jacket
+-4.2,-5.4,45,21.1,snow,night,winter,good,party,kurta,jeans,puffer jacket
+-3.5,-2.3,35,14.2,clear,night,winter,good,party,hoodie,jeans,coat
+12.3,12.9,57,5.2,cloudy,afternoon,winter,neutral,party,kurta,shalwar,coat
+12.7,11.7,64,13.2,cloudy,night,winter,good,party,sweater,trousers,puffer jacket
+12.5,14.0,87,13.3,rain,evening,winter,neutral,work,kurta,jeans,puffer jacket
+-2.5,-3.0,81,24.3,snow,night,winter,neutral,formal,kurta,shalwar,coat
+-4.5,-3.7,43,11.6,cloudy,evening,winter,neutral,party,sweater,pants,coat
+10.8,9.6,69,24.7,snow,night,winter,good,casual,kurta,trousers,puffer jacket
+-3.3,-4.7,65,5.0,cloudy,night,winter,good,work,hoodie,pants,coat
+0.4,1.6,85,10.7,rain,evening,winter,neutral,casual,hoodie,jeans,puffer jacket
+10.5,9.8,76,5.9,clear,night,winter,bad,formal,kurta,jeans,puffer jacket
+8.2,9.6,63,16.8,cloudy,night,winter,neutral,formal,long sleeves,shalwar,coat
+-0.0,-0.5,43,16.9,snow,morning,winter,bad,formal,hoodie,shalwar,jacket
+0.6,-0.2,79,15.7,clear,afternoon,winter,bad,casual,kurta,jeans,jacket
+6.7,7.0,61,16.5,snow,evening,winter,good,work,long sleeves,pants,coat
+14.9,15.6,36,5.3,clear,morning,winter,bad,party,kurta,jeans,puffer jacket
+-2.4,-1.9,34,14.1,rain,afternoon,winter,bad,work,sweater,pants,coat
+-3.7,-2.7,33,22.6,snow,afternoon,winter,bad,party,long sleeves,pants,coat
+-0.4,0.1,42,24.4,clear,night,winter,bad,work,hoodie,pants,puffer jacket
+12.9,12.1,52,12.8,snow,night,winter,bad,work,hoodie,pants,coat
+11.9,11.4,88,23.9,rain,morning,winter,bad,casual,hoodie,jeans,puffer jacket
+2.7,1.7,37,8.8,cloudy,afternoon,winter,good,casual,sweater,pants,coat
+8.3,9.2,42,6.2,snow,morning,winter,bad,casual,sweater,jeans,jacket
+-2.6,-1.7,72,23.6,rain,afternoon,winter,neutral,work,kurta,pants,coat
+-1.8,-0.9,83,15.9,clear,night,winter,good,work,sweater,trousers,puffer jacket
+9.1,8.5,85,8.6,clear,night,winter,good,work,long sleeves,shalwar,coat
+14.3,15.7,87,8.1,snow,afternoon,winter,good,party,kurta,pants,coat
+-3.9,-3.4,86,13.9,snow,morning,winter,neutral,party,kurta,shalwar,puffer jacket
+2.4,1.1,61,20.2,snow,afternoon,winter,bad,casual,sweater,jeans,jacket
+-2.5,-1.8,55,23.8,clear,night,winter,bad,party,hoodie,shalwar,coat
+-3.5,-5.0,41,21.9,cloudy,afternoon,winter,neutral,formal,hoodie,pants,jacket
+11.5,11.8,53,11.1,cloudy,afternoon,winter,bad,work,hoodie,shalwar,coat
+8.3,8.2,41,5.0,cloudy,night,winter,neutral,party,sweater,trousers,puffer jacket
+2.8,1.8,54,7.6,snow,night,winter,neutral,casual,long sleeves,trousers,coat
+1.8,1.8,70,20.6,cloudy,morning,winter,good,work,long sleeves,pants,coat
+-3.7,-5.2,50,23.7,clear,night,winter,neutral,formal,long sleeves,jeans,jacket
+11.6,11.0,71,5.7,rain,night,winter,neutral,formal,long sleeves,shalwar,coat
+-3.4,-2.7,48,24.9,rain,night,winter,bad,formal,hoodie,pants,puffer jacket
+5.8,5.4,90,11.1,snow,afternoon,winter,good,work,hoodie,shalwar,coat
+5.5,5.9,61,20.4,snow,evening,winter,good,party,kurta,trousers,puffer jacket
+-0.7,-0.8,85,9.3,clear,morning,winter,bad,work,long sleeves,jeans,jacket
+13.3,13.4,84,22.4,snow,morning,winter,good,party,kurta,pants,puffer jacket
+6.4,7.5,89,23.1,rain,evening,winter,bad,work,sweater,shalwar,puffer jacket
+4.8,3.9,69,21.9,rain,evening,winter,good,formal,kurta,pants,jacket
+7.6,6.7,58,10.2,snow,evening,winter,neutral,work,hoodie,shalwar,coat
+-2.8,-2.9,62,6.2,rain,evening,winter,neutral,formal,sweater,trousers,jacket
+-4.1,-5.5,78,13.8,rain,evening,winter,good,party,long sleeves,pants,jacket
+0.2,-0.3,57,12.9,cloudy,morning,winter,good,work,long sleeves,pants,coat
+5.0,5.1,71,14.3,snow,night,winter,bad,party,kurta,shalwar,coat

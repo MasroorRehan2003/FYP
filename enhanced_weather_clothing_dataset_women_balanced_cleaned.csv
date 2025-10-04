@@ -1,0 +1,1501 @@
+temperature,feels_like,humidity,wind_speed,weather_condition,time_of_day,season,occasion,recommended_top,recommended_bottom,recommended_outer
+8,9,70,8.518752560807997,foggy,night,winter,casual,tops,trousers,coat
+13,14,72,4.4272584119065295,foggy,morning,winter,casual,shirts,trousers,coat
+5,3,41,1.9889243342084273,clear,evening,winter,casual,shirts,leggings,puffer jacket
+11,11,89,10.956888415186135,clear,afternoon,winter,party,tops,trousers,puffer jacket
+5,7,63,13.419973580540596,sunny,afternoon,winter,work,kurtas,leggings,coat
+13,15,85,6.75807680942538,sunny,evening,winter,work,kurtas,jeans,puffer jacket
+10,10,55,10.646284359258813,sunny,morning,winter,work,kurtas,trousers,puffer jacket
+9,8,68,9.576059361658077,clear,morning,winter,party,kurtas,trousers,coat
+11,11,47,12.638312465602166,cloudy,night,winter,work,shirts,jeans,puffer jacket
+8,6,40,2.7935812485987563,sunny,night,winter,work,shirts,trousers,puffer jacket
+4,5,60,3.5192404133603716,cloudy,evening,winter,casual,shirts,jeans,coat
+4,5,78,14.70549710278063,foggy,evening,winter,party,shirts,jeans,puffer jacket
+9,7,57,8.894241003769228,clear,morning,winter,party,shirts,jeans,puffer jacket
+10,11,73,13.427102966398415,cloudy,morning,winter,work,kurtas,leggings,puffer jacket
+2,4,50,6.719745741677814,clear,evening,winter,party,shirts,jeans,puffer jacket
+8,10,57,4.863671316861332,foggy,morning,winter,casual,kurtas,jeans,coat
+5,4,44,8.995059372048027,sunny,evening,winter,party,shirts,leggings,coat
+9,9,40,11.016646182237992,clear,afternoon,winter,party,shirts,jeans,coat
+9,9,72,10.492573964414236,clear,night,winter,party,kurtas,trousers,puffer jacket
+5,3,53,13.199894134102502,foggy,night,winter,party,kurtas,capris,puffer jacket
+12,11,36,11.95314771914277,foggy,evening,winter,casual,tops,trousers,puffer jacket
+3,5,41,3.2081703095131022,cloudy,afternoon,winter,party,tops,trousers,puffer jacket
+9,7,86,12.7163068853905,cloudy,night,winter,casual,kurtas,trousers,coat
+11,10,83,8.521981201179283,foggy,afternoon,winter,party,kurtas,jeans,coat
+13,13,61,2.900964671668338,cloudy,evening,winter,party,tops,capris,coat
+13,12,87,8.456506574636284,foggy,morning,winter,party,shirts,trousers,coat
+8,6,70,3.4325778142662395,clear,afternoon,winter,party,shirts,capris,coat
+9,11,60,6.773375469342731,cloudy,night,winter,work,kurtas,trousers,puffer jacket
+9,9,63,9.921209609982533,cloudy,afternoon,winter,party,shirts,trousers,coat
+2,2,43,14.744507100791138,foggy,afternoon,winter,party,kurtas,jeans,coat
+10,9,37,2.1262550659707116,cloudy,night,winter,party,shirts,jeans,puffer jacket
+5,5,87,4.841429425414967,sunny,night,winter,casual,kurtas,trousers,coat
+10,8,62,9.499521049237933,sunny,evening,winter,work,tops,trousers,puffer jacket
+12,11,42,5.027588488561689,clear,morning,winter,work,kurtas,jeans,puffer jacket
+5,4,55,2.7860775107725932,clear,night,winter,party,shirts,jeans,coat
+11,12,72,12.913813163808385,cloudy,afternoon,winter,party,kurtas,jeans,coat
+2,3,80,3.2320833043113817,cloudy,morning,winter,work,kurtas,jeans,puffer jacket
+3,5,58,6.921380234611585,clear,night,winter,work,shirts,trousers,puffer jacket
+9,8,37,14.507452105159908,cloudy,night,winter,work,tops,trousers,coat
+5,6,74,8.174117438579804,cloudy,evening,winter,work,tops,trousers,coat
+12,11,72,10.991433500286497,cloudy,evening,winter,work,shirts,capris,coat
+8,6,85,11.453827457821424,clear,night,winter,casual,shirts,capris,coat
+5,6,51,14.036834762513383,clear,morning,winter,work,kurtas,trousers,coat
+6,8,46,2.7307230115944963,cloudy,afternoon,winter,work,shirts,capris,coat
+3,1,76,11.042331145391932,cloudy,night,winter,party,kurtas,trousers,coat
+4,5,61,13.175182356506342,sunny,morning,winter,work,kurtas,leggings,coat
+11,9,83,7.04344335721445,sunny,evening,winter,work,tops,jeans,puffer jacket
+4,2,52,6.051030338023824,clear,afternoon,winter,party,kurtas,jeans,puffer jacket
+9,7,58,4.93676895670963,cloudy,morning,winter,casual,kurtas,jeans,puffer jacket
+11,12,71,12.224523771316978,sunny,morning,winter,casual,kurtas,jeans,coat
+7,9,66,3.5738062472264676,foggy,afternoon,winter,casual,tops,jeans,coat
+7,9,37,2.2260251178055164,sunny,evening,winter,party,kurtas,leggings,coat
+10,10,87,6.523066290585401,cloudy,afternoon,winter,casual,shirts,jeans,puffer jacket
+10,10,42,12.741071407566386,clear,night,winter,casual,kurtas,trousers,puffer jacket
+6,4,83,12.198030622389977,foggy,afternoon,winter,casual,kurtas,trousers,coat
+2,0,77,8.036336818304523,sunny,evening,winter,casual,shirts,trousers,coat
+12,11,76,6.873108957927432,foggy,evening,winter,work,kurtas,trousers,puffer jacket
+2,2,40,8.198385016964384,cloudy,evening,winter,party,kurtas,jeans,puffer jacket
+10,11,40,6.067104166277302,sunny,night,winter,casual,kurtas,trousers,puffer jacket
+10,10,53,6.757200310834852,cloudy,afternoon,winter,party,kurtas,jeans,puffer jacket
+3,5,69,10.448941250251158,clear,morning,winter,party,shirts,trousers,puffer jacket
+13,14,35,2.3256178331454795,cloudy,night,winter,casual,tops,trousers,coat
+12,11,75,11.304377707029563,clear,night,winter,work,kurtas,leggings,puffer jacket
+6,8,59,11.15755510496893,foggy,morning,winter,party,shirts,leggings,coat
+13,13,43,9.872275065427349,clear,night,winter,casual,tops,trousers,coat
+13,13,80,11.028819434339923,foggy,morning,winter,work,tops,trousers,coat
+10,11,85,1.4183649243660272,sunny,afternoon,winter,work,shirts,trousers,coat
+8,8,39,12.660090612960744,cloudy,evening,winter,casual,kurtas,capris,coat
+6,6,43,6.555657401664714,foggy,evening,winter,casual,shirts,leggings,puffer jacket
+10,12,63,14.070461516383645,sunny,morning,winter,casual,kurtas,jeans,puffer jacket
+4,4,60,8.795240679730197,sunny,afternoon,winter,work,shirts,trousers,coat
+5,5,39,5.067093915713697,cloudy,evening,winter,work,kurtas,trousers,puffer jacket
+8,9,78,9.83856232469503,sunny,afternoon,winter,casual,kurtas,jeans,puffer jacket
+12,10,67,3.4876406153846737,foggy,evening,winter,party,kurtas,leggings,coat
+11,13,51,9.097109367552672,sunny,night,winter,party,shirts,jeans,puffer jacket
+6,7,38,2.9942258366057346,cloudy,morning,winter,party,shirts,leggings,coat
+2,2,89,5.166868070474985,cloudy,morning,winter,casual,tops,trousers,puffer jacket
+11,11,65,1.8052254209455039,sunny,night,winter,party,tops,trousers,coat
+8,10,83,14.35589035964246,cloudy,evening,winter,work,tops,jeans,puffer jacket
+13,12,76,2.0613863533625563,clear,night,winter,work,kurtas,trousers,coat
+3,2,36,6.388999171499125,clear,afternoon,winter,party,shirts,jeans,coat
+2,4,65,4.836909955416766,foggy,evening,winter,work,tops,leggings,puffer jacket
+7,6,49,12.057421770972773,clear,night,winter,work,tops,capris,puffer jacket
+5,3,70,10.211663677857707,foggy,night,winter,casual,kurtas,jeans,puffer jacket
+8,7,45,4.027464686193218,clear,evening,winter,casual,shirts,jeans,coat
+5,7,68,6.658850245057233,sunny,morning,winter,party,kurtas,trousers,coat
+10,11,35,9.184264072121508,clear,afternoon,winter,work,kurtas,jeans,puffer jacket
+9,10,83,13.918982623515197,foggy,afternoon,winter,casual,shirts,leggings,puffer jacket
+10,9,70,5.426300548263606,sunny,night,winter,casual,shirts,jeans,puffer jacket
+10,8,83,6.394236392288509,sunny,evening,winter,work,shirts,jeans,coat
+12,12,47,11.751451507863193,clear,night,winter,party,shirts,trousers,coat
+11,9,39,13.729112890362732,sunny,night,winter,work,kurtas,capris,puffer jacket
+9,8,60,6.2437436526053975,foggy,night,winter,party,shirts,jeans,puffer jacket
+10,8,83,6.40091795246691,cloudy,morning,winter,party,kurtas,jeans,coat
+4,3,65,4.581742050432544,cloudy,afternoon,winter,party,shirts,jeans,puffer jacket
+7,6,84,11.156399242535255,sunny,afternoon,winter,party,tops,leggings,puffer jacket
+7,7,89,2.0544688160650963,cloudy,morning,winter,party,shirts,capris,coat
+9,7,40,9.369980703680197,foggy,afternoon,winter,casual,kurtas,jeans,coat
+2,0,37,13.671610701664358,sunny,evening,winter,party,kurtas,trousers,puffer jacket
+7,6,75,11.405199813089817,sunny,morning,winter,party,shirts,jeans,coat
+12,14,88,8.735039225976607,clear,evening,winter,work,kurtas,jeans,puffer jacket
+7,5,50,9.837403576985784,clear,evening,winter,casual,shirts,leggings,puffer jacket
+2,2,83,5.899289075791691,sunny,night,winter,work,shirts,jeans,puffer jacket
+5,7,88,6.829618228442855,foggy,afternoon,winter,work,tops,jeans,coat
+5,3,82,5.590862997042898,sunny,afternoon,winter,casual,shirts,trousers,puffer jacket
+11,11,62,3.0770154805717738,foggy,night,winter,party,tops,leggings,puffer jacket
+8,9,70,1.0989636782483176,sunny,night,winter,party,kurtas,jeans,coat
+5,3,66,11.735846903124692,cloudy,morning,winter,work,tops,jeans,puffer jacket
+9,11,65,2.151545384443938,foggy,afternoon,winter,party,shirts,trousers,puffer jacket
+5,6,50,13.421625339744224,cloudy,morning,winter,casual,tops,trousers,puffer jacket
+12,11,45,7.12496641511304,clear,afternoon,winter,casual,shirts,jeans,coat
+4,3,85,7.4118955420021155,foggy,night,winter,casual,shirts,trousers,puffer jacket
+3,4,48,9.657093914670977,foggy,evening,winter,casual,shirts,trousers,puffer jacket
+9,9,85,4.8133887450000215,foggy,night,winter,party,shirts,trousers,coat
+13,11,51,2.728325891365003,cloudy,evening,winter,party,tops,trousers,puffer jacket
+11,10,69,11.813289714293234,foggy,morning,winter,work,kurtas,leggings,coat
+10,8,69,10.07767900398798,foggy,evening,winter,casual,tops,jeans,puffer jacket
+13,12,40,3.938696363332536,cloudy,evening,winter,work,shirts,jeans,puffer jacket
+10,10,46,1.2481247712821828,cloudy,evening,winter,work,shirts,jeans,coat
+4,4,65,8.450814082451172,cloudy,morning,winter,party,shirts,trousers,puffer jacket
+4,2,80,10.800948380834944,clear,morning,winter,casual,shirts,trousers,puffer jacket
+5,3,85,2.0568597267334896,clear,evening,winter,casual,kurtas,leggings,coat
+11,13,67,14.183460119786297,cloudy,night,winter,work,shirts,trousers,puffer jacket
+2,1,45,12.787002132336479,clear,afternoon,winter,work,shirts,jeans,coat
+9,10,89,9.311901910097674,cloudy,night,winter,casual,shirts,leggings,puffer jacket
+4,4,84,14.074785097277884,sunny,night,winter,work,shirts,trousers,puffer jacket
+5,4,61,12.87212953810321,foggy,afternoon,winter,party,shirts,trousers,coat
+13,14,64,5.516408673919498,clear,night,winter,casual,kurtas,jeans,puffer jacket
+6,5,84,14.890415438278557,sunny,night,winter,work,tops,capris,coat
+3,5,74,3.782079329167208,foggy,night,winter,party,tops,leggings,coat
+8,10,88,8.684445154884468,sunny,morning,winter,work,kurtas,jeans,coat
+9,7,72,10.683694060694954,foggy,afternoon,winter,casual,tops,jeans,coat
+13,13,68,4.931789841006537,clear,night,winter,party,shirts,jeans,coat
+8,7,60,2.3944442173049,clear,afternoon,winter,work,shirts,jeans,coat
+3,2,37,10.037577819531373,foggy,afternoon,winter,work,tops,jeans,puffer jacket
+7,7,55,9.705977137074111,foggy,afternoon,winter,casual,shirts,jeans,puffer jacket
+2,0,84,3.9323335454565846,clear,evening,winter,party,tops,leggings,coat
+13,14,56,9.909700880309753,cloudy,evening,winter,casual,shirts,jeans,coat
+11,10,89,5.595933376793547,clear,afternoon,winter,party,kurtas,jeans,coat
+7,6,35,11.120160874658572,clear,morning,winter,party,shirts,jeans,coat
+13,12,57,3.743713357277861,foggy,morning,winter,party,tops,jeans,coat
+12,12,41,4.009854644235048,clear,night,winter,casual,shirts,jeans,coat
+10,11,55,9.581022329108565,clear,night,winter,party,tops,trousers,puffer jacket
+9,10,71,9.596640653523318,foggy,afternoon,winter,work,shirts,trousers,coat
+7,9,84,7.210964158523848,sunny,evening,winter,work,kurtas,trousers,puffer jacket
+4,2,77,8.190079990479935,foggy,evening,winter,party,kurtas,trousers,puffer jacket
+4,6,68,2.2566970972934617,clear,morning,winter,casual,shirts,capris,puffer jacket
+9,10,76,4.661801454941642,sunny,night,winter,work,tops,trousers,puffer jacket
+3,5,86,6.2958417401319515,cloudy,evening,winter,casual,kurtas,jeans,puffer jacket
+6,8,73,5.0141327823440385,clear,night,winter,work,kurtas,jeans,coat
+5,6,81,13.901548330653137,cloudy,morning,winter,casual,kurtas,trousers,puffer jacket
+10,8,87,10.519759186815644,clear,evening,winter,work,tops,trousers,puffer jacket
+6,7,72,13.539405705576058,foggy,evening,winter,casual,tops,trousers,coat
+10,12,63,10.538191425648598,clear,night,winter,casual,shirts,trousers,puffer jacket
+6,4,66,3.1759464341063084,sunny,evening,winter,party,tops,jeans,coat
+10,11,80,8.53973118685143,sunny,night,winter,work,tops,leggings,puffer jacket
+9,11,39,7.712814607481519,cloudy,morning,winter,work,kurtas,leggings,puffer jacket
+13,14,53,12.876108089926271,sunny,afternoon,winter,party,tops,trousers,coat
+10,10,39,2.4340900748814,clear,afternoon,winter,casual,tops,jeans,coat
+6,4,76,12.591970824249284,sunny,night,winter,party,kurtas,jeans,puffer jacket
+7,9,70,8.108206012297146,sunny,night,winter,party,kurtas,jeans,coat
+9,9,62,4.558330970551776,foggy,morning,winter,work,shirts,trousers,puffer jacket
+9,10,78,6.410804160523127,clear,night,winter,casual,shirts,capris,puffer jacket
+4,3,73,13.12001575162379,cloudy,evening,winter,party,shirts,jeans,coat
+6,4,70,5.562224632653861,sunny,afternoon,winter,work,shirts,jeans,coat
+6,7,61,3.5808188852220564,cloudy,night,winter,casual,kurtas,jeans,puffer jacket
+12,12,40,14.1351217535418,cloudy,morning,winter,party,kurtas,trousers,puffer jacket
+7,8,52,7.3433802191877735,clear,evening,winter,work,shirts,trousers,coat
+8,6,54,1.8236589427868581,clear,evening,winter,party,kurtas,jeans,coat
+8,8,73,9.292541753689605,cloudy,night,winter,party,shirts,trousers,coat
+6,5,37,10.317741862139783,foggy,night,winter,party,tops,trousers,coat
+2,0,45,10.534815395082425,sunny,afternoon,winter,party,kurtas,capris,coat
+3,3,39,4.188951284635252,sunny,morning,winter,work,tops,jeans,puffer jacket
+13,14,82,1.6439183875062346,sunny,afternoon,winter,casual,kurtas,trousers,puffer jacket
+9,7,70,11.022287440650118,clear,afternoon,winter,work,shirts,jeans,puffer jacket
+2,0,43,12.56720854000571,foggy,morning,winter,party,kurtas,leggings,coat
+3,1,78,4.672739579942356,clear,night,winter,party,shirts,jeans,coat
+13,15,69,12.56230033110235,clear,night,winter,casual,kurtas,jeans,puffer jacket
+4,5,88,1.9360986687796538,clear,afternoon,winter,casual,shirts,trousers,puffer jacket
+13,12,60,8.717640587969267,foggy,evening,winter,work,shirts,trousers,puffer jacket
+3,5,44,2.76900837166085,foggy,afternoon,winter,casual,tops,jeans,puffer jacket
+9,10,62,12.394579347856926,cloudy,afternoon,winter,work,kurtas,trousers,coat
+2,1,59,7.846510391326122,sunny,afternoon,winter,casual,shirts,trousers,puffer jacket
+12,14,42,1.2364147823926888,cloudy,night,winter,casual,shirts,trousers,puffer jacket
+4,4,85,6.273237965724018,foggy,night,winter,party,tops,capris,puffer jacket
+11,10,41,12.176106369467107,foggy,afternoon,winter,work,shirts,trousers,coat
+7,7,87,6.089851866072733,cloudy,afternoon,winter,casual,kurtas,trousers,coat
+13,11,44,12.011600950730852,sunny,afternoon,winter,party,tops,trousers,coat
+12,10,43,2.6049933802250735,sunny,afternoon,winter,party,kurtas,jeans,coat
+4,4,73,10.90595135475593,cloudy,evening,winter,work,kurtas,jeans,puffer jacket
+5,6,46,11.884537699170535,clear,night,winter,work,kurtas,trousers,coat
+10,11,41,1.4059755328790304,clear,afternoon,winter,casual,tops,trousers,coat
+12,10,44,1.966397863396667,clear,afternoon,winter,party,shirts,trousers,coat
+12,14,36,5.910332142660733,clear,morning,winter,casual,tops,trousers,puffer jacket
+11,9,37,1.6215052774839696,sunny,afternoon,winter,casual,tops,leggings,coat
+11,9,48,7.145595017169781,clear,evening,winter,work,kurtas,trousers,coat
+12,14,44,6.319638627965987,clear,night,winter,work,tops,jeans,coat
+7,6,45,7.740737198422113,cloudy,morning,winter,work,tops,jeans,coat
+6,7,62,5.816546740326976,clear,evening,winter,casual,kurtas,trousers,puffer jacket
+7,8,88,11.147072346258328,clear,night,winter,work,shirts,jeans,puffer jacket
+8,10,77,11.44189220861366,cloudy,afternoon,winter,casual,shirts,trousers,coat
+13,14,38,13.851572107193878,clear,evening,winter,casual,kurtas,jeans,coat
+2,1,67,7.741864882225109,foggy,night,winter,work,shirts,trousers,coat
+8,7,37,6.692850038165399,foggy,night,winter,party,tops,trousers,coat
+7,6,42,2.5887085804373813,sunny,morning,winter,work,shirts,trousers,coat
+13,14,53,10.99317701175547,foggy,night,winter,casual,shirts,trousers,coat
+11,9,39,13.607970771450653,clear,evening,winter,work,tops,jeans,puffer jacket
+13,14,72,4.127812250305238,clear,night,winter,party,shirts,jeans,coat
+6,7,78,11.7439616720795,foggy,afternoon,winter,party,kurtas,trousers,puffer jacket
+11,10,72,13.832204801915545,cloudy,afternoon,winter,casual,shirts,trousers,puffer jacket
+8,7,43,2.7231166179621247,sunny,night,winter,work,kurtas,jeans,puffer jacket
+5,3,53,4.41939704423672,foggy,evening,winter,party,tops,trousers,puffer jacket
+6,5,84,1.0868614497479905,foggy,morning,winter,work,shirts,jeans,coat
+7,9,69,4.668086004111348,sunny,morning,winter,work,shirts,jeans,puffer jacket
+7,9,78,9.204519125199178,cloudy,evening,winter,casual,tops,jeans,coat
+13,14,74,2.407273787488924,sunny,night,winter,party,shirts,trousers,coat
+10,12,52,3.1708037975784764,sunny,night,winter,work,tops,trousers,coat
+5,3,64,8.159494543644698,cloudy,night,winter,party,shirts,jeans,coat
+4,5,61,2.9959169968535764,cloudy,morning,winter,party,shirts,trousers,coat
+6,6,37,7.447873082721978,clear,morning,winter,party,shirts,jeans,coat
+4,3,83,4.057642382776222,sunny,afternoon,winter,party,kurtas,trousers,puffer jacket
+8,10,89,10.6429147155189,clear,morning,winter,party,kurtas,trousers,puffer jacket
+6,6,87,1.7020557661219513,clear,afternoon,winter,casual,shirts,capris,puffer jacket
+2,3,54,4.646616736999858,foggy,afternoon,winter,party,kurtas,trousers,coat
+11,9,68,8.777140249358215,clear,morning,winter,casual,tops,capris,puffer jacket
+2,0,44,6.424515268370915,cloudy,evening,winter,casual,tops,trousers,coat
+9,9,51,14.0390143376765,cloudy,morning,winter,work,kurtas,trousers,coat
+4,5,88,13.299003962208348,cloudy,evening,winter,work,tops,jeans,coat
+11,9,86,2.0141635336624297,clear,night,winter,casual,kurtas,trousers,coat
+10,9,64,12.556757580959555,foggy,night,winter,party,tops,trousers,coat
+7,7,62,4.66161704545966,foggy,morning,winter,work,shirts,trousers,puffer jacket
+11,13,74,7.747116794756007,sunny,morning,winter,casual,tops,jeans,coat
+13,14,89,13.65585356921472,clear,evening,winter,work,kurtas,trousers,coat
+11,10,79,9.29321858365355,foggy,evening,winter,work,shirts,capris,coat
+9,8,74,14.451593434258273,cloudy,evening,winter,party,tops,jeans,puffer jacket
+6,4,58,1.9431466890887765,cloudy,morning,winter,casual,tops,jeans,puffer jacket
+4,6,86,10.180116557878272,sunny,afternoon,winter,casual,tops,trousers,coat
+4,4,70,8.548295282352576,clear,evening,winter,casual,kurtas,trousers,coat
+9,8,48,2.998821158894602,sunny,afternoon,winter,party,shirts,jeans,coat
+6,4,67,14.568188950007437,foggy,night,winter,work,tops,trousers,coat
+11,12,86,1.1609960249292874,sunny,morning,winter,work,kurtas,jeans,puffer jacket
+7,8,67,13.617384229307259,foggy,afternoon,winter,work,shirts,jeans,coat
+8,8,50,13.866435280592977,cloudy,evening,winter,casual,tops,trousers,coat
+6,6,66,2.0179915655325527,sunny,night,winter,casual,tops,trousers,coat
+12,11,65,8.854071816118179,cloudy,evening,winter,casual,shirts,trousers,coat
+9,10,45,8.745956204702104,sunny,afternoon,winter,casual,shirts,jeans,puffer jacket
+3,4,75,6.414068244068883,cloudy,afternoon,winter,work,kurtas,trousers,coat
+11,9,85,14.092160653713318,sunny,afternoon,winter,party,kurtas,jeans,puffer jacket
+5,3,51,3.2598828321455633,sunny,morning,winter,casual,kurtas,trousers,puffer jacket
+3,1,66,11.981079793063682,cloudy,morning,winter,work,tops,trousers,coat
+11,11,42,7.760637225845989,sunny,night,winter,party,tops,jeans,puffer jacket
+13,13,63,11.436483633689557,sunny,afternoon,winter,casual,shirts,jeans,puffer jacket
+13,14,83,10.137740548514277,clear,night,winter,work,shirts,jeans,coat
+5,6,73,14.208395831665161,clear,night,winter,work,tops,trousers,puffer jacket
+6,8,48,5.662024578531513,sunny,evening,winter,party,kurtas,trousers,coat
+10,10,48,12.153732252965023,foggy,night,winter,work,shirts,jeans,puffer jacket
+8,7,63,4.447426319906777,sunny,evening,winter,work,kurtas,trousers,coat
+3,3,76,3.5106259709417733,clear,evening,winter,casual,shirts,jeans,puffer jacket
+11,11,71,3.3466747367415337,foggy,afternoon,winter,work,shirts,trousers,puffer jacket
+12,12,35,5.6049430579836885,cloudy,morning,winter,work,tops,trousers,puffer jacket
+6,4,62,9.073429047719385,cloudy,morning,winter,party,kurtas,trousers,coat
+3,2,41,11.72675790987195,cloudy,evening,winter,party,kurtas,leggings,puffer jacket
+7,7,64,9.498649334194264,sunny,evening,winter,casual,kurtas,jeans,coat
+10,8,77,5.765496428025248,clear,evening,winter,casual,shirts,leggings,puffer jacket
+6,4,80,8.05308927284058,clear,night,winter,casual,kurtas,trousers,coat
+7,7,88,13.821084615713385,cloudy,night,winter,casual,shirts,trousers,puffer jacket
+3,2,41,14.665788748756901,foggy,night,winter,party,shirts,trousers,coat
+3,2,37,12.313990207169885,cloudy,afternoon,winter,casual,shirts,jeans,coat
+5,3,87,9.502237914807885,clear,afternoon,winter,work,shirts,trousers,puffer jacket
+10,8,43,6.791885684685917,clear,afternoon,winter,party,shirts,jeans,puffer jacket
+3,5,37,11.323222609336916,clear,evening,winter,work,shirts,trousers,coat
+4,2,72,14.861570247074823,cloudy,night,winter,party,shirts,leggings,puffer jacket
+8,6,60,2.7838433836921563,foggy,afternoon,winter,party,kurtas,trousers,coat
+6,5,73,5.954248162547412,cloudy,night,winter,casual,kurtas,trousers,puffer jacket
+5,5,63,11.751858506561724,cloudy,morning,winter,casual,shirts,trousers,coat
+2,0,38,5.670023803268023,sunny,afternoon,winter,party,shirts,jeans,coat
+10,9,71,13.737894744081714,foggy,morning,winter,party,kurtas,trousers,puffer jacket
+10,11,56,3.759651497116719,cloudy,afternoon,winter,casual,kurtas,trousers,coat
+2,2,43,8.3483778009887,sunny,afternoon,winter,party,shirts,jeans,coat
+9,10,37,5.764204452002268,foggy,morning,winter,casual,shirts,capris,coat
+5,6,63,3.8333478843393953,cloudy,morning,winter,work,kurtas,trousers,puffer jacket
+8,9,68,1.3226910995424332,sunny,morning,winter,party,kurtas,jeans,puffer jacket
+8,7,88,12.736429016404019,foggy,afternoon,winter,casual,kurtas,capris,coat
+13,14,74,3.275229445468781,clear,night,winter,work,kurtas,trousers,coat
+6,4,66,10.668075810080774,foggy,morning,winter,casual,tops,capris,puffer jacket
+7,5,36,11.247544415746356,cloudy,morning,winter,work,shirts,trousers,puffer jacket
+6,7,61,9.191033784067695,foggy,morning,winter,casual,kurtas,jeans,coat
+12,10,63,8.015101869236045,clear,evening,winter,casual,tops,trousers,puffer jacket
+6,7,41,12.577249231619366,sunny,afternoon,winter,work,shirts,trousers,puffer jacket
+6,4,70,2.9836221073819855,cloudy,evening,winter,party,kurtas,leggings,puffer jacket
+8,9,44,6.1110938465117295,foggy,evening,winter,casual,shirts,trousers,puffer jacket
+3,3,51,13.823644737917922,sunny,morning,winter,casual,tops,jeans,puffer jacket
+11,9,82,10.492031352346592,cloudy,morning,winter,casual,shirts,trousers,puffer jacket
+10,12,62,11.432915491147508,sunny,morning,winter,casual,shirts,jeans,puffer jacket
+9,9,46,10.679564169410847,cloudy,morning,winter,casual,shirts,leggings,puffer jacket
+6,8,65,1.3754408627181056,clear,afternoon,winter,casual,tops,jeans,coat
+8,9,62,7.514766565387999,clear,night,winter,work,tops,leggings,coat
+6,4,69,4.909314270825464,foggy,afternoon,winter,casual,kurtas,jeans,coat
+11,13,57,8.271263630652017,clear,morning,winter,party,shirts,trousers,puffer jacket
+12,12,80,8.318307982904544,cloudy,afternoon,winter,party,kurtas,leggings,coat
+3,3,84,4.091981165898609,sunny,night,winter,casual,shirts,trousers,puffer jacket
+10,12,50,2.8620098434667205,clear,morning,winter,party,shirts,jeans,puffer jacket
+3,4,54,10.05921509418241,cloudy,afternoon,winter,work,shirts,trousers,coat
+3,3,82,13.990747505671118,foggy,night,winter,party,shirts,jeans,coat
+12,10,79,6.645048051828072,clear,night,winter,work,shirts,jeans,coat
+10,9,79,7.531726976442703,cloudy,night,winter,casual,shirts,trousers,puffer jacket
+5,3,79,1.3101107396961598,cloudy,night,winter,party,shirts,trousers,coat
+6,6,44,14.409195220787355,foggy,morning,winter,casual,kurtas,trousers,coat
+11,11,42,12.058596315029655,foggy,night,winter,casual,kurtas,jeans,coat
+12,14,72,5.771140247048729,clear,evening,winter,party,shirts,jeans,coat
+11,10,36,1.058082836158279,foggy,night,winter,party,tops,capris,coat
+4,6,42,11.055356289934503,sunny,evening,winter,casual,shirts,trousers,coat
+4,5,50,10.663190841819766,cloudy,night,winter,party,kurtas,jeans,coat
+12,14,42,7.559335024074011,cloudy,night,winter,party,kurtas,jeans,coat
+8,8,66,10.250468353844472,foggy,morning,winter,party,kurtas,trousers,puffer jacket
+5,5,38,1.4285565219569298,cloudy,evening,winter,casual,kurtas,jeans,coat
+8,6,42,7.460526878869868,cloudy,afternoon,winter,work,kurtas,jeans,coat
+6,6,46,6.943655015037116,foggy,evening,winter,work,shirts,leggings,puffer jacket
+2,0,85,1.356886613563311,foggy,afternoon,winter,party,tops,jeans,puffer jacket
+11,13,83,1.5775688074602383,foggy,morning,winter,work,kurtas,leggings,puffer jacket
+2,3,87,1.4667148618594752,foggy,night,winter,work,shirts,trousers,coat
+3,2,45,9.643356281043118,foggy,evening,winter,work,tops,jeans,coat
+7,9,73,5.966815925401113,foggy,morning,winter,casual,tops,trousers,coat
+6,7,48,14.492877728646164,sunny,evening,winter,work,shirts,trousers,coat
+7,8,67,1.2039460047238397,cloudy,evening,winter,casual,kurtas,trousers,coat
+2,2,50,11.387744712291175,clear,night,winter,work,shirts,jeans,puffer jacket
+7,9,74,2.6070380400892406,clear,evening,winter,casual,kurtas,trousers,coat
+5,3,44,12.755357493198716,cloudy,morning,winter,casual,shirts,trousers,puffer jacket
+6,7,56,14.182328351152469,clear,night,winter,party,shirts,jeans,coat
+12,11,69,12.425317946902211,foggy,afternoon,winter,casual,kurtas,jeans,puffer jacket
+12,13,68,8.02422264042723,foggy,night,winter,casual,kurtas,leggings,puffer jacket
+3,3,67,10.55935119175571,foggy,night,winter,work,kurtas,trousers,puffer jacket
+10,8,65,10.811112970383032,clear,afternoon,winter,casual,kurtas,trousers,coat
+12,13,42,9.077564791432618,foggy,morning,winter,work,shirts,trousers,puffer jacket
+3,5,58,7.676101016878174,clear,afternoon,winter,party,kurtas,trousers,coat
+10,10,66,7.130877012180656,cloudy,afternoon,winter,casual,shirts,trousers,puffer jacket
+8,9,36,6.2744860839931835,sunny,night,winter,work,kurtas,trousers,puffer jacket
+12,14,45,12.498323496462413,clear,afternoon,winter,casual,kurtas,trousers,puffer jacket
+11,9,76,11.410925744452937,clear,evening,winter,casual,shirts,jeans,coat
+10,9,89,3.651438819210349,sunny,evening,winter,party,kurtas,jeans,coat
+6,5,73,9.545134867160415,cloudy,evening,winter,work,tops,trousers,puffer jacket
+13,11,46,14.194435749360355,foggy,night,winter,work,shirts,jeans,coat
+10,8,75,8.74081407117322,cloudy,evening,winter,work,kurtas,trousers,puffer jacket
+2,1,87,4.298829087201788,cloudy,night,winter,party,shirts,trousers,coat
+2,2,47,7.227192734425749,clear,morning,winter,work,tops,leggings,puffer jacket
+13,12,63,12.85532374280967,clear,afternoon,winter,casual,kurtas,jeans,puffer jacket
+7,9,51,12.992714750006673,sunny,evening,winter,party,shirts,trousers,coat
+13,11,50,4.458282813925309,cloudy,evening,winter,work,shirts,jeans,coat
+11,11,68,7.446892929927349,foggy,morning,winter,casual,kurtas,jeans,puffer jacket
+12,12,51,9.035274010437455,foggy,evening,winter,work,kurtas,trousers,coat
+9,11,78,4.687675560139239,foggy,morning,winter,party,shirts,jeans,puffer jacket
+8,6,64,2.948251867568085,cloudy,night,winter,casual,shirts,trousers,puffer jacket
+6,7,86,7.7969136962145456,sunny,afternoon,winter,casual,kurtas,trousers,puffer jacket
+9,9,53,12.029687593775888,foggy,night,winter,casual,shirts,jeans,coat
+8,6,76,6.714565244145942,foggy,morning,winter,casual,shirts,trousers,puffer jacket
+5,6,82,10.396987105585222,foggy,morning,winter,party,kurtas,capris,coat
+3,5,52,13.31507301583221,clear,night,winter,casual,shirts,trousers,puffer jacket
+12,11,65,3.648231874786614,sunny,afternoon,winter,work,shirts,leggings,puffer jacket
+12,12,62,9.602866729444242,sunny,evening,winter,party,shirts,trousers,puffer jacket
+12,13,72,12.506098038048833,foggy,morning,winter,casual,shirts,trousers,puffer jacket
+9,9,40,14.299364201367556,sunny,night,winter,work,kurtas,capris,puffer jacket
+10,11,41,3.068188583490792,cloudy,night,winter,party,shirts,trousers,puffer jacket
+4,3,60,14.364196604434595,foggy,afternoon,winter,work,kurtas,leggings,coat
+6,7,68,4.852707551008315,clear,morning,winter,casual,tops,leggings,coat
+9,8,87,1.482633267966109,sunny,morning,winter,party,shirts,jeans,coat
+3,4,73,3.2746665352617015,cloudy,afternoon,winter,party,tops,trousers,coat
+10,8,49,10.071535128795583,cloudy,morning,winter,party,shirts,trousers,coat
+7,7,87,7.032862636732008,foggy,evening,winter,work,shirts,trousers,puffer jacket
+8,9,38,2.6773432774988315,sunny,night,winter,casual,kurtas,jeans,coat
+9,10,74,8.981152953498928,cloudy,afternoon,winter,work,kurtas,trousers,puffer jacket
+4,6,60,7.968459971916582,foggy,night,winter,work,shirts,trousers,coat
+7,8,56,13.254490558006937,sunny,evening,winter,casual,kurtas,trousers,puffer jacket
+2,2,42,7.260143403088167,clear,afternoon,winter,work,tops,leggings,coat
+13,11,70,12.848290944985617,sunny,night,winter,casual,shirts,jeans,puffer jacket
+6,8,59,8.321158536659627,foggy,morning,winter,party,shirts,trousers,puffer jacket
+34,33,62,12.073467171278276,sunny,evening,summer,party,shirts,trousers,
+33,32,53,12.4008482631315,clear,afternoon,summer,casual,kurtas,trousers,
+30,31,75,4.574584446228407,clear,afternoon,summer,casual,tops,trousers,dupatta
+27,27,46,14.059490249745313,cloudy,morning,summer,casual,tops,trousers,dupatta
+36,35,49,5.133263216707449,sunny,morning,summer,party,shirts,jeans,dupatta
+34,36,79,8.753629690955648,sunny,evening,summer,casual,tops,trousers,
+27,29,61,10.267502441991688,cloudy,morning,summer,casual,kurtas,trousers,
+31,29,39,2.5522372516315026,sunny,evening,summer,casual,shirts,trousers,
+29,27,65,7.446772557514935,clear,morning,summer,casual,kurtas,jeans,dupatta
+36,36,88,11.427806930324362,cloudy,night,summer,casual,shirts,trousers,
+35,34,40,12.427049709998883,cloudy,evening,summer,casual,shirts,trousers,
+31,31,51,11.55531131610737,sunny,afternoon,summer,party,shirts,trousers,dupatta
+33,33,87,12.26049762297274,foggy,night,summer,casual,tops,trousers,dupatta
+26,25,62,6.658667978121658,clear,morning,summer,work,tops,leggings,dupatta
+37,37,80,4.358845690754507,foggy,morning,summer,work,shirts,trousers,dupatta
+38,39,77,11.412556973086906,sunny,morning,summer,work,kurtas,trousers,dupatta
+36,35,52,3.0553333788257246,cloudy,afternoon,summer,work,kurtas,trousers,dupatta
+35,33,75,9.924004435673126,clear,morning,summer,work,kurtas,trousers,
+26,25,82,1.2268169298364948,sunny,night,summer,party,tops,trousers,
+35,37,81,7.605755676768432,foggy,night,summer,work,shirts,jeans,
+33,33,53,12.540720446730028,cloudy,afternoon,summer,party,shirts,capris,dupatta
+36,36,44,8.237176926576696,sunny,night,summer,party,shirts,trousers,dupatta
+34,36,56,5.942771950221532,cloudy,afternoon,summer,work,kurtas,jeans,dupatta
+29,29,83,4.735416534255339,sunny,afternoon,summer,casual,shirts,trousers,
+32,33,76,3.1944111548298597,clear,morning,summer,casual,tops,jeans,dupatta
+28,26,37,7.745479657698828,cloudy,afternoon,summer,party,shirts,trousers,
+35,36,37,4.848336516486386,cloudy,morning,summer,work,tops,trousers,dupatta
+35,34,79,2.138872884499383,clear,night,summer,party,shirts,jeans,
+35,36,70,14.310186449278351,cloudy,morning,summer,casual,tops,leggings,dupatta
+34,35,51,12.168215919522476,cloudy,evening,summer,casual,kurtas,leggings,
+35,37,56,11.509743012950574,foggy,night,summer,party,tops,jeans,dupatta
+34,35,72,12.294535101797083,cloudy,morning,summer,work,shirts,jeans,dupatta
+31,31,76,9.948419437119435,cloudy,evening,summer,party,shirts,leggings,
+35,37,52,13.243930813366017,foggy,evening,summer,work,kurtas,jeans,
+36,38,74,1.1254861488506092,sunny,morning,summer,work,tops,leggings,dupatta
+34,35,49,5.761458041447425,foggy,evening,summer,work,kurtas,capris,dupatta
+38,37,72,5.56621063132435,foggy,morning,summer,casual,tops,jeans,dupatta
+30,30,85,14.36149600162533,sunny,morning,summer,casual,kurtas,jeans,dupatta
+33,31,41,11.298832043599502,foggy,evening,summer,casual,shirts,jeans,dupatta
+37,37,66,9.929092888523328,sunny,night,summer,party,kurtas,trousers,dupatta
+29,29,78,12.492483201351074,clear,night,summer,work,kurtas,trousers,dupatta
+26,28,42,13.63987695919632,clear,morning,summer,casual,tops,jeans,dupatta
+29,30,66,3.7237049541687757,clear,night,summer,work,kurtas,jeans,
+32,34,36,5.838674242620986,cloudy,evening,summer,casual,shirts,trousers,
+30,29,58,7.2069782722215,cloudy,morning,summer,work,kurtas,trousers,
+27,25,42,10.021698677976818,clear,morning,summer,work,kurtas,trousers,
+31,29,81,6.164722489619214,clear,evening,summer,work,kurtas,capris,dupatta
+31,31,80,12.944113670757567,clear,evening,summer,party,shirts,trousers,dupatta
+34,36,51,8.31289811176579,foggy,morning,summer,work,kurtas,jeans,dupatta
+28,29,86,5.4319179024270365,cloudy,morning,summer,work,shirts,capris,dupatta
+33,32,68,14.007034138988104,foggy,night,summer,casual,shirts,trousers,
+33,31,59,2.265647520822583,cloudy,afternoon,summer,party,tops,jeans,dupatta
+29,28,73,10.438454180612993,sunny,afternoon,summer,party,shirts,trousers,dupatta
+36,36,65,8.893877140826596,sunny,evening,summer,casual,shirts,trousers,dupatta
+28,29,38,6.072617190243919,clear,morning,summer,party,kurtas,trousers,dupatta
+35,37,43,14.581546118830481,sunny,night,summer,casual,shirts,jeans,
+37,36,44,13.508788184112287,foggy,night,summer,casual,shirts,trousers,dupatta
+31,31,64,7.476892355304401,sunny,morning,summer,party,shirts,trousers,
+29,27,44,4.357237524409386,cloudy,night,summer,party,tops,jeans,dupatta
+29,30,74,4.282872534830421,sunny,evening,summer,work,tops,trousers,dupatta
+37,39,85,7.965665451076378,cloudy,evening,summer,work,kurtas,leggings,dupatta
+35,35,77,9.511849807419836,cloudy,afternoon,summer,party,tops,jeans,
+35,37,60,6.2807961544887885,cloudy,morning,summer,party,kurtas,trousers,
+34,34,79,3.055754158565831,clear,night,summer,party,shirts,jeans,dupatta
+27,25,63,3.9316868439563075,foggy,afternoon,summer,work,kurtas,trousers,
+26,27,68,9.494321968479786,cloudy,night,summer,work,kurtas,jeans,dupatta
+26,26,74,8.94088364519681,sunny,afternoon,summer,work,kurtas,jeans,
+30,29,63,14.756648127346162,cloudy,night,summer,work,shirts,leggings,
+36,36,40,4.7642637349843895,clear,morning,summer,casual,tops,capris,
+32,30,80,4.404861506182946,foggy,evening,summer,work,shirts,trousers,
+34,34,57,7.606202905136454,clear,morning,summer,work,kurtas,capris,dupatta
+32,32,42,2.1662231011452344,clear,evening,summer,party,kurtas,jeans,dupatta
+29,28,36,12.554902460720237,sunny,night,summer,work,kurtas,jeans,
+33,33,55,9.295206493767052,foggy,evening,summer,casual,kurtas,trousers,dupatta
+28,26,59,12.4266145200321,foggy,afternoon,summer,work,kurtas,jeans,
+33,31,57,11.167341723152633,clear,evening,summer,party,kurtas,jeans,dupatta
+37,37,89,2.4557873068353935,cloudy,evening,summer,casual,shirts,jeans,
+33,35,89,6.722360650615977,sunny,evening,summer,party,kurtas,leggings,
+30,28,83,8.85625008273475,cloudy,afternoon,summer,work,shirts,trousers,
+32,33,35,9.855715719765328,cloudy,afternoon,summer,work,kurtas,trousers,dupatta
+30,29,72,14.933492474314647,cloudy,evening,summer,party,tops,jeans,dupatta
+30,30,60,2.990659585766882,sunny,evening,summer,casual,tops,trousers,
+28,27,83,6.910806683270585,sunny,evening,summer,casual,shirts,jeans,
+32,34,47,11.462684553322072,foggy,night,summer,party,shirts,trousers,
+38,39,42,12.21799122204539,cloudy,night,summer,work,shirts,trousers,
+27,27,69,8.691469078628792,clear,night,summer,party,kurtas,jeans,dupatta
+31,33,86,14.675511415900445,foggy,night,summer,work,shirts,trousers,
+28,27,81,1.3831514769409763,foggy,afternoon,summer,party,shirts,jeans,dupatta
+31,32,79,11.42694647573675,cloudy,night,summer,casual,shirts,leggings,dupatta
+29,29,52,5.765511764757401,sunny,afternoon,summer,work,kurtas,trousers,
+26,28,55,7.220513932111215,cloudy,afternoon,summer,work,tops,trousers,dupatta
+36,34,44,10.648175537098496,foggy,morning,summer,casual,kurtas,jeans,dupatta
+33,33,74,13.618303942434492,sunny,night,summer,work,shirts,trousers,dupatta
+35,34,37,14.40796062039902,cloudy,morning,summer,casual,tops,trousers,dupatta
+37,38,50,2.5638656919707747,cloudy,afternoon,summer,party,kurtas,trousers,
+30,28,86,6.494706073000207,sunny,morning,summer,casual,shirts,jeans,
+33,31,68,9.37851976695911,sunny,evening,summer,work,tops,trousers,dupatta
+36,35,77,7.676311819732472,cloudy,evening,summer,party,kurtas,jeans,
+28,27,88,8.729905170263084,clear,afternoon,summer,casual,shirts,trousers,dupatta
+28,26,74,8.843404760991236,cloudy,evening,summer,party,kurtas,trousers,dupatta
+36,38,89,5.066453296226933,foggy,afternoon,summer,casual,shirts,trousers,dupatta
+27,28,47,12.008830608493458,clear,night,summer,work,tops,trousers,
+33,34,47,3.1484110888002115,cloudy,evening,summer,party,kurtas,capris,dupatta
+27,25,68,13.449196766993992,sunny,afternoon,summer,casual,shirts,trousers,
+37,36,61,7.1215840655709135,sunny,evening,summer,work,kurtas,jeans,dupatta
+35,35,81,5.236925573368836,sunny,night,summer,work,kurtas,jeans,
+33,31,48,10.071155233452977,sunny,night,summer,work,kurtas,jeans,
+27,29,52,8.88823376602176,sunny,night,summer,casual,tops,jeans,
+37,38,83,4.907176163133308,sunny,afternoon,summer,party,shirts,jeans,dupatta
+26,28,55,10.24085049975758,clear,afternoon,summer,party,shirts,jeans,
+37,38,58,5.023604853459798,foggy,afternoon,summer,party,tops,capris,dupatta
+31,30,87,3.497876167298689,cloudy,night,summer,party,kurtas,trousers,
+35,35,74,12.786010897369092,clear,afternoon,summer,work,shirts,capris,
+29,31,68,5.466825027741959,clear,afternoon,summer,casual,shirts,jeans,
+32,33,73,4.45831246476963,cloudy,morning,summer,work,tops,jeans,
+31,30,79,6.01893189933615,cloudy,afternoon,summer,party,shirts,capris,dupatta
+26,28,57,3.434581121724671,cloudy,night,summer,party,tops,leggings,
+35,37,56,8.31227206624919,cloudy,night,summer,party,kurtas,capris,dupatta
+37,36,40,7.609341001753699,sunny,night,summer,casual,tops,trousers,dupatta
+28,29,49,11.821883745257663,foggy,evening,summer,party,shirts,jeans,dupatta
+26,26,35,9.82172332487571,cloudy,evening,summer,party,shirts,jeans,
+34,35,61,10.561904115906746,clear,afternoon,summer,casual,shirts,leggings,
+32,30,37,10.188280995694445,cloudy,afternoon,summer,party,kurtas,jeans,
+34,34,58,3.329163725102208,foggy,evening,summer,casual,shirts,jeans,dupatta
+28,26,86,10.643687452450418,cloudy,afternoon,summer,casual,shirts,trousers,
+29,27,57,11.68178601730179,sunny,morning,summer,party,kurtas,jeans,dupatta
+32,33,57,5.640623358927604,sunny,morning,summer,party,tops,jeans,
+35,36,35,4.632706434050446,sunny,night,summer,party,shirts,trousers,
+36,38,66,5.235714945734728,foggy,afternoon,summer,work,shirts,jeans,dupatta
+36,34,49,2.7216197277279,foggy,morning,summer,party,shirts,jeans,dupatta
+37,37,45,4.386489065952895,foggy,evening,summer,party,shirts,trousers,dupatta
+29,31,89,9.337262918295268,sunny,afternoon,summer,casual,shirts,trousers,
+33,32,61,11.62760964718756,foggy,evening,summer,work,shirts,trousers,dupatta
+36,36,66,10.239511530018776,clear,afternoon,summer,casual,shirts,trousers,
+33,34,70,9.418681469607225,clear,afternoon,summer,party,tops,leggings,dupatta
+28,30,35,4.956821899345907,cloudy,evening,summer,party,shirts,capris,
+33,34,70,3.99460932306976,cloudy,night,summer,casual,kurtas,trousers,dupatta
+33,31,44,3.3038307196542736,sunny,night,summer,work,kurtas,leggings,dupatta
+26,28,40,10.31531245214848,sunny,evening,summer,party,kurtas,jeans,dupatta
+28,29,64,14.575503777382986,cloudy,morning,summer,party,tops,trousers,
+26,28,47,12.837079449237697,sunny,night,summer,casual,tops,jeans,
+27,25,89,3.8863349699874385,foggy,afternoon,summer,casual,kurtas,leggings,
+36,37,82,13.349763991088222,sunny,morning,summer,work,shirts,jeans,
+30,28,72,7.183964588209381,cloudy,afternoon,summer,casual,kurtas,jeans,dupatta
+35,34,88,3.0779108479225616,sunny,evening,summer,work,shirts,trousers,dupatta
+36,38,87,9.784171840051092,cloudy,night,summer,work,kurtas,trousers,dupatta
+36,37,53,11.761841430259016,sunny,afternoon,summer,party,shirts,jeans,dupatta
+30,31,45,5.101129001744985,clear,evening,summer,casual,tops,trousers,
+26,25,81,12.69407393355809,foggy,night,summer,work,tops,trousers,
+26,26,60,10.867641874124914,foggy,night,summer,casual,tops,trousers,dupatta
+36,37,57,2.8123714755518496,foggy,night,summer,work,kurtas,leggings,
+36,35,68,6.667263844482998,foggy,morning,summer,party,shirts,trousers,dupatta
+27,25,54,13.94876669091322,sunny,afternoon,summer,work,tops,trousers,dupatta
+29,29,47,2.855974431113785,sunny,afternoon,summer,party,tops,jeans,
+29,29,60,7.073608955501796,clear,night,summer,casual,tops,jeans,
+29,29,89,1.3434960178932451,cloudy,morning,summer,casual,kurtas,jeans,dupatta
+37,37,76,3.686131042740884,cloudy,night,summer,casual,tops,jeans,
+38,40,77,8.394143687904386,foggy,afternoon,summer,casual,shirts,leggings,
+38,40,75,2.3632037235242125,foggy,night,summer,casual,kurtas,leggings,
+35,33,39,4.0731929926540635,clear,evening,summer,casual,shirts,trousers,dupatta
+35,36,87,8.18783285471437,cloudy,night,summer,party,shirts,jeans,dupatta
+38,38,68,5.733230378980796,foggy,morning,summer,casual,shirts,jeans,
+31,30,38,11.301119982397127,cloudy,night,summer,party,tops,jeans,
+28,28,41,2.8800514425910464,cloudy,morning,summer,party,shirts,leggings,dupatta
+34,34,54,5.7957253869607746,clear,night,summer,work,shirts,capris,dupatta
+35,37,58,5.728393973607061,cloudy,evening,summer,party,shirts,leggings,dupatta
+27,28,64,9.032921548125552,sunny,afternoon,summer,casual,tops,jeans,
+36,36,46,12.916071193416457,clear,night,summer,party,tops,jeans,
+32,30,78,10.801416200865283,clear,afternoon,summer,party,tops,jeans,dupatta
+31,29,76,6.620761539173152,sunny,evening,summer,work,shirts,trousers,dupatta
+38,40,61,4.740377509625855,foggy,afternoon,summer,party,shirts,capris,
+29,27,73,1.7528766634209645,clear,night,summer,casual,shirts,trousers,dupatta
+29,31,64,5.481228242148323,cloudy,afternoon,summer,work,tops,leggings,dupatta
+36,34,66,4.74776975855595,foggy,night,summer,party,shirts,trousers,dupatta
+26,24,59,1.1107572058627133,cloudy,night,summer,casual,kurtas,trousers,
+33,33,84,2.589090396109654,clear,night,summer,casual,kurtas,trousers,dupatta
+37,39,71,9.446183176358836,sunny,evening,summer,work,shirts,jeans,
+38,37,45,2.019045119466571,sunny,morning,summer,casual,shirts,jeans,
+32,33,50,9.71545853146077,sunny,afternoon,summer,party,tops,trousers,dupatta
+38,39,88,5.58268559458312,cloudy,morning,summer,work,shirts,leggings,dupatta
+35,37,56,3.6345427796137937,cloudy,night,summer,work,shirts,jeans,
+27,25,67,11.264351248705923,clear,night,summer,party,shirts,trousers,dupatta
+37,39,67,14.167556528062416,sunny,evening,summer,party,tops,trousers,
+26,26,78,11.610253828538076,foggy,night,summer,work,kurtas,trousers,
+37,37,50,5.064966477387685,foggy,morning,summer,party,kurtas,jeans,dupatta
+30,32,79,4.660461432676134,cloudy,night,summer,party,kurtas,trousers,
+38,40,73,10.055360059859407,foggy,night,summer,work,tops,capris,
+34,33,45,4.286823481713207,sunny,afternoon,summer,casual,kurtas,jeans,dupatta
+30,31,60,3.025555429212732,foggy,morning,summer,work,kurtas,trousers,
+35,35,35,8.626159174186235,cloudy,morning,summer,casual,kurtas,trousers,dupatta
+36,37,42,7.298201429160803,cloudy,night,summer,work,shirts,trousers,
+30,29,75,10.328676504054325,clear,evening,summer,party,kurtas,trousers,dupatta
+29,29,58,12.290931124058323,foggy,evening,summer,party,kurtas,trousers,
+38,38,35,3.182001023908442,foggy,afternoon,summer,party,tops,jeans,
+36,38,37,13.911485554031,cloudy,morning,summer,party,shirts,trousers,dupatta
+35,37,36,8.116575904038463,foggy,evening,summer,party,shirts,capris,
+32,31,61,3.4774402228381764,sunny,night,summer,casual,tops,leggings,dupatta
+37,36,86,10.769455929746346,cloudy,afternoon,summer,casual,shirts,jeans,dupatta
+36,35,42,14.060060870667092,cloudy,night,summer,casual,kurtas,jeans,dupatta
+37,39,85,7.636937529528825,foggy,afternoon,summer,party,shirts,trousers,
+38,40,51,4.223011144120084,clear,evening,summer,casual,kurtas,capris,dupatta
+30,30,82,11.54354447096986,foggy,evening,summer,party,kurtas,jeans,dupatta
+35,34,81,8.270631319502224,sunny,afternoon,summer,party,shirts,trousers,
+33,35,85,3.1563302204638095,sunny,morning,summer,casual,kurtas,trousers,
+29,27,84,7.536488479140353,foggy,afternoon,summer,party,kurtas,trousers,
+29,27,58,4.278874801669097,sunny,afternoon,summer,party,shirts,trousers,dupatta
+30,29,86,10.334100607435367,cloudy,afternoon,summer,work,tops,trousers,
+34,34,65,13.549956432319448,foggy,evening,summer,work,shirts,trousers,
+31,32,68,2.3103831602318765,sunny,night,summer,casual,tops,jeans,dupatta
+27,29,45,13.522726959125537,foggy,morning,summer,work,tops,jeans,dupatta
+29,29,68,1.656866081817747,sunny,night,summer,party,shirts,trousers,
+35,37,42,7.621850597326997,clear,morning,summer,casual,kurtas,trousers,
+35,33,51,8.33051928780474,cloudy,night,summer,party,shirts,trousers,dupatta
+36,35,85,6.12371025124777,clear,evening,summer,party,tops,jeans,dupatta
+34,34,43,4.916397479133243,sunny,afternoon,summer,work,tops,trousers,
+36,36,75,2.124699413225926,sunny,afternoon,summer,party,tops,leggings,dupatta
+30,28,36,10.999681917026955,cloudy,evening,summer,casual,shirts,jeans,
+31,30,83,12.904342085525416,foggy,afternoon,summer,party,tops,jeans,
+38,37,43,1.1979002301606543,clear,morning,summer,casual,shirts,trousers,dupatta
+29,28,67,14.706336492331134,foggy,afternoon,summer,work,shirts,jeans,dupatta
+33,34,46,4.330837780963969,cloudy,afternoon,summer,work,kurtas,leggings,dupatta
+29,28,60,4.2918269553197765,clear,afternoon,summer,casual,tops,jeans,
+35,34,52,14.015220015930247,clear,evening,summer,casual,shirts,jeans,dupatta
+34,34,75,8.660611537889604,foggy,morning,summer,work,kurtas,jeans,
+34,34,66,14.787331206791691,clear,afternoon,summer,party,kurtas,trousers,
+37,35,82,9.953591417767608,sunny,night,summer,casual,shirts,trousers,
+32,34,37,1.0155137591936731,foggy,morning,summer,work,kurtas,trousers,
+30,32,65,8.648151468301014,cloudy,evening,summer,party,kurtas,trousers,dupatta
+26,27,89,8.675087041658868,clear,evening,summer,work,shirts,trousers,
+26,25,67,1.4537120103416163,sunny,afternoon,summer,work,shirts,jeans,dupatta
+28,28,58,7.610801079903346,sunny,morning,summer,party,kurtas,jeans,
+31,33,61,1.142473397132775,sunny,afternoon,summer,casual,shirts,trousers,
+32,34,68,11.741197794766533,clear,afternoon,summer,work,shirts,jeans,
+37,37,76,2.559632553468366,foggy,evening,summer,party,tops,jeans,dupatta
+34,35,60,2.35072830661917,foggy,morning,summer,casual,kurtas,capris,
+36,34,75,11.779338157645999,cloudy,morning,summer,work,tops,trousers,dupatta
+31,29,88,9.554242715649943,cloudy,morning,summer,work,tops,jeans,
+32,32,85,9.933129361902967,foggy,afternoon,summer,work,tops,trousers,
+29,29,76,5.302670150311323,clear,morning,summer,casual,shirts,trousers,
+26,24,64,5.414930192605125,cloudy,afternoon,summer,party,shirts,jeans,dupatta
+37,37,50,6.341341711273405,sunny,evening,summer,work,shirts,trousers,dupatta
+30,28,85,8.504267936060423,cloudy,evening,summer,party,shirts,trousers,dupatta
+29,27,61,9.967638948066588,foggy,morning,summer,work,kurtas,jeans,dupatta
+38,39,40,7.272379753474518,foggy,night,summer,casual,kurtas,jeans,
+36,36,41,13.390194796304241,clear,evening,summer,casual,shirts,jeans,dupatta
+30,31,61,12.63013002480357,cloudy,morning,summer,party,shirts,trousers,dupatta
+30,30,73,3.651161327395571,cloudy,evening,summer,work,shirts,trousers,
+28,28,48,10.554249833864423,foggy,night,summer,casual,shirts,trousers,
+27,25,60,6.323807813852515,sunny,afternoon,summer,party,shirts,jeans,
+38,37,52,7.4414809699995095,sunny,morning,summer,casual,shirts,capris,
+33,32,46,9.914834306509022,cloudy,night,summer,party,shirts,jeans,
+28,26,62,10.340816426309724,sunny,morning,summer,casual,shirts,trousers,dupatta
+33,35,37,5.3623904459175975,sunny,night,summer,party,tops,trousers,dupatta
+26,27,62,4.511038110642202,sunny,morning,summer,work,kurtas,trousers,
+26,28,37,3.8119028026235,foggy,afternoon,summer,work,kurtas,jeans,dupatta
+35,35,71,14.7813547841875,clear,night,summer,casual,kurtas,jeans,
+30,30,67,2.480509171981371,cloudy,afternoon,summer,work,kurtas,trousers,
+34,36,43,13.073133834408715,clear,afternoon,summer,casual,kurtas,jeans,dupatta
+37,39,39,6.216316859196369,sunny,night,summer,work,tops,jeans,dupatta
+27,27,62,10.209944188480353,foggy,evening,summer,casual,shirts,jeans,dupatta
+34,32,58,1.8132512834800891,cloudy,morning,summer,casual,shirts,jeans,
+36,37,71,10.362703341504544,cloudy,afternoon,summer,party,tops,capris,dupatta
+31,31,41,11.778516818790122,cloudy,afternoon,summer,party,tops,trousers,dupatta
+37,39,73,6.105749296281973,foggy,afternoon,summer,party,shirts,jeans,
+32,34,79,2.7173166008938803,cloudy,morning,summer,work,shirts,jeans,
+36,34,35,1.3966476529025142,foggy,evening,summer,party,shirts,jeans,
+26,25,36,7.307385702639878,clear,evening,summer,party,shirts,trousers,
+30,29,75,14.453905986662873,clear,afternoon,summer,work,tops,jeans,dupatta
+36,36,79,2.6776224717159405,clear,afternoon,summer,party,shirts,trousers,dupatta
+26,28,57,2.811237022623956,cloudy,evening,summer,casual,shirts,trousers,dupatta
+31,31,60,14.176889531670934,clear,afternoon,summer,work,tops,jeans,
+34,36,63,7.389558043220184,sunny,morning,summer,party,kurtas,jeans,
+28,29,39,7.866579395093293,foggy,morning,summer,casual,kurtas,trousers,
+37,35,73,4.204452158371196,foggy,afternoon,summer,casual,kurtas,trousers,
+28,28,66,4.1743270543087,sunny,evening,summer,work,tops,jeans,dupatta
+29,29,46,4.73867472350493,sunny,night,summer,casual,kurtas,leggings,dupatta
+26,25,81,13.593910004055688,clear,evening,summer,casual,kurtas,trousers,
+30,28,54,13.1577091972253,cloudy,afternoon,summer,party,shirts,jeans,dupatta
+26,27,72,12.899739214402082,foggy,evening,summer,casual,kurtas,trousers,
+32,32,47,1.8486983225978788,clear,evening,summer,party,tops,trousers,
+35,37,69,8.185633373534397,foggy,night,summer,casual,shirts,jeans,
+29,27,88,2.5572856300585696,clear,night,summer,party,shirts,jeans,
+35,35,54,11.088737338085304,sunny,afternoon,summer,casual,shirts,capris,dupatta
+34,36,87,5.52760587369186,foggy,night,summer,party,shirts,capris,dupatta
+28,30,82,11.22069210251773,clear,afternoon,summer,party,shirts,capris,
+37,37,44,6.693652529475245,cloudy,night,summer,work,tops,jeans,dupatta
+29,31,56,10.50989182724274,sunny,afternoon,summer,work,tops,trousers,dupatta
+27,25,74,9.705404163109126,clear,afternoon,summer,casual,shirts,jeans,
+37,36,50,13.18335120462847,foggy,night,summer,casual,shirts,trousers,dupatta
+31,33,37,14.49065303359898,sunny,afternoon,summer,work,shirts,capris,
+37,36,69,10.44381550201005,sunny,afternoon,summer,work,tops,trousers,
+30,29,64,13.625534121226142,clear,afternoon,summer,casual,kurtas,trousers,dupatta
+27,27,71,12.665935227906044,foggy,evening,summer,party,kurtas,trousers,dupatta
+38,38,75,2.777859585619751,clear,afternoon,summer,party,shirts,trousers,dupatta
+28,30,37,13.019969381349656,cloudy,morning,summer,party,kurtas,jeans,
+36,36,36,12.3221051482865,foggy,evening,summer,party,kurtas,leggings,
+31,29,88,8.919232701847076,cloudy,morning,summer,party,shirts,jeans,dupatta
+37,38,67,11.941573634831258,foggy,night,summer,party,shirts,trousers,
+27,25,52,7.871857288233292,cloudy,morning,summer,party,shirts,jeans,dupatta
+29,28,88,2.559995405576867,clear,morning,summer,casual,shirts,jeans,dupatta
+30,31,50,6.185320039247508,foggy,afternoon,summer,work,shirts,jeans,
+34,32,86,11.600574150551452,foggy,night,summer,work,tops,trousers,dupatta
+37,36,38,7.358741141444896,cloudy,afternoon,summer,party,shirts,leggings,
+32,32,76,11.202417991001395,clear,evening,summer,work,tops,capris,
+35,37,36,2.5688437070219283,foggy,night,summer,casual,kurtas,trousers,
+38,39,44,11.454567693910871,clear,afternoon,summer,casual,shirts,jeans,dupatta
+35,37,78,10.101979801363154,foggy,morning,summer,party,shirts,jeans,
+31,30,89,10.456841477952231,foggy,afternoon,summer,casual,tops,trousers,
+26,25,87,14.120890362273572,cloudy,evening,summer,casual,tops,trousers,
+26,27,88,1.4658435236315739,cloudy,night,summer,party,tops,jeans,
+28,27,35,13.833566869514613,cloudy,evening,summer,work,shirts,jeans,dupatta
+33,32,82,3.006437847684337,foggy,evening,summer,party,kurtas,trousers,
+28,27,50,8.556716659340056,cloudy,evening,summer,work,tops,jeans,
+26,27,36,14.68038306534999,clear,morning,summer,casual,shirts,trousers,
+28,26,59,11.538475111883468,foggy,afternoon,summer,party,tops,trousers,dupatta
+34,34,51,4.773123290663124,sunny,night,summer,party,kurtas,capris,dupatta
+28,29,41,7.973623190626173,foggy,afternoon,summer,party,kurtas,trousers,dupatta
+26,25,67,6.294114240833822,cloudy,afternoon,summer,work,tops,trousers,
+33,34,89,10.092029403123506,sunny,evening,summer,work,tops,jeans,dupatta
+30,29,79,11.302143055617151,sunny,night,summer,work,kurtas,trousers,dupatta
+32,30,53,2.7329783301692157,foggy,morning,summer,party,tops,trousers,
+29,29,43,13.151656559781452,clear,evening,summer,work,shirts,capris,
+28,27,38,13.30187983523542,foggy,afternoon,summer,casual,kurtas,trousers,dupatta
+26,24,42,1.4683800563137934,sunny,morning,summer,work,shirts,trousers,dupatta
+30,30,61,1.9285830283714962,foggy,morning,summer,work,shirts,jeans,dupatta
+27,29,40,3.4278456761353455,clear,night,summer,party,tops,trousers,
+34,32,72,9.313917657075326,cloudy,morning,summer,party,tops,jeans,
+36,37,37,7.593133421681909,cloudy,afternoon,summer,work,tops,jeans,dupatta
+26,27,48,14.76648937452565,cloudy,afternoon,summer,work,kurtas,trousers,dupatta
+28,27,37,12.068374997162266,cloudy,evening,summer,work,shirts,trousers,
+34,32,75,6.591971205919869,foggy,night,summer,party,shirts,jeans,
+32,33,69,11.21726427296694,sunny,evening,summer,casual,shirts,trousers,
+34,36,36,11.033038155055207,sunny,evening,summer,casual,tops,jeans,dupatta
+29,28,66,11.421785900263353,cloudy,afternoon,summer,casual,kurtas,trousers,
+33,35,69,12.438699944004354,clear,afternoon,summer,casual,kurtas,jeans,
+26,28,83,13.170133352711684,sunny,morning,summer,party,shirts,capris,
+38,40,67,5.110806581155624,foggy,evening,summer,party,tops,jeans,
+35,34,48,2.7738539736959096,sunny,night,summer,casual,shirts,jeans,
+34,35,35,3.6972130749938206,sunny,afternoon,summer,work,kurtas,trousers,
+30,29,82,13.14772987959835,foggy,morning,summer,work,tops,trousers,dupatta
+33,34,66,2.071956344746818,foggy,evening,summer,work,shirts,trousers,dupatta
+29,27,81,10.754086461947693,foggy,morning,summer,party,kurtas,jeans,
+38,37,80,1.9811271241708024,foggy,evening,summer,party,kurtas,trousers,dupatta
+30,28,36,5.4203547486607215,clear,night,summer,party,tops,trousers,dupatta
+31,30,55,9.316340162752931,foggy,morning,summer,casual,tops,jeans,dupatta
+34,34,51,14.838698018238187,cloudy,night,summer,party,shirts,trousers,dupatta
+29,31,66,14.25007092705831,clear,evening,summer,work,kurtas,leggings,dupatta
+36,34,88,13.679659759912633,sunny,evening,summer,casual,shirts,jeans,dupatta
+34,32,77,7.90342370596588,cloudy,morning,summer,casual,tops,trousers,dupatta
+32,34,38,1.2150757643507613,cloudy,morning,summer,work,tops,jeans,
+35,35,61,2.9615597545741896,clear,night,summer,casual,kurtas,trousers,dupatta
+26,28,78,10.843595241594809,foggy,morning,summer,work,shirts,capris,
+29,31,60,6.209123274852887,foggy,evening,summer,party,tops,leggings,dupatta
+29,30,40,4.8304898534015575,sunny,morning,summer,casual,kurtas,jeans,
+38,37,61,12.950009321283217,cloudy,night,summer,party,kurtas,jeans,dupatta
+27,25,49,6.9513452548759,sunny,evening,summer,party,kurtas,leggings,
+37,39,59,13.162963808857706,sunny,morning,summer,work,tops,trousers,dupatta
+27,29,50,3.358223948538568,sunny,afternoon,summer,casual,tops,trousers,
+31,33,46,4.193923088293826,clear,morning,summer,casual,kurtas,leggings,dupatta
+37,38,49,12.610314728778608,foggy,afternoon,summer,work,kurtas,jeans,
+27,26,46,1.6671844842648464,clear,evening,summer,work,shirts,capris,dupatta
+32,33,56,9.992713688669673,foggy,afternoon,summer,work,tops,jeans,
+37,35,58,5.186376795666854,clear,afternoon,summer,casual,shirts,jeans,dupatta
+35,35,84,14.69771587072591,foggy,night,summer,casual,kurtas,trousers,
+33,33,50,12.496547191251228,cloudy,afternoon,summer,work,kurtas,trousers,dupatta
+28,26,70,2.991998542270587,cloudy,evening,summer,work,tops,capris,
+38,39,60,14.296209901591265,foggy,evening,summer,party,kurtas,jeans,
+37,37,76,12.842880696000668,clear,night,summer,casual,shirts,trousers,
+32,31,78,5.533331653782657,cloudy,afternoon,summer,party,shirts,jeans,dupatta
+34,36,61,7.861521456207088,foggy,afternoon,summer,casual,shirts,trousers,
+34,33,89,13.039363710859188,sunny,afternoon,summer,work,tops,trousers,dupatta
+33,35,84,13.856717973274641,foggy,afternoon,summer,party,shirts,trousers,dupatta
+26,28,67,8.184443307013204,sunny,afternoon,summer,work,tops,trousers,
+28,27,84,13.233625357555997,sunny,evening,summer,work,shirts,jeans,dupatta
+38,37,62,8.755391787743934,foggy,night,summer,work,shirts,trousers,
+26,27,81,9.078761495992229,cloudy,afternoon,spring,casual,shirts,jeans,
+22,24,62,14.18419009074183,sunny,evening,spring,casual,shirts,jeans,
+21,23,86,4.734297161397489,foggy,night,spring,party,shirts,jeans,
+23,23,45,5.3799591890988445,sunny,afternoon,spring,casual,shirts,trousers,
+19,21,70,10.739025890774176,sunny,morning,spring,party,shirts,jeans,
+27,26,55,1.876159029497639,cloudy,evening,spring,casual,shirts,leggings,
+18,20,36,1.6761243034342828,sunny,night,spring,casual,tops,trousers,
+19,20,68,13.375924250496336,clear,afternoon,spring,party,shirts,capris,
+25,27,81,7.399855565053309,clear,morning,spring,party,shirts,jeans,
+26,25,47,3.3824006342380066,cloudy,afternoon,spring,casual,tops,jeans,
+18,18,46,2.287845354627259,cloudy,evening,spring,party,kurtas,jeans,
+23,24,46,7.303078626086441,sunny,afternoon,spring,casual,kurtas,capris,
+24,24,60,6.682896381684249,cloudy,evening,spring,work,tops,leggings,
+19,21,41,3.8343400155013017,sunny,morning,spring,party,shirts,trousers,
+19,19,76,5.108903094053292,clear,evening,spring,party,shirts,jeans,
+27,25,52,1.7390943779308248,sunny,evening,spring,work,kurtas,jeans,
+27,28,63,12.905255779249023,cloudy,evening,spring,party,kurtas,jeans,
+26,24,37,13.86445288427938,clear,morning,spring,party,shirts,jeans,
+19,20,54,1.2532824663712803,foggy,evening,spring,party,shirts,capris,
+24,24,89,14.334488545580513,sunny,morning,spring,casual,kurtas,jeans,
+20,22,60,5.26946109873752,clear,night,spring,work,tops,trousers,
+26,25,67,8.915251756795788,foggy,evening,spring,work,shirts,jeans,
+25,24,51,13.562456387530652,clear,morning,spring,casual,tops,leggings,
+24,22,78,6.360641834615416,sunny,morning,spring,party,kurtas,trousers,
+25,27,78,10.974405325868423,sunny,morning,spring,work,tops,jeans,
+21,23,58,7.736389361847037,sunny,night,spring,work,shirts,jeans,
+21,20,85,1.96709859228513,foggy,evening,spring,casual,tops,jeans,
+22,22,37,14.57711790206235,cloudy,evening,spring,casual,kurtas,trousers,
+24,23,36,12.236202834214199,clear,evening,spring,party,kurtas,jeans,
+25,26,37,11.713474399574979,foggy,morning,spring,casual,shirts,trousers,
+20,19,75,14.774170929808767,clear,night,spring,work,shirts,trousers,
+27,26,63,8.527935354749799,cloudy,afternoon,spring,casual,tops,trousers,
+27,29,43,3.5431868787151286,clear,evening,spring,party,tops,trousers,
+25,25,76,5.320112549907683,clear,afternoon,spring,casual,kurtas,jeans,
+25,27,62,8.580382855392148,foggy,night,spring,party,shirts,trousers,
+22,21,84,4.17542888899985,cloudy,night,spring,work,shirts,trousers,
+22,22,68,8.376892669552703,foggy,morning,spring,work,shirts,trousers,
+20,21,68,3.015665997863418,foggy,night,spring,work,shirts,trousers,
+21,19,37,5.448556340878892,sunny,afternoon,spring,casual,tops,jeans,
+24,26,59,13.822697405596516,foggy,afternoon,spring,work,kurtas,jeans,
+27,27,77,7.703085810434525,foggy,morning,spring,work,kurtas,jeans,
+19,18,66,14.24299380349907,foggy,evening,spring,work,shirts,jeans,
+19,17,84,1.2102984729538846,foggy,afternoon,spring,party,shirts,jeans,
+18,19,52,6.14047375615604,clear,morning,spring,casual,tops,trousers,
+18,18,84,12.078986951429576,clear,morning,spring,work,shirts,trousers,
+21,19,58,2.5014916367811706,foggy,morning,spring,casual,kurtas,jeans,
+26,28,36,3.3268049944931857,sunny,afternoon,spring,casual,kurtas,jeans,
+19,19,35,1.6272673461553722,cloudy,morning,spring,casual,shirts,jeans,
+23,23,80,9.811604856116178,cloudy,afternoon,spring,casual,kurtas,jeans,
+25,24,40,1.3751417619350568,clear,night,spring,work,shirts,jeans,
+26,26,70,11.759896713631743,cloudy,night,spring,work,kurtas,trousers,
+26,27,79,3.668912196987674,clear,afternoon,spring,party,kurtas,trousers,
+19,21,35,10.066817278684859,cloudy,afternoon,spring,party,shirts,leggings,
+23,25,86,10.300762869118405,clear,night,spring,casual,shirts,jeans,
+18,20,70,11.579457043621948,cloudy,afternoon,spring,work,tops,trousers,
+26,26,42,5.028250125245863,sunny,night,spring,work,shirts,jeans,
+26,28,67,13.309737441756514,cloudy,afternoon,spring,work,kurtas,jeans,
+20,21,62,8.125158766430076,foggy,afternoon,spring,work,tops,trousers,
+21,19,41,9.798243097106816,foggy,morning,spring,work,kurtas,jeans,
+21,23,83,6.496928032046708,sunny,afternoon,spring,work,kurtas,trousers,
+20,20,69,3.4743514788090266,clear,night,spring,casual,shirts,jeans,
+22,23,60,2.3710879465016044,clear,afternoon,spring,party,kurtas,jeans,
+20,20,47,10.94967428304971,clear,morning,spring,party,tops,jeans,
+26,25,74,11.300127031311172,sunny,afternoon,spring,work,shirts,capris,
+26,24,68,10.132119971983625,clear,afternoon,spring,casual,kurtas,trousers,
+18,19,75,8.180685839595798,foggy,evening,spring,party,tops,trousers,
+19,18,87,8.123747700028257,foggy,morning,spring,party,kurtas,trousers,
+22,20,73,12.736112294097207,sunny,evening,spring,casual,shirts,trousers,
+21,23,67,11.646557442212579,cloudy,evening,spring,casual,kurtas,trousers,
+20,21,48,13.402120437064756,foggy,evening,spring,party,shirts,jeans,
+24,25,43,7.499715451900521,foggy,evening,spring,party,shirts,trousers,
+19,21,60,4.731986888348709,foggy,morning,spring,casual,shirts,trousers,
+20,18,42,5.245792374608796,clear,morning,spring,work,kurtas,jeans,
+23,25,44,14.776304575196217,sunny,night,spring,work,kurtas,jeans,
+23,21,74,13.432146904022527,clear,evening,spring,casual,kurtas,jeans,
+21,19,52,11.151885815044107,clear,evening,spring,work,shirts,trousers,
+19,21,35,14.445038363621778,clear,morning,spring,party,shirts,trousers,
+21,23,80,1.6388054022231366,cloudy,morning,spring,party,shirts,trousers,
+27,25,44,8.036922783917035,cloudy,morning,spring,casual,tops,leggings,
+24,24,50,1.1169162484277766,foggy,afternoon,spring,work,shirts,trousers,
+23,22,85,3.5729701453199927,cloudy,morning,spring,work,shirts,capris,
+26,27,74,12.390848604814408,cloudy,morning,spring,work,shirts,jeans,
+22,21,42,14.170439367337785,foggy,evening,spring,party,kurtas,jeans,
+18,16,55,7.164241493855822,cloudy,night,spring,casual,shirts,capris,
+26,26,46,10.629078854076507,sunny,evening,spring,casual,tops,capris,
+18,18,73,6.068599597847288,sunny,night,spring,casual,kurtas,trousers,
+26,27,66,3.284530291411702,foggy,night,spring,casual,kurtas,leggings,
+20,20,59,14.198075107474027,cloudy,afternoon,spring,work,kurtas,trousers,
+22,20,37,14.646276330773057,clear,morning,spring,party,kurtas,jeans,
+18,17,73,8.43863783240219,foggy,afternoon,spring,party,shirts,trousers,
+18,20,48,10.833505781251956,cloudy,morning,spring,work,shirts,jeans,
+20,18,70,12.211176432146518,clear,night,spring,casual,shirts,trousers,
+22,24,74,4.143829490627194,cloudy,night,spring,party,kurtas,jeans,
+18,17,74,7.336380959632528,sunny,evening,spring,party,kurtas,jeans,
+24,25,61,13.162985285454264,foggy,afternoon,spring,work,shirts,trousers,
+19,21,77,1.8115459347513359,foggy,evening,spring,party,shirts,trousers,
+21,22,75,9.010676945404272,clear,evening,spring,party,kurtas,jeans,
+20,19,55,9.14227148744562,cloudy,evening,spring,work,shirts,capris,
+19,19,48,1.3196039427728667,sunny,evening,spring,work,kurtas,jeans,
+27,27,77,14.506633012803405,cloudy,night,spring,work,kurtas,trousers,
+23,23,61,10.920920454037882,cloudy,morning,spring,casual,shirts,leggings,
+23,21,36,8.866268040317193,foggy,morning,spring,party,shirts,trousers,
+26,28,70,11.198339026905522,clear,morning,spring,party,kurtas,jeans,
+19,20,49,9.90986123585936,cloudy,morning,spring,casual,shirts,jeans,
+19,21,44,5.508512235844322,clear,evening,spring,casual,shirts,leggings,
+19,18,40,1.7938351888911763,cloudy,night,spring,casual,shirts,leggings,
+24,22,87,9.22429940495954,cloudy,morning,spring,work,kurtas,trousers,
+21,22,46,8.362038965194046,foggy,morning,spring,casual,kurtas,jeans,
+27,26,60,5.647515864812707,clear,afternoon,spring,work,tops,trousers,
+25,23,69,3.352048456352202,clear,night,spring,work,kurtas,jeans,
+25,26,63,4.78903660392742,cloudy,night,spring,work,shirts,trousers,
+23,21,53,13.853083373266436,foggy,night,spring,party,tops,jeans,
+26,27,39,11.484426789561965,sunny,morning,spring,party,shirts,capris,
+18,19,47,13.255766361972901,cloudy,afternoon,spring,party,shirts,trousers,
+23,21,83,5.312221008668963,foggy,afternoon,spring,party,shirts,trousers,
+19,18,86,2.270831250803797,foggy,night,spring,work,shirts,trousers,
+24,25,72,4.488659146609436,foggy,afternoon,spring,casual,kurtas,jeans,
+20,21,79,1.3820271384380856,clear,evening,spring,party,kurtas,trousers,
+18,20,70,3.73391037446512,sunny,afternoon,spring,casual,kurtas,jeans,
+22,24,39,8.325213329231536,foggy,evening,spring,work,kurtas,jeans,
+18,17,67,8.789936581027789,sunny,afternoon,spring,casual,kurtas,jeans,
+23,24,55,13.365768537052105,foggy,morning,spring,work,kurtas,capris,
+23,23,51,2.5675396722177837,sunny,morning,spring,work,shirts,trousers,
+24,25,44,4.2364600633079945,foggy,evening,spring,casual,shirts,jeans,
+25,25,89,1.9209643279750976,clear,night,spring,casual,shirts,trousers,
+20,19,41,11.500489974353874,foggy,night,spring,party,tops,capris,
+26,25,75,4.496646230996691,foggy,morning,spring,party,shirts,trousers,
+22,23,67,8.88980713904988,sunny,evening,spring,party,shirts,trousers,
+20,21,35,10.088450026110143,cloudy,night,spring,work,tops,trousers,
+27,27,45,10.486588985460163,cloudy,evening,spring,party,tops,jeans,
+25,23,48,8.438668461710591,foggy,morning,spring,party,tops,trousers,
+25,26,48,14.396203206427522,sunny,afternoon,spring,party,kurtas,trousers,
+20,20,36,11.505909227327141,clear,night,spring,work,kurtas,jeans,
+21,23,45,10.997659266493555,cloudy,afternoon,spring,casual,kurtas,jeans,
+24,24,58,9.67400088034971,sunny,night,spring,work,kurtas,capris,
+27,28,72,6.093365689142073,foggy,afternoon,spring,party,kurtas,leggings,
+27,27,85,8.316451195443552,cloudy,morning,spring,casual,shirts,capris,
+25,26,48,4.141889575211492,cloudy,night,spring,work,kurtas,trousers,
+27,25,68,7.32048450696285,cloudy,morning,spring,casual,kurtas,jeans,
+19,17,63,3.5402664536971287,clear,afternoon,spring,party,kurtas,capris,
+24,24,51,3.299386836950605,foggy,evening,spring,work,kurtas,trousers,
+26,25,56,11.902522299052746,foggy,afternoon,spring,work,shirts,trousers,
+21,20,81,5.53777164723096,sunny,evening,spring,casual,shirts,capris,
+27,29,46,8.227589302512229,clear,night,spring,casual,kurtas,jeans,
+27,25,42,8.653877091761267,sunny,morning,spring,work,kurtas,trousers,
+21,22,47,11.879052926008399,foggy,morning,spring,work,shirts,trousers,
+23,24,71,11.152640080665446,clear,evening,spring,casual,shirts,jeans,
+26,25,51,9.180542774245522,sunny,evening,spring,work,kurtas,jeans,
+20,21,70,13.421274477274837,foggy,afternoon,spring,work,kurtas,jeans,
+20,22,46,8.772395114965118,foggy,afternoon,spring,party,shirts,leggings,
+18,20,69,7.054131027929709,sunny,afternoon,spring,casual,shirts,trousers,
+26,24,54,13.968301504323955,foggy,morning,spring,work,kurtas,trousers,
+21,20,41,5.838457579434487,sunny,evening,spring,party,kurtas,leggings,
+27,25,68,13.867173709694864,sunny,afternoon,spring,casual,kurtas,leggings,
+26,26,85,10.726334259868647,cloudy,night,spring,party,shirts,trousers,
+25,25,43,11.979206713114094,foggy,night,spring,casual,kurtas,trousers,
+26,26,47,3.738682416112951,foggy,morning,spring,party,tops,jeans,
+21,22,64,14.894360940511604,sunny,night,spring,party,kurtas,leggings,
+25,27,46,1.0246718440103246,clear,evening,spring,casual,kurtas,leggings,
+27,26,77,5.025239215237249,clear,evening,spring,casual,tops,jeans,
+27,27,68,5.760376161817483,sunny,evening,spring,casual,shirts,trousers,
+24,25,74,13.054350942519857,cloudy,morning,spring,party,kurtas,jeans,
+22,22,55,1.2384681778029207,clear,afternoon,spring,casual,kurtas,jeans,
+19,19,81,4.054964390948028,clear,night,spring,casual,shirts,jeans,
+21,23,86,14.771036281808763,clear,evening,spring,party,tops,leggings,
+20,18,78,5.556167200047325,clear,afternoon,spring,party,shirts,capris,
+20,22,46,9.382938033914309,foggy,morning,spring,party,kurtas,trousers,
+20,18,62,14.099984479388098,sunny,night,spring,work,shirts,leggings,
+18,20,81,5.371973394988522,sunny,morning,spring,casual,shirts,trousers,
+25,26,36,11.56211537351637,clear,evening,spring,party,kurtas,trousers,
+26,26,35,13.888798508916864,cloudy,afternoon,spring,casual,kurtas,jeans,
+22,20,44,8.053874524236157,foggy,afternoon,spring,casual,kurtas,leggings,
+21,23,59,4.646032292803329,cloudy,evening,spring,work,shirts,leggings,
+27,29,74,2.0038029999555746,sunny,afternoon,spring,party,kurtas,jeans,
+21,23,88,5.643247771078724,cloudy,afternoon,spring,casual,tops,jeans,
+19,21,82,8.178362252144826,foggy,night,spring,party,kurtas,jeans,
+24,23,56,2.5061177414213818,sunny,afternoon,spring,party,shirts,trousers,
+25,23,47,4.411703014920953,foggy,morning,spring,work,tops,jeans,
+22,20,68,14.158358153522586,clear,evening,spring,work,shirts,capris,
+19,17,76,8.914731717893652,clear,evening,spring,work,shirts,trousers,
+20,19,76,13.684633843725917,clear,afternoon,spring,party,tops,trousers,
+27,27,71,14.53306252599746,foggy,night,spring,casual,kurtas,trousers,
+18,20,60,9.889868067359872,clear,morning,spring,work,shirts,jeans,
+27,26,68,11.040791799577251,clear,afternoon,spring,party,shirts,trousers,
+19,20,75,5.979689077692555,sunny,morning,spring,work,shirts,capris,
+23,25,39,5.3505849059938715,clear,evening,spring,work,kurtas,jeans,
+26,26,55,13.463883408852443,foggy,evening,spring,casual,kurtas,trousers,
+18,17,78,3.9252033507112847,cloudy,afternoon,spring,work,tops,leggings,
+21,22,48,2.1394358380524574,foggy,afternoon,spring,casual,shirts,jeans,
+24,25,50,12.5063302301804,clear,afternoon,spring,party,tops,jeans,
+27,25,57,1.1532461191037204,clear,afternoon,spring,party,shirts,trousers,
+23,22,81,12.54010867155699,cloudy,afternoon,spring,work,shirts,jeans,
+22,22,36,8.992825521904852,foggy,morning,spring,party,shirts,capris,
+18,19,67,11.064596006901413,clear,morning,spring,work,shirts,trousers,
+24,22,36,13.320899115354246,cloudy,afternoon,spring,party,shirts,trousers,
+25,26,74,5.16339291296118,cloudy,afternoon,spring,party,tops,trousers,
+27,28,64,9.623920499913696,cloudy,morning,spring,work,shirts,trousers,
+25,26,89,5.303526858259621,cloudy,evening,spring,party,tops,jeans,
+26,24,77,10.917558779867205,sunny,night,spring,work,kurtas,jeans,
+24,24,49,12.80537753997403,clear,morning,spring,work,kurtas,trousers,
+18,17,44,14.531961514978015,foggy,afternoon,spring,party,shirts,trousers,
+27,26,76,10.296446872253698,foggy,afternoon,spring,casual,kurtas,jeans,
+21,21,79,4.073457357800059,foggy,morning,spring,work,shirts,jeans,
+26,24,53,14.588595539423373,clear,morning,spring,casual,tops,capris,
+23,24,54,3.204815765494982,sunny,night,spring,work,tops,jeans,
+23,24,41,5.452813116743192,sunny,evening,spring,work,shirts,trousers,
+23,25,77,2.3703082915852303,cloudy,night,spring,work,shirts,jeans,
+20,19,54,12.775823314079165,sunny,evening,spring,casual,shirts,trousers,
+18,20,82,9.207910253196351,clear,morning,spring,work,kurtas,jeans,
+27,28,72,5.506183182521,clear,morning,spring,casual,kurtas,trousers,
+27,29,58,9.405722544108606,clear,night,spring,work,tops,trousers,
+20,22,88,11.683168152749477,cloudy,morning,spring,casual,tops,leggings,
+19,19,57,4.340112284816299,sunny,morning,spring,casual,kurtas,trousers,
+23,24,65,12.715697667885346,sunny,morning,spring,party,tops,jeans,
+19,19,41,2.6615921627215284,foggy,morning,spring,casual,kurtas,leggings,
+26,26,68,11.194640594900076,cloudy,afternoon,spring,work,tops,capris,
+26,28,54,12.04318562213072,clear,night,spring,party,kurtas,leggings,
+25,25,57,1.1081300738380047,foggy,morning,spring,party,kurtas,trousers,
+25,25,84,4.03620863492318,sunny,evening,spring,work,tops,leggings,
+27,29,54,1.2366746507886832,clear,morning,spring,party,shirts,jeans,
+19,17,85,5.666633219809711,clear,night,spring,work,kurtas,trousers,
+26,26,68,1.5718969478702476,clear,afternoon,spring,casual,kurtas,trousers,
+20,21,47,14.650411732438343,sunny,afternoon,spring,work,shirts,capris,
+24,26,44,13.155148323507627,clear,afternoon,spring,party,shirts,capris,
+27,28,63,11.255810423039195,clear,night,spring,casual,tops,leggings,
+21,23,79,9.68448648193689,clear,morning,spring,work,shirts,jeans,
+26,24,60,9.922402176457524,cloudy,morning,spring,casual,shirts,trousers,
+20,22,63,4.162082931810482,cloudy,afternoon,spring,work,shirts,jeans,
+26,27,52,12.234362275334908,sunny,afternoon,spring,work,shirts,capris,
+24,24,64,7.492535434715245,sunny,night,spring,party,kurtas,trousers,
+27,25,49,5.53977090781666,sunny,morning,spring,work,kurtas,leggings,
+20,22,74,11.096321925627425,foggy,afternoon,spring,casual,kurtas,jeans,
+19,21,41,3.5467140135381277,cloudy,night,spring,casual,kurtas,trousers,
+24,23,80,12.975460805530323,sunny,evening,spring,casual,kurtas,trousers,
+23,24,58,13.1123727356127,foggy,night,spring,work,shirts,trousers,
+23,22,53,14.006383218016204,cloudy,morning,spring,work,shirts,jeans,
+25,27,83,14.53022253151682,foggy,evening,spring,casual,shirts,trousers,
+25,23,89,2.2022660219051504,foggy,evening,spring,party,shirts,capris,
+25,24,82,9.279480986372098,clear,evening,spring,work,shirts,jeans,
+24,22,61,4.570731571674251,cloudy,morning,spring,work,kurtas,trousers,
+23,24,88,7.280011172810019,foggy,night,spring,casual,kurtas,jeans,
+27,27,41,6.501293940214326,foggy,evening,spring,work,tops,trousers,
+21,20,35,1.0330231176368532,cloudy,afternoon,spring,work,shirts,jeans,
+21,20,62,6.9723827923781,cloudy,afternoon,spring,casual,kurtas,capris,
+24,23,47,1.8151299844184932,sunny,evening,spring,party,kurtas,jeans,
+26,24,49,7.1680298670243054,sunny,afternoon,spring,party,shirts,trousers,
+21,22,55,11.288707930570217,sunny,night,spring,party,shirts,trousers,
+19,17,65,3.999373777069549,cloudy,night,spring,work,tops,jeans,
+21,19,43,13.708919123045845,foggy,evening,spring,party,shirts,jeans,
+21,21,47,14.577007227396106,cloudy,evening,spring,casual,shirts,jeans,
+18,19,66,3.697558684563314,clear,night,spring,work,shirts,trousers,
+24,25,54,9.873895595651637,sunny,afternoon,spring,casual,kurtas,jeans,
+22,20,56,9.323372692707622,foggy,morning,spring,party,shirts,jeans,
+22,21,45,10.473595047418588,sunny,morning,spring,work,shirts,trousers,
+26,27,52,13.847729884932775,sunny,morning,spring,party,kurtas,jeans,
+27,29,54,14.613931287398188,sunny,evening,spring,casual,shirts,jeans,
+20,20,80,7.347651136248497,foggy,afternoon,spring,party,kurtas,trousers,
+22,20,89,5.842541581752768,foggy,night,spring,casual,shirts,trousers,
+22,23,47,14.406261514566049,clear,night,spring,party,kurtas,jeans,
+22,22,69,11.496694952616705,foggy,evening,spring,casual,shirts,trousers,
+23,24,61,14.202213602573485,clear,night,spring,party,shirts,jeans,
+20,20,38,8.81911575992362,sunny,afternoon,spring,casual,kurtas,jeans,
+20,22,55,2.3327837881161484,foggy,morning,spring,work,shirts,trousers,
+19,18,74,13.188456734104891,clear,afternoon,spring,party,shirts,jeans,
+18,18,58,1.122430434734206,cloudy,morning,spring,party,kurtas,jeans,
+24,25,49,1.1208962006498602,foggy,evening,spring,party,kurtas,jeans,
+18,20,59,8.53698092194475,clear,evening,spring,work,kurtas,capris,
+19,17,46,1.9696205049320705,cloudy,afternoon,spring,work,kurtas,trousers,
+23,25,67,9.297098974183479,clear,night,spring,work,kurtas,jeans,
+18,16,71,13.573484957550535,foggy,night,spring,casual,kurtas,trousers,
+20,18,52,2.3860039352025373,foggy,evening,spring,work,shirts,leggings,
+27,29,47,12.491396465931762,foggy,morning,spring,casual,shirts,jeans,
+26,24,46,8.086530972055813,cloudy,morning,spring,work,kurtas,jeans,
+26,24,44,12.154304522706742,foggy,evening,spring,work,tops,trousers,
+18,17,60,12.137159269837198,clear,night,spring,party,kurtas,jeans,
+20,22,68,2.1283879678529467,clear,morning,spring,casual,shirts,jeans,
+23,23,57,9.48052738194138,sunny,afternoon,spring,casual,shirts,capris,
+24,24,40,6.496183823097328,clear,morning,spring,work,shirts,trousers,
+23,21,49,9.190540866979585,sunny,night,spring,casual,tops,trousers,
+27,26,66,13.27057306094475,cloudy,morning,spring,casual,shirts,jeans,
+19,17,53,13.014899214088722,clear,evening,spring,casual,tops,trousers,
+22,22,36,4.345421605876465,sunny,night,spring,casual,shirts,trousers,
+23,24,74,11.169711979614299,clear,night,spring,casual,shirts,capris,
+19,18,72,8.188959648768888,foggy,evening,spring,casual,shirts,trousers,
+27,25,45,1.7363907758742094,cloudy,evening,spring,party,shirts,trousers,
+24,24,85,9.46583610268618,cloudy,evening,spring,work,tops,trousers,
+24,25,70,10.253735940422702,clear,evening,spring,work,kurtas,capris,
+23,24,78,8.187557011170217,cloudy,evening,spring,casual,shirts,leggings,
+25,27,82,10.731723483908258,cloudy,afternoon,spring,casual,tops,trousers,
+24,25,81,11.051676626025419,cloudy,afternoon,spring,work,kurtas,trousers,
+27,29,65,8.331159642523776,sunny,evening,spring,casual,shirts,jeans,
+22,24,60,3.0145838269463585,sunny,night,spring,party,shirts,trousers,
+24,25,78,10.402791832017934,cloudy,night,spring,casual,kurtas,leggings,
+27,28,54,3.7955977635403526,cloudy,night,spring,party,kurtas,jeans,
+18,17,84,14.073977591124443,foggy,afternoon,spring,work,shirts,leggings,
+22,21,63,6.730155638088199,sunny,afternoon,spring,party,kurtas,trousers,
+22,23,54,5.142007807717911,clear,evening,spring,casual,kurtas,trousers,
+26,28,67,14.283101650290094,sunny,afternoon,spring,work,shirts,trousers,
+26,27,88,8.209764586779384,clear,afternoon,spring,party,tops,trousers,
+26,27,88,9.762033064543159,clear,night,spring,party,kurtas,jeans,
+24,23,83,14.471053598103408,sunny,afternoon,spring,work,tops,jeans,
+24,24,47,7.699591484424639,cloudy,morning,spring,party,shirts,capris,
+24,25,81,8.137998745287884,foggy,morning,spring,work,kurtas,jeans,
+27,28,50,14.271322171909992,foggy,night,spring,casual,kurtas,leggings,
+22,21,69,12.807671685131352,cloudy,afternoon,spring,work,shirts,jeans,
+22,23,64,1.5102929280496917,cloudy,evening,spring,work,tops,trousers,
+26,28,45,10.090729955416947,foggy,evening,spring,party,kurtas,jeans,
+27,25,37,5.142265979783234,cloudy,evening,spring,work,kurtas,trousers,
+20,19,50,10.428175148046812,cloudy,evening,spring,casual,shirts,trousers,
+27,28,80,4.337914324170952,clear,afternoon,spring,party,kurtas,jeans,
+24,24,74,12.912905722834834,cloudy,evening,spring,casual,tops,jeans,
+26,27,86,13.880379032065298,sunny,evening,spring,casual,shirts,trousers,
+19,19,40,13.11410020742783,foggy,morning,spring,work,kurtas,trousers,
+27,28,82,10.723871150915793,sunny,night,spring,casual,tops,trousers,
+19,19,58,3.3519669868785558,clear,night,spring,casual,shirts,jeans,
+25,27,61,10.019395077694549,sunny,afternoon,spring,work,kurtas,trousers,
+27,29,55,8.992497561699633,foggy,evening,spring,casual,kurtas,jeans,
+22,24,60,1.3271218425091273,clear,evening,spring,party,kurtas,jeans,
+23,21,75,6.586988135470124,cloudy,afternoon,spring,casual,kurtas,leggings,
+27,29,59,3.0745884623615973,cloudy,afternoon,spring,party,tops,trousers,
+21,22,69,3.2944570027672944,clear,morning,spring,casual,kurtas,trousers,
+26,24,71,2.457816053932474,clear,night,spring,casual,kurtas,jeans,
+22,20,39,8.829409774438,foggy,night,spring,work,kurtas,jeans,
+19,20,35,11.776875636191637,sunny,evening,spring,party,shirts,capris,
+19,20,88,9.63581845874436,foggy,night,spring,work,shirts,trousers,
+19,21,74,11.82351380612159,foggy,evening,spring,work,shirts,leggings,
+26,25,68,2.412592032450312,foggy,afternoon,spring,casual,shirts,trousers,
+26,26,72,11.493217837305956,foggy,night,spring,casual,kurtas,trousers,
+26,25,57,11.686402912852092,clear,evening,spring,casual,shirts,trousers,
+26,26,79,1.8025665639117578,cloudy,morning,spring,party,shirts,jeans,
+22,24,60,2.326665548038041,cloudy,afternoon,spring,work,shirts,jeans,
+22,23,80,2.4186051506989896,foggy,afternoon,spring,party,kurtas,jeans,
+27,28,76,3.278522495602247,cloudy,morning,spring,party,kurtas,jeans,
+27,26,79,11.2660685919143,foggy,morning,spring,casual,kurtas,jeans,
+22,21,70,9.254406747195379,sunny,morning,spring,work,shirts,leggings,
+22,20,47,14.114923406771968,clear,morning,spring,work,kurtas,trousers,
+19,17,80,14.740185258142978,cloudy,afternoon,spring,party,tops,jeans,
+19,17,86,11.181541562953802,foggy,night,spring,party,tops,capris,
+20,22,40,8.400957468663123,sunny,morning,spring,work,kurtas,jeans,
+22,22,57,9.928185392785304,cloudy,evening,spring,work,kurtas,jeans,
+19,17,63,5.236365372412072,cloudy,afternoon,spring,party,kurtas,leggings,
+19,18,71,13.242725100313422,cloudy,night,spring,casual,kurtas,leggings,
+24,22,59,2.4501379661878975,sunny,afternoon,spring,work,tops,jeans,
+27,28,69,14.154983656308977,clear,morning,spring,casual,shirts,jeans,
+20,22,57,7.833015767146961,cloudy,night,spring,work,kurtas,trousers,
+22,24,65,7.736254810419233,clear,evening,spring,work,shirts,trousers,
+21,19,65,14.968522790532413,foggy,afternoon,spring,party,shirts,trousers,
+21,21,41,10.82040235144548,clear,afternoon,spring,work,shirts,jeans,
+23,22,60,13.13984797986511,sunny,evening,spring,work,shirts,jeans,
+22,20,85,5.502408621628976,cloudy,evening,spring,casual,shirts,leggings,
+24,22,88,11.407713195336548,clear,afternoon,spring,party,kurtas,jeans,
+25,26,38,5.0327177304753326,clear,morning,spring,party,kurtas,trousers,
+25,26,53,9.00595354914007,cloudy,night,spring,party,shirts,trousers,
+26,26,72,9.8918957243296,sunny,night,spring,work,tops,trousers,
+24,24,50,6.250047115747322,sunny,evening,spring,party,shirts,capris,
+27,28,65,11.781652612862722,sunny,morning,spring,work,shirts,trousers,
+23,23,74,3.195139494058176,cloudy,morning,spring,casual,kurtas,trousers,
+25,26,47,2.497673341913929,cloudy,afternoon,spring,casual,shirts,jeans,
+18,18,63,10.943264019658367,foggy,afternoon,spring,casual,tops,jeans,
+18,16,45,11.773749120072992,sunny,night,spring,work,kurtas,jeans,
+27,27,76,13.116627401627138,cloudy,afternoon,spring,party,shirts,leggings,
+26,27,73,2.024343045574028,sunny,evening,spring,casual,shirts,jeans,
+18,20,85,4.690939357882309,cloudy,evening,spring,casual,shirts,trousers,
+25,25,85,8.25704449221077,cloudy,evening,spring,party,tops,trousers,
+23,24,88,4.775856686366913,cloudy,evening,spring,work,kurtas,trousers,
+21,23,54,2.291572081671248,foggy,morning,spring,casual,shirts,jeans,
+20,22,65,5.1033632682771035,sunny,afternoon,spring,casual,shirts,jeans,
+19,17,50,10.96087325252165,sunny,afternoon,spring,casual,kurtas,jeans,
+20,19,37,1.1662728812435041,cloudy,afternoon,spring,casual,shirts,trousers,
+22,20,44,7.129585043258682,cloudy,evening,spring,casual,kurtas,jeans,
+24,24,87,3.791691067235006,cloudy,evening,spring,casual,kurtas,jeans,
+25,27,55,5.9915558476540225,sunny,evening,spring,party,shirts,trousers,
+22,23,42,13.591135891059263,foggy,morning,spring,party,shirts,jeans,
+27,25,63,5.5783514707994755,cloudy,afternoon,spring,party,kurtas,trousers,
+25,27,53,1.531268249425177,clear,night,spring,work,shirts,capris,
+19,19,89,6.597622337780453,sunny,morning,fall,party,shirts,trousers,jacket
+22,22,73,2.3462095926811655,sunny,afternoon,fall,work,shirts,trousers,jacket
+16,17,43,8.017191097127,sunny,night,fall,casual,tops,trousers,jacket
+23,22,38,12.152261146001154,sunny,night,fall,work,tops,jeans,jacket
+21,20,89,1.625624580591925,sunny,night,fall,party,shirts,trousers,jacket
+17,19,85,4.645717449110397,foggy,afternoon,fall,work,shirts,jeans,jacket
+19,19,76,7.324397283074323,clear,evening,fall,work,kurtas,trousers,jacket
+19,20,81,4.751134146643559,foggy,afternoon,fall,casual,shirts,trousers,jacket
+20,22,69,4.243379562092669,cloudy,night,fall,party,kurtas,jeans,jacket
+15,16,62,12.193226483230369,sunny,evening,fall,work,kurtas,jeans,jacket
+19,21,67,5.790190695017564,sunny,afternoon,fall,casual,shirts,capris,jacket
+19,17,36,9.731253791870937,clear,evening,fall,casual,shirts,trousers,jacket
+22,24,68,12.255162103546585,clear,morning,fall,party,kurtas,jeans,jacket
+16,18,81,5.827862532118516,cloudy,afternoon,fall,casual,kurtas,trousers,jacket
+20,21,63,5.993549686274485,sunny,morning,fall,party,kurtas,jeans,jacket
+16,15,75,3.1787189345859437,sunny,afternoon,fall,work,tops,jeans,jacket
+20,22,36,3.8538768189440797,cloudy,afternoon,fall,casual,kurtas,trousers,jacket
+21,23,74,11.295793952827065,clear,afternoon,fall,work,kurtas,trousers,jacket
+23,24,35,4.21653024787754,foggy,night,fall,casual,shirts,trousers,jacket
+17,16,77,3.3468509865489864,clear,night,fall,work,tops,leggings,jacket
+15,15,74,14.527349552099937,foggy,afternoon,fall,casual,shirts,jeans,jacket
+20,19,52,3.7910966961330876,foggy,afternoon,fall,work,shirts,leggings,jacket
+16,15,55,4.1429390368987224,cloudy,night,fall,casual,kurtas,trousers,jacket
+18,17,56,8.982043144368328,cloudy,morning,fall,work,shirts,leggings,jacket
+16,15,66,7.572640557298908,sunny,evening,fall,party,kurtas,trousers,jacket
+15,16,51,4.918149242893462,foggy,afternoon,fall,party,kurtas,trousers,jacket
+24,22,47,13.215469058653456,foggy,morning,fall,work,tops,jeans,jacket
+24,23,79,3.683769049179758,clear,evening,fall,casual,tops,trousers,jacket
+24,26,64,12.7040505590399,foggy,evening,fall,casual,tops,trousers,jacket
+20,21,53,8.752739063475742,cloudy,afternoon,fall,casual,tops,jeans,jacket
+17,15,52,3.3090302577754933,foggy,evening,fall,casual,shirts,trousers,jacket
+16,17,73,2.5806011382534693,clear,afternoon,fall,work,kurtas,trousers,jacket
+16,18,46,12.872662036122925,sunny,night,fall,casual,shirts,jeans,jacket
+15,13,49,4.045351045405994,foggy,afternoon,fall,party,kurtas,trousers,jacket
+18,17,84,10.320971559614378,cloudy,afternoon,fall,work,tops,jeans,jacket
+22,20,89,9.220147999850989,sunny,afternoon,fall,party,kurtas,trousers,jacket
+22,22,79,2.781471016134954,foggy,afternoon,fall,party,kurtas,leggings,jacket
+20,21,87,13.143551584147147,sunny,afternoon,fall,work,tops,trousers,jacket
+22,22,49,14.396869966728751,sunny,afternoon,fall,work,kurtas,leggings,jacket
+19,19,82,11.809175064762044,cloudy,morning,fall,party,kurtas,jeans,jacket
+15,14,40,2.2298981582303057,clear,night,fall,party,shirts,trousers,jacket
+20,20,71,11.702428725306941,clear,evening,fall,work,kurtas,trousers,jacket
+17,18,77,4.382810244637637,cloudy,morning,fall,party,shirts,trousers,jacket
+19,19,57,1.4532695575450723,cloudy,night,fall,work,kurtas,jeans,jacket
+19,20,58,7.661210255012831,foggy,night,fall,party,kurtas,trousers,jacket
+19,20,88,7.782809226262062,cloudy,evening,fall,casual,shirts,jeans,jacket
+24,26,89,7.581310849091047,cloudy,afternoon,fall,casual,shirts,jeans,jacket
+15,14,72,11.607754472404746,sunny,morning,fall,party,tops,leggings,jacket
+18,19,57,12.85631339017687,clear,morning,fall,party,tops,leggings,jacket
+17,17,58,9.944433767677914,foggy,morning,fall,party,kurtas,capris,jacket
+16,16,68,2.7937090598294434,clear,afternoon,fall,casual,kurtas,trousers,jacket
+22,21,40,7.666664923818492,sunny,morning,fall,work,shirts,jeans,jacket
+22,24,74,2.980572957487885,cloudy,afternoon,fall,party,kurtas,jeans,jacket
+20,20,67,12.880666484537624,sunny,evening,fall,casual,shirts,trousers,jacket
+22,22,78,5.085155000137687,clear,evening,fall,work,kurtas,trousers,jacket
+23,24,87,11.74228174166563,clear,afternoon,fall,casual,shirts,capris,jacket
+22,23,38,5.5320042749374,foggy,night,fall,casual,tops,jeans,jacket
+16,17,77,1.1197905732168996,foggy,afternoon,fall,party,shirts,jeans,jacket
+21,22,78,14.980534375496713,clear,evening,fall,party,kurtas,capris,jacket
+15,14,62,12.590591236053005,foggy,morning,fall,work,kurtas,trousers,jacket
+17,17,52,3.836965615784104,sunny,afternoon,fall,party,kurtas,jeans,jacket
+24,23,72,7.866511282595605,clear,afternoon,fall,work,shirts,trousers,jacket
+17,17,65,3.1326087385591417,clear,night,fall,party,shirts,trousers,jacket
+24,25,54,13.14848830690114,foggy,afternoon,fall,party,shirts,jeans,jacket
+20,22,40,11.433999545107389,foggy,morning,fall,casual,kurtas,capris,jacket
+22,22,41,3.760904500056575,cloudy,afternoon,fall,work,kurtas,trousers,jacket
+15,15,78,13.687752654777643,sunny,evening,fall,party,kurtas,jeans,jacket
+16,16,75,5.331626079940116,cloudy,afternoon,fall,party,shirts,trousers,jacket
+21,20,84,12.409659561442991,clear,night,fall,work,tops,trousers,jacket
+18,19,78,4.599517851019929,clear,afternoon,fall,work,shirts,trousers,jacket
+18,19,88,8.467348692895923,foggy,morning,fall,party,tops,trousers,jacket
+17,16,77,13.014265828074222,clear,night,fall,casual,shirts,jeans,jacket
+20,18,80,9.499077762041358,foggy,morning,fall,work,shirts,jeans,jacket
+21,19,51,1.4136614598565824,clear,evening,fall,casual,kurtas,leggings,jacket
+21,22,74,6.212790741042873,sunny,afternoon,fall,work,tops,trousers,jacket
+21,22,35,12.78003576421611,foggy,evening,fall,casual,kurtas,trousers,jacket
+18,18,75,14.622506515813061,foggy,morning,fall,work,shirts,jeans,jacket
+23,22,89,14.60530582064026,foggy,morning,fall,work,kurtas,jeans,jacket
+23,21,78,12.265555413163186,cloudy,night,fall,party,kurtas,trousers,jacket
+18,20,56,5.689497831255795,cloudy,evening,fall,casual,shirts,trousers,jacket
+21,22,54,5.889353785157375,clear,night,fall,casual,tops,jeans,jacket
+20,20,43,10.69798671766062,cloudy,evening,fall,party,shirts,jeans,jacket
+16,17,39,12.954880359360041,clear,evening,fall,work,shirts,trousers,jacket
+18,19,65,7.838934779360713,cloudy,evening,fall,work,tops,capris,jacket
+16,16,70,10.880869799288414,cloudy,morning,fall,casual,shirts,trousers,jacket
+20,18,82,9.123278745458697,sunny,afternoon,fall,work,kurtas,leggings,jacket
+17,18,70,10.596334080426793,cloudy,night,fall,party,kurtas,trousers,jacket
+17,18,71,9.325733600021877,foggy,morning,fall,party,shirts,leggings,jacket
+19,20,88,7.1004472346682,cloudy,morning,fall,party,shirts,leggings,jacket
+15,14,79,11.0686260383258,clear,morning,fall,work,shirts,trousers,jacket
+23,24,72,1.6056476908181392,cloudy,afternoon,fall,casual,shirts,capris,jacket
+18,17,41,12.260145518989557,clear,afternoon,fall,casual,shirts,jeans,jacket
+24,25,53,12.442127391854807,clear,afternoon,fall,party,kurtas,trousers,jacket
+21,19,79,13.642273448327689,clear,night,fall,work,shirts,jeans,jacket
+17,18,51,14.182858403568263,cloudy,morning,fall,party,shirts,trousers,jacket
+24,24,73,10.887234066856767,sunny,evening,fall,casual,tops,capris,jacket
+16,15,60,7.526833953992818,foggy,evening,fall,work,shirts,trousers,jacket
+17,18,61,4.624077759225019,foggy,night,fall,party,shirts,jeans,jacket
+22,24,82,14.225100542789015,cloudy,afternoon,fall,party,shirts,jeans,jacket
+23,23,87,2.468004875555728,foggy,morning,fall,party,shirts,capris,jacket
+24,23,65,14.692181566077885,sunny,evening,fall,party,shirts,jeans,jacket
+18,20,50,8.403060247376787,clear,evening,fall,work,kurtas,leggings,jacket
+20,19,62,11.580226211677372,cloudy,afternoon,fall,work,shirts,leggings,jacket
+24,24,75,4.184913232126149,foggy,afternoon,fall,casual,tops,trousers,jacket
+21,19,57,13.026724469529723,foggy,afternoon,fall,casual,kurtas,trousers,jacket
+24,24,48,8.693407980875953,foggy,morning,fall,work,kurtas,trousers,jacket
+17,16,85,12.50865485711292,foggy,morning,fall,work,kurtas,trousers,jacket
+15,16,80,8.180482643551365,clear,night,fall,casual,shirts,jeans,jacket
+16,15,79,13.918823596460598,cloudy,morning,fall,party,kurtas,capris,jacket
+21,22,41,13.976553254641738,sunny,morning,fall,casual,tops,trousers,jacket
+20,18,81,12.76213561456265,clear,night,fall,work,shirts,trousers,jacket
+22,23,41,2.039256844085946,sunny,afternoon,fall,casual,kurtas,leggings,jacket
+16,17,88,11.29739042452085,foggy,afternoon,fall,casual,shirts,jeans,jacket
+15,14,47,2.7164727195466796,cloudy,night,fall,casual,shirts,trousers,jacket
+16,16,84,9.747578267490162,cloudy,evening,fall,work,shirts,trousers,jacket
+24,25,84,10.486250477045937,foggy,afternoon,fall,casual,shirts,trousers,jacket
+21,22,75,9.778372812548435,clear,evening,fall,casual,tops,leggings,jacket
+24,25,48,10.907285949129514,cloudy,afternoon,fall,work,kurtas,jeans,jacket
+21,20,37,13.83539473913045,clear,night,fall,casual,shirts,jeans,jacket
+17,18,80,2.6637606380386294,foggy,morning,fall,work,tops,jeans,jacket
+21,21,54,4.3500559432688775,cloudy,morning,fall,work,shirts,leggings,jacket
+23,22,56,3.558131434356004,clear,morning,fall,casual,shirts,trousers,jacket
+16,17,72,14.564737489715105,cloudy,afternoon,fall,work,tops,jeans,jacket
+15,13,68,12.931998697449972,foggy,afternoon,fall,party,kurtas,trousers,jacket
+23,25,48,14.182847808091873,cloudy,night,fall,party,shirts,capris,jacket
+20,21,45,1.2297605591939778,cloudy,morning,fall,casual,tops,trousers,jacket
+22,23,35,5.335468691886897,foggy,evening,fall,party,tops,capris,jacket
+16,17,78,10.162569749942282,cloudy,morning,fall,party,shirts,leggings,jacket
+21,19,56,5.459313497818753,foggy,afternoon,fall,party,tops,trousers,jacket
+16,16,62,7.546175279920634,cloudy,evening,fall,casual,shirts,trousers,jacket
+21,20,37,5.071820748998846,clear,evening,fall,casual,kurtas,capris,jacket
+18,20,65,7.07966357034288,sunny,afternoon,fall,casual,shirts,leggings,jacket
+23,22,48,5.3913330515094815,cloudy,night,fall,work,kurtas,trousers,jacket
+20,22,41,3.4007178824578377,foggy,evening,fall,casual,kurtas,jeans,jacket
+15,16,53,12.634649372139668,clear,afternoon,fall,casual,kurtas,leggings,jacket
+21,22,42,1.7165645171135115,clear,night,fall,work,kurtas,jeans,jacket
+15,13,46,8.9350532071793,cloudy,morning,fall,work,kurtas,jeans,jacket
+15,15,73,5.312626918044324,cloudy,night,fall,party,shirts,jeans,jacket
+16,14,51,12.42087610511438,foggy,evening,fall,work,shirts,trousers,jacket
+20,20,37,9.577417428386413,foggy,morning,fall,party,kurtas,leggings,jacket
+22,24,48,11.685959611757498,sunny,afternoon,fall,party,tops,trousers,jacket
+16,15,67,1.1946215535888582,clear,night,fall,party,kurtas,capris,jacket
+20,19,69,8.949223402576788,cloudy,night,fall,party,shirts,trousers,jacket
+23,24,86,1.1735311253284217,foggy,morning,fall,party,shirts,jeans,jacket
+23,25,56,9.792550962809685,clear,evening,fall,party,shirts,jeans,jacket
+20,20,68,2.8230969289111334,sunny,evening,fall,work,kurtas,capris,jacket
+22,20,46,12.424261602217255,cloudy,evening,fall,casual,kurtas,trousers,jacket
+17,16,61,7.8309573187026436,sunny,morning,fall,work,tops,trousers,jacket
+24,26,42,1.2090937069021217,clear,afternoon,fall,casual,tops,jeans,jacket
+17,18,86,12.845127581393045,foggy,morning,fall,casual,kurtas,trousers,jacket
+15,15,53,11.058847745688103,clear,morning,fall,casual,shirts,trousers,jacket
+21,21,51,3.4163432014822046,cloudy,morning,fall,party,kurtas,trousers,jacket
+18,19,41,6.809922348755322,foggy,afternoon,fall,work,kurtas,jeans,jacket
+16,14,40,9.109612165403172,foggy,evening,fall,casual,shirts,jeans,jacket
+20,20,58,10.968695843333059,cloudy,afternoon,fall,work,tops,jeans,jacket
+15,16,47,1.3123991524103142,cloudy,evening,fall,casual,kurtas,jeans,jacket
+21,23,68,6.200741635416854,foggy,night,fall,casual,kurtas,capris,jacket
+18,19,68,7.66596583962205,sunny,afternoon,fall,party,kurtas,trousers,jacket
+15,17,45,14.782344048932666,clear,morning,fall,casual,kurtas,trousers,jacket
+22,21,67,4.708246183810321,cloudy,afternoon,fall,casual,kurtas,trousers,jacket
+17,15,35,13.42433331810641,clear,evening,fall,casual,kurtas,jeans,jacket
+22,22,79,10.086262537682822,sunny,evening,fall,work,tops,capris,jacket
+20,18,86,10.949315762424304,clear,night,fall,party,tops,trousers,jacket
+20,22,63,13.133572938953659,clear,morning,fall,casual,kurtas,leggings,jacket
+19,20,73,12.385414273506674,cloudy,morning,fall,casual,tops,trousers,jacket
+23,22,46,14.853550894355294,cloudy,evening,fall,party,tops,jeans,jacket
+23,24,48,4.514344749599941,cloudy,evening,fall,casual,tops,trousers,jacket
+22,23,72,6.983665163861202,foggy,morning,fall,work,shirts,jeans,jacket
+21,19,63,7.329358376459101,foggy,afternoon,fall,casual,tops,jeans,jacket
+16,18,50,5.929798848215351,cloudy,night,fall,work,shirts,jeans,jacket
+22,20,43,11.647907861176853,sunny,night,fall,party,shirts,trousers,jacket
+16,16,40,13.617821265879584,cloudy,morning,fall,party,kurtas,trousers,jacket
+24,23,57,9.335230526680283,clear,afternoon,fall,party,tops,jeans,jacket
+21,22,43,2.5128217216908206,clear,night,fall,party,shirts,trousers,jacket
+22,24,46,13.915833756080577,foggy,evening,fall,casual,tops,jeans,jacket
+21,22,68,4.719566274666624,cloudy,night,fall,party,kurtas,trousers,jacket
+16,14,63,4.482860546061687,clear,evening,fall,casual,shirts,trousers,jacket
+19,18,74,5.018130253094144,cloudy,morning,fall,party,tops,leggings,jacket
+22,21,36,11.991385886080867,sunny,morning,fall,casual,kurtas,trousers,jacket
+22,20,85,5.74819350545983,sunny,evening,fall,party,tops,jeans,jacket
+18,19,82,6.91521005226639,clear,morning,fall,work,shirts,trousers,jacket
+20,22,76,7.026657587351136,clear,morning,fall,party,shirts,trousers,jacket
+20,20,35,1.3455666130502426,cloudy,evening,fall,casual,tops,trousers,jacket
+23,21,73,6.538221983631595,cloudy,night,fall,work,shirts,jeans,jacket
+24,22,59,4.012424503444063,sunny,evening,fall,casual,shirts,trousers,jacket
+23,21,63,5.600056510090376,sunny,evening,fall,work,kurtas,capris,jacket
+23,22,58,6.588823517380064,cloudy,night,fall,party,tops,leggings,jacket
+24,26,73,7.598751859804513,foggy,afternoon,fall,work,shirts,jeans,jacket
+17,17,52,12.861323370731776,sunny,night,fall,party,tops,jeans,jacket
+20,22,82,6.924440903941299,cloudy,night,fall,work,shirts,trousers,jacket
+22,20,53,4.601327643966882,sunny,morning,fall,party,shirts,jeans,jacket
+22,24,76,5.486632594755008,cloudy,evening,fall,work,kurtas,jeans,jacket
+22,22,63,13.231299434085045,sunny,night,fall,party,kurtas,trousers,jacket
+15,13,35,3.0071555578050364,sunny,night,fall,casual,tops,trousers,jacket
+17,15,46,9.413986473914042,cloudy,evening,fall,work,kurtas,leggings,jacket
+21,23,54,9.910985980467704,sunny,night,fall,party,shirts,trousers,jacket
+16,17,61,13.771582007733917,clear,morning,fall,casual,kurtas,trousers,jacket
+24,26,45,1.636722058143622,cloudy,evening,fall,party,shirts,jeans,jacket
+23,21,46,10.464618029691234,cloudy,afternoon,fall,work,kurtas,jeans,jacket
+17,18,47,5.990147506399865,sunny,morning,fall,party,shirts,jeans,jacket
+19,21,79,3.8505962884838287,clear,morning,fall,party,kurtas,trousers,jacket
+21,19,37,9.097957604643081,cloudy,night,fall,casual,kurtas,jeans,jacket
+20,18,45,8.14227368452637,foggy,evening,fall,work,kurtas,leggings,jacket
+24,24,60,3.5152713499513775,foggy,afternoon,fall,work,tops,leggings,jacket
+22,23,75,6.896197697086438,clear,evening,fall,party,shirts,trousers,jacket
+15,13,51,9.043944479545017,cloudy,evening,fall,party,kurtas,jeans,jacket
+18,17,88,3.331418102891723,foggy,evening,fall,party,kurtas,jeans,jacket
+23,21,89,7.027319313636751,sunny,evening,fall,party,shirts,jeans,jacket
+16,15,55,11.452665488671114,foggy,evening,fall,work,tops,trousers,jacket
+22,21,68,10.473960884385143,sunny,evening,fall,casual,shirts,leggings,jacket
+15,16,42,7.36829054124603,foggy,morning,fall,casual,kurtas,leggings,jacket
+24,25,81,12.763075787338389,sunny,morning,fall,casual,shirts,trousers,jacket
+24,25,53,9.174084110994498,cloudy,afternoon,fall,casual,tops,capris,jacket
+22,24,42,11.435080511972775,foggy,afternoon,fall,party,shirts,jeans,jacket
+17,18,63,10.57646345203161,clear,night,fall,work,shirts,trousers,jacket
+23,21,81,7.8805243187380185,clear,evening,fall,party,kurtas,jeans,jacket
+18,20,56,9.635370314967192,clear,evening,fall,casual,shirts,trousers,jacket
+17,18,73,12.769382946220642,foggy,night,fall,work,tops,trousers,jacket
+23,21,79,5.270237522821804,clear,morning,fall,party,shirts,jeans,jacket
+23,21,59,5.120375803288104,clear,evening,fall,work,kurtas,leggings,jacket
+19,18,81,9.148131783292905,clear,night,fall,work,shirts,jeans,jacket
+16,18,55,1.6985952853808737,sunny,night,fall,casual,tops,trousers,jacket
+16,16,48,3.730133486015016,sunny,evening,fall,casual,shirts,leggings,jacket
+18,18,66,13.88601396626798,sunny,afternoon,fall,work,shirts,capris,jacket
+16,15,89,9.521461792531813,clear,night,fall,party,shirts,leggings,jacket
+21,22,76,2.5703279813762068,clear,morning,fall,party,shirts,trousers,jacket
+16,14,54,10.848656540859094,clear,afternoon,fall,casual,kurtas,trousers,jacket
+17,15,53,11.27606264026031,clear,night,fall,work,kurtas,trousers,jacket
+23,22,72,12.125478811156345,sunny,night,fall,work,tops,trousers,jacket
+15,16,86,13.525624973468364,foggy,evening,fall,party,tops,leggings,jacket
+22,23,79,10.878748827341306,cloudy,night,fall,casual,tops,jeans,jacket
+24,24,72,10.821212824482622,cloudy,night,fall,party,tops,trousers,jacket
+21,20,73,3.564451321430013,foggy,evening,fall,party,kurtas,jeans,jacket
+20,18,36,14.013601415963887,cloudy,afternoon,fall,casual,shirts,jeans,jacket
+15,16,54,7.458746190323258,cloudy,afternoon,fall,work,kurtas,leggings,jacket
+16,16,61,12.220865730629102,sunny,morning,fall,work,kurtas,jeans,jacket
+15,14,44,3.43304829715074,sunny,morning,fall,work,shirts,jeans,jacket
+24,24,81,12.426350246251959,clear,night,fall,work,shirts,jeans,jacket
+16,16,57,11.666359496382182,cloudy,evening,fall,casual,shirts,jeans,jacket
+24,25,73,7.043929576269953,sunny,afternoon,fall,party,kurtas,jeans,jacket
+19,17,60,1.9170258847847004,foggy,morning,fall,casual,kurtas,trousers,jacket
+20,18,40,1.516000317527107,clear,afternoon,fall,party,shirts,trousers,jacket
+18,16,64,9.72176195733965,clear,night,fall,casual,kurtas,trousers,jacket
+19,19,52,7.7888031270575215,cloudy,morning,fall,party,tops,jeans,jacket
+17,17,64,13.396869572220861,cloudy,night,fall,work,kurtas,trousers,jacket
+23,21,63,4.426229002244338,foggy,afternoon,fall,party,tops,jeans,jacket
+20,20,60,12.553855645261743,foggy,evening,fall,casual,tops,jeans,jacket
+22,21,56,1.8692717469498839,cloudy,night,fall,party,kurtas,trousers,jacket
+19,18,66,10.20241823215458,sunny,evening,fall,casual,tops,trousers,jacket
+23,24,81,1.913794579924288,clear,morning,fall,work,tops,trousers,jacket
+17,16,76,10.556369166551157,sunny,evening,fall,party,shirts,trousers,jacket
+17,19,60,12.419846037190585,foggy,afternoon,fall,casual,shirts,jeans,jacket
+15,17,89,12.711565043070651,foggy,morning,fall,casual,shirts,jeans,jacket
+18,20,66,10.638251213838252,sunny,night,fall,casual,kurtas,trousers,jacket
+18,18,50,9.356435342001841,sunny,evening,fall,party,shirts,jeans,jacket
+17,17,64,13.505929500432302,cloudy,evening,fall,party,kurtas,jeans,jacket
+20,20,88,7.569744698157479,clear,night,fall,party,tops,jeans,jacket
+16,17,53,11.403061521151749,sunny,afternoon,fall,casual,shirts,trousers,jacket
+16,16,63,10.730697338761502,clear,morning,fall,work,tops,trousers,jacket
+24,23,65,1.5943870025279854,sunny,afternoon,fall,work,kurtas,trousers,jacket
+20,22,72,13.297453547773296,foggy,morning,fall,casual,shirts,jeans,jacket
+15,17,76,2.99484504376138,foggy,morning,fall,casual,shirts,trousers,jacket
+24,23,36,2.8582235198956605,sunny,evening,fall,casual,shirts,capris,jacket
+16,18,68,11.465234452815272,foggy,morning,fall,casual,tops,trousers,jacket
+21,23,50,13.057980635559009,foggy,night,fall,casual,shirts,trousers,jacket
+22,21,81,4.6090573571618965,sunny,morning,fall,party,tops,trousers,jacket
+20,21,77,7.909998862228257,cloudy,afternoon,fall,party,tops,trousers,jacket
+19,17,70,14.419256610083995,clear,night,fall,casual,kurtas,capris,jacket
+24,24,59,13.855768633649443,cloudy,morning,fall,party,kurtas,leggings,jacket
+22,20,52,14.503433666611933,foggy,night,fall,party,shirts,trousers,jacket
+23,25,69,9.442646504139706,cloudy,morning,fall,work,shirts,jeans,jacket
+15,14,76,4.08904864262195,sunny,afternoon,fall,work,shirts,trousers,jacket
+22,24,60,5.619380524466326,clear,evening,fall,casual,shirts,leggings,jacket
+21,20,74,10.920601134351815,cloudy,evening,fall,work,kurtas,trousers,jacket
+16,14,37,8.684990867988608,sunny,morning,fall,casual,kurtas,trousers,jacket
+15,14,42,4.494592569323477,cloudy,evening,fall,party,shirts,jeans,jacket
+17,17,51,5.706392668860029,cloudy,morning,fall,casual,kurtas,trousers,jacket
+23,24,40,7.825614737784749,cloudy,afternoon,fall,casual,tops,jeans,jacket
+18,19,39,11.709963323401642,foggy,afternoon,fall,casual,tops,jeans,jacket
+21,22,54,10.769525276024149,foggy,evening,fall,work,kurtas,jeans,jacket
+17,17,83,10.441093139750702,cloudy,afternoon,fall,casual,kurtas,trousers,jacket
+19,18,87,9.409792331577854,sunny,night,fall,work,shirts,trousers,jacket
+17,16,39,12.450013831238222,sunny,evening,fall,casual,shirts,capris,jacket
+19,17,77,7.205930907287545,cloudy,evening,fall,work,shirts,trousers,jacket
+24,24,36,8.279311101509853,sunny,night,fall,casual,shirts,trousers,jacket
+15,13,60,9.452248861222854,foggy,night,fall,party,shirts,jeans,jacket
+18,19,56,11.266091653077432,cloudy,morning,fall,party,shirts,leggings,jacket
+16,14,89,11.525329302541945,sunny,afternoon,fall,party,shirts,jeans,jacket
+23,23,83,7.236277097388246,foggy,evening,fall,work,tops,trousers,jacket
+16,16,37,5.466358844220253,foggy,evening,fall,casual,shirts,trousers,jacket
+19,18,52,9.503117712857689,sunny,afternoon,fall,casual,tops,jeans,jacket
+15,16,83,8.097626918288091,clear,afternoon,fall,casual,shirts,leggings,jacket
+24,22,52,4.752770117745331,foggy,night,fall,casual,shirts,jeans,jacket
+15,17,50,11.64230108925751,cloudy,night,fall,casual,shirts,trousers,jacket
+20,21,48,6.903446594935152,clear,morning,fall,work,tops,trousers,jacket
+24,26,86,7.755248421457442,foggy,evening,fall,party,shirts,trousers,jacket
+19,17,89,3.8473473209863567,sunny,afternoon,fall,party,kurtas,leggings,jacket
+19,19,81,5.026920626881289,cloudy,morning,fall,work,shirts,trousers,jacket
+21,22,76,8.431601307814535,foggy,evening,fall,casual,shirts,trousers,jacket
+17,17,84,9.907770539195178,cloudy,evening,fall,party,shirts,jeans,jacket
+17,19,39,3.3257949794910795,foggy,afternoon,fall,work,tops,trousers,jacket
+15,13,70,8.748584013860778,foggy,evening,fall,work,kurtas,trousers,jacket
+20,22,84,1.3203732588535573,foggy,night,fall,casual,kurtas,jeans,jacket
+19,17,54,6.922978526785333,foggy,afternoon,fall,work,kurtas,jeans,jacket
+15,13,66,12.668162704897549,foggy,evening,fall,work,kurtas,jeans,jacket
+22,23,49,14.449723907548105,sunny,afternoon,fall,work,kurtas,trousers,jacket
+21,20,56,2.816006348663188,sunny,afternoon,fall,party,kurtas,trousers,jacket
+23,22,52,3.7655305017030707,sunny,evening,fall,party,kurtas,trousers,jacket
+15,15,63,1.6885982965269515,clear,afternoon,fall,party,kurtas,trousers,jacket
+21,23,85,10.99559772079822,sunny,afternoon,fall,casual,shirts,leggings,jacket
+21,20,69,7.057147119102299,sunny,evening,fall,party,shirts,jeans,jacket
+18,17,85,9.778923836832996,clear,afternoon,fall,work,kurtas,leggings,jacket
+19,17,84,6.456744518693608,clear,morning,fall,casual,shirts,jeans,jacket
+22,22,42,7.150023937048915,clear,night,fall,party,kurtas,jeans,jacket
+15,16,69,5.230530682599779,cloudy,afternoon,fall,casual,kurtas,trousers,jacket
+15,14,79,10.173321636321635,foggy,morning,fall,party,shirts,leggings,jacket
+20,22,48,4.433839410859381,cloudy,evening,fall,work,shirts,jeans,jacket
+19,17,47,12.586163255130606,clear,morning,fall,party,tops,jeans,jacket
+24,24,68,12.442351623620086,sunny,morning,fall,casual,tops,trousers,jacket
+15,14,57,6.103243167816041,clear,morning,fall,work,shirts,capris,jacket
+16,18,83,14.735662829860836,sunny,morning,fall,party,shirts,leggings,jacket
+19,21,57,13.72509551499647,sunny,morning,fall,casual,tops,jeans,jacket
+16,16,85,10.971839824777748,sunny,morning,fall,party,shirts,trousers,jacket
+19,20,76,8.43693812998202,foggy,night,fall,casual,shirts,trousers,jacket
+17,18,43,13.513513685645847,sunny,afternoon,fall,work,tops,jeans,jacket
+24,22,45,7.656079127259097,clear,morning,fall,casual,tops,trousers,jacket
+24,22,74,14.987315411588334,clear,morning,fall,work,kurtas,jeans,jacket
+23,25,82,14.393617394744581,foggy,afternoon,fall,party,kurtas,trousers,jacket
+16,18,54,8.384447324930235,sunny,evening,fall,work,kurtas,jeans,jacket
+20,22,61,8.941092528959038,sunny,afternoon,fall,work,shirts,trousers,jacket
+20,20,41,3.578549040402558,cloudy,evening,fall,casual,shirts,trousers,jacket
+19,19,75,1.6227771428420426,foggy,night,fall,work,kurtas,trousers,jacket
+21,19,43,13.0607185816145,sunny,evening,fall,casual,tops,trousers,jacket
+16,17,42,9.754922591772493,foggy,morning,fall,casual,tops,capris,jacket
+24,25,65,5.418232726860264,cloudy,night,fall,casual,shirts,trousers,jacket
+18,17,45,8.701898976148662,cloudy,evening,fall,casual,kurtas,jeans,jacket
+21,22,71,12.05635571359342,clear,afternoon,fall,party,tops,trousers,jacket
+16,15,85,2.1686977809516232,clear,evening,fall,work,tops,jeans,jacket
+23,22,57,3.7007098640289917,sunny,afternoon,fall,work,tops,jeans,jacket
+15,13,83,14.356939248789294,foggy,evening,fall,casual,tops,trousers,jacket
+19,18,75,8.900540077461674,foggy,night,fall,party,kurtas,trousers,jacket
+17,15,86,8.120795218916395,cloudy,night,fall,party,kurtas,jeans,jacket
+16,17,41,11.425083831750174,sunny,night,fall,work,shirts,jeans,jacket
+24,24,83,2.6036743777558193,sunny,evening,fall,casual,shirts,trousers,jacket
+22,23,35,13.703176442020453,foggy,evening,fall,work,tops,jeans,jacket
+23,24,82,3.2060520438584117,cloudy,evening,fall,casual,tops,jeans,jacket
+21,23,46,14.270022186304779,foggy,afternoon,fall,work,kurtas,trousers,jacket
+16,14,50,9.33754213919434,cloudy,afternoon,fall,party,shirts,jeans,jacket
+21,23,45,14.664823680985656,clear,afternoon,fall,party,kurtas,trousers,jacket
+23,22,79,12.226186081155344,foggy,night,fall,party,kurtas,trousers,jacket
+21,19,36,11.104367922773926,cloudy,afternoon,fall,casual,kurtas,trousers,jacket
+18,17,65,12.240264033155292,foggy,morning,fall,work,shirts,jeans,jacket
+19,19,68,3.6368179813203065,foggy,morning,fall,casual,shirts,leggings,jacket
+19,17,48,13.792726428978657,clear,night,fall,work,kurtas,trousers,jacket
+15,13,59,14.186497902489588,cloudy,night,fall,party,tops,jeans,jacket
+16,18,57,10.421677897972817,clear,morning,fall,work,shirts,trousers,jacket
+22,21,79,10.195845776329985,clear,evening,fall,casual,shirts,trousers,jacket
+21,19,60,13.412918074795984,clear,evening,fall,work,shirts,trousers,jacket
+20,21,71,10.385740171432104,clear,afternoon,fall,party,tops,jeans,jacket
+23,25,75,14.765243811999298,clear,morning,fall,work,shirts,jeans,jacket
+15,15,69,12.144610121035848,sunny,morning,fall,casual,tops,trousers,jacket
+23,24,87,2.848759509837019,cloudy,morning,fall,casual,tops,jeans,jacket
+15,14,58,8.017814108192407,cloudy,night,fall,work,kurtas,trousers,jacket
+18,17,41,5.459184123549578,sunny,afternoon,fall,casual,shirts,jeans,jacket
+23,23,73,13.239178584394994,clear,afternoon,fall,casual,shirts,jeans,jacket
+23,21,37,13.256659013773294,sunny,evening,fall,work,tops,leggings,jacket
+20,18,51,2.47906800505518,cloudy,evening,fall,party,kurtas,trousers,jacket
+20,22,87,2.6060292049488707,cloudy,afternoon,fall,party,shirts,leggings,jacket
+18,20,43,2.456902477184667,sunny,night,fall,party,kurtas,jeans,jacket
+21,21,60,1.1204221339521734,cloudy,evening,fall,casual,shirts,jeans,jacket
+20,21,53,13.323759059175709,cloudy,morning,fall,party,tops,trousers,jacket
+20,22,88,14.600516881940246,cloudy,morning,fall,work,kurtas,trousers,jacket
+21,20,50,14.596257054873432,cloudy,afternoon,fall,party,shirts,leggings,jacket
+15,15,76,6.153256606780636,clear,night,fall,party,kurtas,trousers,jacket
+23,22,39,12.926572763181404,cloudy,morning,fall,casual,shirts,jeans,jacket

@@ -1,0 +1,47 @@
+@"
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Streamlit secrets
+.streamlit/
+secrets.toml
+
+# Data & caches
+data/
+*.db
+*.sqlite
+
+# Models & checkpoints
+*.pkl
+*.pt
+*.bin
+*.onnx
+*.joblib
+blip_finetunedggdata/
+
+# Local image closets (keep local)
+clothing_images/
+clothing_images_men/
+coat/
+cotton pants/
+hoodie/
+jackets/
+jeans/
+kurta/
+pants/
+shirt/
+shorts/
+sweater/
+t-shirt/
+trousers/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+"@ | Out-File -Encoding UTF8 .gitignore

@@ -1,0 +1,12 @@
+@"
+* text=auto
+*.ipynb -text
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.webp binary
+*.pkl  binary
+*.pt   binary
+*.onnx binary
+*.joblib binary
+"@ | Out-File -Encoding UTF8 .gitattributes
